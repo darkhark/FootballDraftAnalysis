@@ -5,14 +5,13 @@ import requests
 from bs4 import BeautifulSoup
 
 # --Our code--
-from generators.ProFootballReferenceURLGenerator import ProFootballReferenceURLGenerator as pfrGenerator
 from nodes.Player import Player
 from nodes.College import College
 from nodes.NFLTeam import NFLTeam
 
 
 class NFLPlayerScraper:
-    _playerList = []
+    playerList = []
 
     def __init__(self, urlList):
         self.urlList = urlList
@@ -49,5 +48,5 @@ class NFLPlayerScraper:
                 i += 1
             if college is not None and nflTeam is not None:
                 player = Player(playerData, college.uniqueID, nflTeam.uniqueID)
-                self._playerList.append(player)
+                self.playerList.append(player)
 
