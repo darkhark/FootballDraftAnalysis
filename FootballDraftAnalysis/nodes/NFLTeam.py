@@ -1,4 +1,4 @@
-class NFLTeam:
+class NFLTeam(object):
     uniqueIDNumber = 0
     teamCache = []
 
@@ -6,6 +6,13 @@ class NFLTeam:
     def __getCachedTeam(cls, name):
         for team in NFLTeam.teamCache:
             if team.name == name:
+                return team
+        return None
+
+    @staticmethod
+    def getCachedTeam(teamID):
+        for team in NFLTeam.teamCache:
+            if team.uniqueID == teamID:
                 return team
         return None
 
