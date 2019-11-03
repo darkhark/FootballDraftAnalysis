@@ -6,16 +6,29 @@ from generators.ProFootballReferenceURLGenerator import ProFootballReferenceURLG
 class DraftDataObtainer:
 
     @staticmethod
-    def obtain():
+    def obtainAllPlayers():
         print("Gathering URLs")
         urlList = ProFootballReferenceURLGenerator.createURLList()
-        print("Scraping data from each URLs' HTML")
+        print("Scraping data from each URL's HTML")
         scraper = NFLPlayerScraper(urlList)
         scraper.scrape()
         print("Printing data to CSVs")
-        CSVPrinter.printEdgesCSVAndLabelsCSV(scraper.playerList, "../../printedCSVs/edgesCSV.csv",
-                                             "../../printedCSVs/labelsCSV.csv")
+        CSVPrinter.printAllEdgesCSVAndLabelsCSV(scraper.playerList, "../../printedCSVs/edgesCSV.csv",
+                                                "../../printedCSVs/labelsCSV.csv")
+        print("All done :)")
+
+    @staticmethod
+    def obtainAwardedPlayers():
+        print("Gathering URLs")
+        urlList = ProFootballReferenceURLGenerator.createURLList()
+        print("Scraping data from each URL's HTML")
+        scraper = NFLPlayerScraper(urlList)
+        scraper.scrape()
+        print("Printing data to CSVs")
+        CSVPrinter.printAwardedEdgesCSVAndLabelsCSV(scraper.playerList, "../../printedCSVs/awardedEdgesCSV.csv",
+                                                    "../../printedCSVs/awardedLabelsCSV.csv")
         print("All done :)")
 
 
-DraftDataObtainer.obtain()
+DraftDataObtainer.obtainAllPlayers()
+DraftDataObtainer.obtainAwardedPlayers()

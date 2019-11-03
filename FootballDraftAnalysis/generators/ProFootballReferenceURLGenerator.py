@@ -9,6 +9,9 @@ from bs4 import BeautifulSoup
 class ProFootballReferenceURLGenerator:
 
     # This function will create a list of all 134 pages of player tables
+    def __init__(self):
+        pass
+
     @staticmethod
     def createURLList():
         fullURLList = []

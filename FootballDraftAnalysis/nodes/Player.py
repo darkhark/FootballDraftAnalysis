@@ -21,3 +21,6 @@ class Player:
         # every object will have an ID of PL0.
         Player.uniqueIDNumber += 1
 
+    def getCharacteristicsOfPlayerAsList(self):
+        return [self.allPros, self.proBowls, self.draftAge, self.roundSelected, self.pickInRound, self.position]
+
