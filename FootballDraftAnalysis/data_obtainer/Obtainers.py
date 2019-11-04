@@ -4,60 +4,78 @@ from generators.ProFootballReferenceURLGenerator import ProFootballReferenceURLG
 
 
 class DraftDataObtainer:
+    urlList = []
+    scraper = None
+    baseCSVDirectory = "../../printedCSVs/"
+    finishedMessage = "----------All done :)------------"
+    gatherURL = "Gathering URLs"
+    scraping = "Scraping data from each URL's HTML"
 
     @staticmethod
     def obtainAllPlayers():
-        print("Gathering URLs")
-        urlList = ProFootballReferenceURLGenerator.createURLList()
-        scraper = NFLPlayerScraper(urlList)
-        if len(scraper.playerList) == 0:
-            print("Scraping data from each URL's HTML")
-            scraper.scrape()
-        print("Printing data to CSVs")
-        CSVPrinter.printAllEdgesCSVAndLabelsCSV(scraper.playerList, "../../printedCSVs/edgesCSV.csv",
-                                                "../../printedCSVs/labelsCSV.csv")
-        print("All done :)")
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing All Player Data to CSVs.")
+        CSVPrinter.printAllEdgesCSVAndLabelsCSV(DraftDataObtainer.scraper.playerList,
+                                                DraftDataObtainer.baseCSVDirectory + "edgesCSV.csv",
+                                                DraftDataObtainer.baseCSVDirectory + "labelsCSV.csv")
+        print(DraftDataObtainer.finishedMessage)
 
     @staticmethod
     def obtainAwardedPlayers():
-        print("Gathering URLs")
-        urlList = ProFootballReferenceURLGenerator.createURLList()
-        scraper = NFLPlayerScraper(urlList)
-        if len(scraper.playerList) == 0:
-            print("Scraping data from each URL's HTML")
-            scraper.scrape()
-        print("Printing data to CSVs")
-        CSVPrinter.printAwardedEdgesCSVAndLabelsCSV(scraper.playerList, "../../printedCSVs/awardedEdgesCSV.csv",
-                                                    "../../printedCSVs/awardedLabelsCSV.csv")
-        print("All done :)")
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing All Awarded Players' Data to CSVs.")
+        CSVPrinter.printAwardedEdgesCSVAndLabelsCSV(DraftDataObtainer.scraper.playerList,
+                                                    DraftDataObtainer.baseCSVDirectory + "awardedEdgesCSV.csv",
+                                                    DraftDataObtainer.baseCSVDirectory + "awardedLabelsCSV.csv")
+        print(DraftDataObtainer.finishedMessage)
 
     @staticmethod
     def obtainRoundsRange(minimum, maximum):
-        print("Gathering URLs")
-        urlList = ProFootballReferenceURLGenerator.createURLList()
-        scraper = NFLPlayerScraper(urlList)
-        if len(scraper.playerList) == 0:
-            print("Scraping data from each URL's HTML")
-            scraper.scrape()
-        print("Printing data to CSVs")
-        edgesCSVName = "../../printedCSVs/rounds" + str(minimum) + "To" + str(maximum) + "EdgesCSV.csv"
-        labelsCSV = "../../printedCSVs/rounds" + str(minimum) + "To" + str(maximum) + "LabelsCSV.csv"
-        CSVPrinter.printRoundRangeEdgesAndLabelsCSVs(scraper.playerList, edgesCSVName, labelsCSV, minimum, maximum)
-        print("All done :)")
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing Rounds " + str(minimum) + "-" + str(maximum) + " Player Data to CSVs.")
+        edgesCSV = DraftDataObtainer.baseCSVDirectory + "rounds" + str(minimum) + "To" + str(maximum) + "EdgesCSV.csv"
+        labelsCSV = DraftDataObtainer.baseCSVDirectory + "rounds" + str(minimum) + "To" + str(maximum) + "LabelsCSV.csv"
+        CSVPrinter.printRoundRangeEdgesAndLabelsCSVs(DraftDataObtainer.scraper.playerList, edgesCSV,
+                                                     labelsCSV, minimum, maximum)
+        print(DraftDataObtainer.finishedMessage)
 
     @staticmethod
     def obtainPosition(position):
-        print("Gathering URLs")
-        urlList = ProFootballReferenceURLGenerator.createURLList()
-        scraper = NFLPlayerScraper(urlList)
-        if len(scraper.playerList) == 0:
-            print("Scraping data from each URL's HTML")
-            scraper.scrape()
-        print("Printing data to CSVs")
-        edgesCSVName = "../../printedCSVs/position" + position + "EdgesCSV.csv"
-        labelsCSV = "../../printedCSVs/position" + position + "LabelsCSV.csv"
-        CSVPrinter.printPositionEdgesAndLabelsCSVs(scraper.playerList, edgesCSVName, labelsCSV, position)
-        print("All done :)")
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing " + position + " Player Data to CSVs.")
+        edgesCSV = DraftDataObtainer.baseCSVDirectory + "position" + position + "EdgesCSV.csv"
+        labelsCSV = DraftDataObtainer.baseCSVDirectory + "position" + position + "LabelsCSV.csv"
+        CSVPrinter.printPositionEdgesAndLabelsCSVs(DraftDataObtainer.scraper.playerList, edgesCSV,
+                                                   labelsCSV, position)
+        print(DraftDataObtainer.finishedMessage)
 
 
 DraftDataObtainer.obtainAllPlayers()
