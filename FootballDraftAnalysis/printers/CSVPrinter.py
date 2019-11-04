@@ -12,18 +12,18 @@ class CSVPrinter:
     @staticmethod
     def printAllEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
                          "Round Selected", "Pick In Round", "Position"]]
         for player in playersList:
             nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
             edgeCSVRows.append([player.collegeID, player.uniqueID])
             edgeCSVRows.append([player.uniqueID, nflID])
-            labelCSVRows.append([player.uniqueID, player.name, player.allPros, player.proBowls, player.draftAge,
-                                 player.roundSelected, player.pickInRound, player.position])
+            labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+                                 player.draftAge, player.roundSelected, player.pickInRound, player.position])
         for college in College.teamCache:
-            labelCSVRows.append([college.uniqueID, college.name])
+            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, "0"])
         for team in NFLTeam.teamCache:
-            labelCSVRows.append([team.uniqueID, team.name])
+            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, "0"])
         with open(edgeCSVLocation, "w") as edgesCSV:
             writer = csv.writer(edgesCSV)
             writer.writerows(edgeCSVRows)
