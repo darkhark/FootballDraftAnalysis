@@ -1,0 +1,311 @@
+ID,Label,Node Type,All Pros,Pro Bowls,Draft Age,Round Selected,Pick In Round,Position
+PL258,Quenton Nelson,Player,1,1,22,1,6,G
+PL766,Jack Conklin,Player,1,0,22,1,8,T
+PL814,Cody Whitehair,Player,0,1,24,2,56,G
+PL1014,Brandon Scherff,Player,0,2,23,1,5,T
+PL1022,Andrus Peat,Player,0,1,21,1,13,T
+PL1270,Jake Matthews,Player,0,1,22,1,6,T
+PL1275,Taylor Lewan,Player,0,3,23,1,11,T
+PL1280,Zack Martin,Player,3,5,23,1,16,G
+PL1299,Joel Bitonio,Player,0,1,22,2,35,G
+PL1356,Trai Turner,Player,0,4,21,3,92,OL
+PL1510,Charles Leno,Player,0,1,22,7,246,T
+PL1521,Eric Fisher,Player,0,1,22,1,1,T
+PL1524,Lane Johnson,Player,1,2,23,1,4,T
+PL1540,Kyle Long,Player,0,3,24,1,20,G
+PL1551,Travis Frederick,Player,1,4,22,1,31,C
+PL1585,Larry Warford,Player,0,2,22,3,65,G
+PL1595,Terron Armstead,Player,0,1,22,3,75,T
+PL1629,David Bakhtiari,Player,1,1,21,4,109,T
+PL1776,Matt Kalil,Player,0,1,23,1,4,T
+PL1796,David DeCastro,Player,2,4,22,1,24,G
+PL1809,Mitchell Schwartz,Player,1,0,23,2,37,T
+PL1832,Kelechi Osemele,Player,1,2,23,2,60,T
+PL1848,Brandon Brooks,Player,0,2,23,3,76,G
+PL2027,Tyron Smith,Player,2,6,20,1,9,T
+PL2033,Mike Pouncey,Player,0,4,22,1,15,G
+PL2073,Rodney Hudson,Player,0,2,22,2,55,C
+PL2209,Jason Kelce,Player,2,2,23,6,191,C
+PL2275,Trent Williams,Player,0,7,22,1,4,T
+PL2277,Russell Okung,Player,0,2,22,1,6,T
+PL2288,Mike Iupati,Player,1,4,23,1,17,G
+PL2289,Maurkice Pouncey,Player,2,7,21,1,18,C
+PL2316,Zane Beadles,Player,0,1,23,2,45,G
+PL2547,Alex Mack,Player,0,6,23,1,21,C
+PL2554,Eric Wood,Player,0,1,23,1,28,C
+PL2575,Max Unger,Player,1,3,23,2,49,C
+PL2604,Louis Vasquez,Player,1,1,22,3,78,G
+PL2635,T.J. Lang,Player,0,2,21,4,109,T
+PL2783,Jake Long,Player,1,4,23,1,1,T
+PL2794,Ryan Clady,Player,2,4,22,1,12,T
+PL2797,Branden Albert,Player,0,2,23,1,15,G
+PL2808,Duane Brown,Player,1,4,23,1,26,T
+PL2865,Jeremy Zuttah,Player,0,1,22,3,83,G
+PL2917,Josh Sitton,Player,0,4,22,4,135,T
+PL2946,Carl Nicks,Player,1,2,23,5,164,T
+PL3037,Joe Thomas,Player,6,10,22,1,3,T
+PL3062,Joe Staley,Player,0,6,23,1,28,T
+PL3063,Ben Grubbs,Player,0,2,23,1,29,G
+PL3093,Ryan Kalil,Player,2,5,22,2,59,C
+PL3120,Marshal Yanda,Player,2,7,22,3,86,T
+PL3159,Jermon Bushrod,Player,0,2,23,4,125,T
+PL3293,D'Brickashaw Ferguson,Player,0,3,22,1,4,T
+PL3312,Davin Joseph,Player,0,2,22,1,23,G
+PL3318,Nick Mangold,Player,2,7,22,1,29,C
+PL3339,Marcus McNeill,Player,0,2,22,2,50,T
+PL3344,Andrew Whitworth,Player,2,4,24,2,55,T
+PL3397,Jahri Evans,Player,4,6,23,4,108,T
+PL3557,Jammal Brown,Player,1,2,24,1,13,T
+PL3576,Logan Mankins,Player,1,7,23,1,32,G
+PL3585,Michael Roos,Player,1,1,22,2,41,T
+PL3623,Evan Mathis,Player,1,2,23,3,79,G
+PL3625,Richie Incognito,Player,0,4,22,3,81,G
+PL3744,Chris Myers,Player,0,2,23,6,200,G
+PL3815,Shawn Andrews,Player,1,2,21,1,16,G
+PL3833,Chris Snee,Player,1,4,22,2,34,G
+PL3865,Nick Hardwick,Player,0,1,23,3,66,C
+PL4050,Scott Wells,Player,0,1,23,7,251,G
+PL4062,Jordan Gross,Player,1,3,23,1,8,T
+PL4091,Jon Stinchcomb,Player,0,1,24,2,37,T
+PL4132,Wade Smith,Player,0,1,22,3,78,T
+PL4196,Ryan Pontbriand,Player,0,2,23,5,142,C
+PL4214,David Diehl,Player,0,1,22,5,160,G
+PL4218,Dan Koppen,Player,0,1,23,5,164,C
+PL4323,Bryant McKinnie,Player,0,1,22,1,7,T
+PL4353,Andre Gurode,Player,0,5,24,2,37,G
+PL4360,LeCharles Bentley,Player,0,2,22,2,44,G
+PL4470,Jonathan Goodwin,Player,0,1,23,5,154,G
+PL4579,Leonard Davis,Player,0,3,23,1,2,T
+PL4594,Steve Hutchinson,Player,5,7,23,1,17,G
+PL4625,Matt Light,Player,1,3,23,2,48,T
+PL4826,Chris Samuels,Player,0,6,23,1,3,T
+PL4861,Marvel Smith,Player,0,1,22,2,38,T
+PL4867,Chad Clifton,Player,0,2,24,2,44,T
+PL5094,Damien Woody,Player,0,1,21,1,17,C
+PL5336,Kyle Turley,Player,1,0,22,1,7,T
+PL5340,Tra Thomas,Player,0,3,23,1,11,T
+PL5355,Alan Faneca,Player,6,9,21,1,26,G
+PL5367,Flozell Adams,Player,0,5,23,2,38,T
+PL5387,Jeremy Newberry,Player,0,2,22,2,58,C
+PL5393,Olin Kreutz,Player,1,6,21,3,64,C
+PL5502,Matt Birk,Player,0,6,22,6,173,C
+PL5571,Orlando Pace HOF,Player,3,7,21,1,1,T
+PL5576,Walter Jones HOF,Player,4,9,23,1,6,T
+PL5589,Tarik Glenn,Player,0,3,21,1,19,T
+PL5814,Jonathan Ogden HOF,Player,4,11,22,1,4,T
+PL5820,Willie Anderson,Player,3,4,21,1,10,T
+PL5833,Jeff Hartings,Player,1,2,24,1,23,C
+PL5835,Jermane Mayberry,Player,0,1,23,1,25,G
+PL5900,Mike Flanagan,Player,0,1,22,3,90,C
+PL5919,Jon Runyan,Player,0,1,22,4,109,T
+PL6018,Marco Rivera,Player,0,3,24,6,208,G
+PL6065,Tony Boselli,Player,3,5,23,1,2,T
+PL6077,Ruben Brown,Player,0,9,23,1,14,G
+PL6087,Korey Stringer,Player,0,1,21,1,24,T
+PL6112,Barret Robbins,Player,1,1,22,2,49,C
+PL6293,Adam Timmerman,Player,0,1,24,7,230,G
+PL6330,Todd Steussie,Player,0,2,23,1,19,T
+PL6342,Tre' Johnson,Player,0,1,23,2,31,G
+PL6347,Kevin Mawae HOF,Player,3,8,23,2,36,C
+PL6357,Larry Allen HOF,Player,6,11,22,2,46,G
+PL6376,Tim Ruddy,Player,0,1,22,2,65,C
+PL6528,Tom Nalen,Player,2,5,23,7,218,C
+PL6540,Willie Roaf HOF,Player,4,11,23,1,8,T
+PL6541,Lincoln Kennedy,Player,1,3,22,1,9,T
+PL6545,Brad Hopkins,Player,0,2,23,1,13,T
+PL6606,Will Shields HOF,Player,2,12,21,3,74,G
+PL6628,Ron Stone,Player,0,3,22,4,96,G
+PL6764,Bob Whitfield,Player,0,1,20,1,8,T
+PL6767,Leon Searcy,Player,0,1,22,1,11,T
+PL6846,Jeff Christy,Player,0,3,23,4,91,C
+PL7046,Kendall Gammon,Player,0,1,23,11,291,C
+PL7161,Erik Williams,Player,2,4,22,3,70,T
+PL7432,Richmond Webb,Player,2,7,23,1,9,T
+PL7462,Keith Sims,Player,0,3,23,2,39,G
+PL7463,Tim Grunhard,Player,0,1,22,2,40,C
+PL7531,Tony Mayberry,Player,0,3,22,4,108,C
+PL7603,Dave Szott,Player,1,0,22,7,180,G
+PL7783,Steve Wisniewski,Player,2,8,22,2,29,G
+PL7811,Mark Stepnoski,Player,0,5,22,3,57,C
+PL8017,Mark Schlereth,Player,0,2,23,10,263,G
+PL8066,Carlton Haselrig,Player,0,1,23,12,312,G
+PL8108,Randall McDaniel HOF,Player,7,12,23,1,19,G
+PL8125,Jumbo Elliott,Player,0,1,23,2,36,T
+PL8133,Dermontti Dawson HOF,Player,6,7,23,2,44,C
+PL8443,Harris Barton,Player,2,1,23,1,22,T
+PL8444,Bruce Armstrong,Player,0,6,21,1,23,T
+PL8626,Kevin Gogan,Player,0,3,22,8,206,G
+PL8696,Frank Winters,Player,0,1,23,10,276,C
+PL8703,Howard Ballard,Player,0,2,23,11,283,T
+PL8775,Will Wolford,Player,0,3,22,1,20,T
+PL8805,Tom Newberry,Player,2,2,23,2,50,G
+PL8856,Steve Wallace,Player,0,1,21,4,101,T
+PL8956,Ray Brown,Player,0,1,23,8,201,G
+PL9090,Bill Fralic,Player,2,4,22,1,2,G
+PL9094,Lomas Brown,Player,1,7,22,1,6,T
+PL9100,Jim Lachey,Player,3,3,22,1,12,T
+PL9122,Kevin Glover,Player,0,3,22,2,34,C
+PL9361,Duval Love,Player,0,1,22,10,274,G
+PL9442,Ron Solt,Player,0,1,22,1,19,G
+PL9444,John Alt,Player,0,2,22,1,21,T
+PL9450,William Roberts,Player,0,1,22,1,27,G
+PL9496,Guy McIntyre,Player,0,5,23,3,73,G
+PL9520,Joel Hilgenberg,Player,0,1,22,4,97,C
+PL9763,Chris Hinton,Player,1,7,22,1,4,T
+PL9765,Jimbo Covert,Player,2,2,23,1,6,T
+PL9768,Bruce Matthews HOF,Player,7,14,22,1,9,G
+PL9785,Don Mosebar,Player,0,3,21,1,26,C
+PL9978,Mark Bortz,Player,0,2,22,8,219,G
+PL10047,Jesse Sapolu,Player,0,2,22,11,289,C
+PL10101,Mike Munchak HOF,Player,2,9,22,1,8,G
+PL10109,Luis Sharpe,Player,0,3,22,1,16,T
+PL10117,Roy Foster,Player,0,2,22,1,24,G
+PL10123,Brad Edelman,Player,0,1,22,2,30,G
+PL10445,Brian Holloway,Player,0,3,22,1,19,T
+PL10446,Mark May,Player,0,1,21,1,20,G
+PL10495,Russ Grimm HOF,Player,3,4,22,3,69,G
+PL10761,Anthony Munoz HOF,Player,9,11,22,1,3,T
+PL10774,Jim Ritcher,Player,0,2,22,1,16,G
+PL10790,Ray Donaldson,Player,0,6,22,2,32,C
+PL10806,Dwight Stephenson HOF,Player,4,5,22,2,48,C
+PL10915,Keith Bishop,Player,0,2,23,6,157,G
+PL10923,Tunch Ilkin,Player,0,2,22,6,165,T
+PL11101,Keith Dorney,Player,0,1,21,1,10,T
+PL11117,Kent Hill,Player,0,5,22,1,26,G
+PL11259,Max Montoya,Player,0,4,23,7,168,G
+PL11274,Cody Risien,Player,0,2,22,7,183,T
+PL11432,Mike Kenn,Player,2,5,22,1,13,T
+PL11594,Fred Quillan,Player,0,2,22,7,175,C
+PL11756,Marvin Powell,Player,3,5,22,1,4,T
+PL11788,R.C. Thielemann,Player,1,3,22,2,36,G
+PL11971,Brad Benson,Player,0,1,21,8,219,T
+PL12128,Randy Cross,Player,0,3,22,2,42,G
+PL12172,Jackie Slater HOF,Player,0,7,22,3,86,T
+PL12581,Dennis Harrah,Player,1,6,22,1,11,G
+PL12590,Doug France,Player,0,2,22,1,20,T
+PL12660,Pat Donovan,Player,0,4,22,4,90,T
+PL12895,Herbert Scott,Player,2,3,22,13,330,G
+PL12914,Joe Fields,Player,1,2,21,14,349,C
+PL13023,Henry Lawrence,Player,0,2,22,1,19,T
+PL13039,Keith Fahnhorst,Player,1,1,22,2,35,T
+PL13129,Mike Webster HOF,Player,5,9,22,5,125,C
+CG17,Notre Dame,College,0,0,0,0,0,0
+CG49,Michigan St.,College,0,0,0,0,0,0
+CG27,Kansas St.,College,0,0,0,0,0,0
+CG7,Iowa,College,0,0,0,0,0,0
+CG35,Stanford,College,0,0,0,0,0,0
+CG32,Texas A&M,College,0,0,0,0,0,0
+CG9,Michigan,College,0,0,0,0,0,0
+CG104,Nevada,College,0,0,0,0,0,0
+CG4,LSU,College,0,0,0,0,0,0
+CG59,Boise St.,College,0,0,0,0,0,0
+CG26,Central Michigan,College,0,0,0,0,0,0
+CG0,Oklahoma,College,0,0,0,0,0,0
+CG66,Oregon,College,0,0,0,0,0,0
+CG46,Wisconsin,College,0,0,0,0,0,0
+CG6,Kentucky,College,0,0,0,0,0,0
+CG212,Ark-Pine Bluff,College,0,0,0,0,0,0
+CG78,Colorado,College,0,0,0,0,0,0
+CG54,USC,College,0,0,0,0,0,0
+CG137,California,College,0,0,0,0,0,0
+CG44,Iowa St.,College,0,0,0,0,0,0
+CG183,Miami (OH),College,0,0,0,0,0,0
+CG23,Florida,College,0,0,0,0,0,0
+CG11,Florida St.,College,0,0,0,0,0,0
+CG94,Cincinnati,College,0,0,0,0,0,0
+CG61,Oklahoma St.,College,0,0,0,0,0,0
+CG95,Idaho,College,0,0,0,0,0,0
+CG31,Utah,College,0,0,0,0,0,0
+CG103,Louisville,College,0,0,0,0,0,0
+CG99,Texas Tech,College,0,0,0,0,0,0
+CG60,East. Michigan,College,0,0,0,0,0,0
+CG39,Virginia,College,0,0,0,0,0,0
+CG102,Virginia Tech,College,0,0,0,0,0,0
+CG76,Rutgers,College,0,0,0,0,0,0
+CG36,Central Florida,College,0,0,0,0,0,0
+CG132,Nebraska,College,0,0,0,0,0,0
+CG55,Auburn,College,0,0,0,0,0,0
+CG189,Towson,College,0,0,0,0,0,0
+CG1,Ohio St.,College,0,0,0,0,0,0
+CG201,Bloomsburg,College,0,0,0,0,0,0
+CG75,Fresno St.,College,0,0,0,0,0,0
+CG147,East. Washington,College,0,0,0,0,0,0
+CG2,Alabama,College,0,0,0,0,0,0
+CG63,Miami (FL),College,0,0,0,0,0,0
+CG62,Arkansas,College,0,0,0,0,0,0
+CG10,Boston Col.,College,0,0,0,0,0,0
+CG123,Purdue,College,0,0,0,0,0,0
+CG111,Tennessee,College,0,0,0,0,0,0
+CG19,Georgia,College,0,0,0,0,0,0
+CG43,Memphis,College,0,0,0,0,0,0
+CG191,Rice,College,0,0,0,0,0,0
+CG86,Illinois,College,0,0,0,0,0,0
+CG70,Texas,College,0,0,0,0,0,0
+CG21,Arizona St.,College,0,0,0,0,0,0
+CG52,San Diego St.,College,0,0,0,0,0,0
+CG20,Washington,College,0,0,0,0,0,0
+CG175,Harvard,College,0,0,0,0,0,0
+CG100,UCLA,College,0,0,0,0,0,0
+CG33,Penn St.,College,0,0,0,0,0,0
+CG294,Texas A&M-Kingsville,College,0,0,0,0,0,0
+CG68,Pittsburgh,College,0,0,0,0,0,0
+CG18,TCU,College,0,0,0,0,0,0
+CG88,South Dakota St.,College,0,0,0,0,0,0
+CG22,Temple,College,0,0,0,0,0,0
+CG322,Sonoma St.,College,0,0,0,0,0,0
+CG51,Louisiana Tech,College,0,0,0,0,0,0
+CG197,Pittsburg St.,College,0,0,0,0,0,0
+CG314,Central State (OH),College,0,0,0,0,0,0
+CG64,Wake Forest,College,0,0,0,0,0,0
+CG372,Pittsburgh-Johnstown,College,0,0,0,0,0,0
+CG74,North Carolina,College,0,0,0,0,0,0
+CG50,West. Illinois,College,0,0,0,0,0,0
+CG235,Alabama A&M,College,0,0,0,0,0,0
+CG30,Vanderbilt,College,0,0,0,0,0,0
+CG331,Wisconsin–LaCrosse,College,0,0,0,0,0,0
+CG203,Arkansas St.,College,0,0,0,0,0,0
+CG14,Maryland,College,0,0,0,0,0,0
+CG73,Northwestern,College,0,0,0,0,0,0
+CG29,Hawaii,College,0,0,0,0,0,0
+CG28,Missouri,College,0,0,0,0,0,0
+CG12,North Carolina St.,College,0,0,0,0,0,0
+CG41,Baylor,College,0,0,0,0,0,0
+CG323,Indiana St.,College,0,0,0,0,0,0
+CG164,Georgia Tech,College,0,0,0,0,0,0
+CG253,Jackson St.,College,0,0,0,0,0,0
+CG290,Virginia Union,College,0,0,0,0,0,0
+CG293,Widener,College,0,0,0,0,0,0
+CG221,Florida A&M,College,0,0,0,0,0,0
+CG69,Minnesota,College,0,0,0,0,0,0
+NFL25,IND,NFL Team,0,0,0,0,0,0
+NFL17,TEN,NFL Team,0,0,0,0,0,0
+NFL31,CHI,NFL Team,0,0,0,0,0,0
+NFL14,WAS,NFL Team,0,0,0,0,0,0
+NFL27,NOR,NFL Team,0,0,0,0,0,0
+NFL13,ATL,NFL Team,0,0,0,0,0,0
+NFL29,DAL,NFL Team,0,0,0,0,0,0
+NFL26,CLE,NFL Team,0,0,0,0,0,0
+NFL15,CAR,NFL Team,0,0,0,0,0,0
+NFL28,KAN,NFL Team,0,0,0,0,0,0
+NFL19,PHI,NFL Team,0,0,0,0,0,0
+NFL7,DET,NFL Team,0,0,0,0,0,0
+NFL11,GNB,NFL Team,0,0,0,0,0,0
+NFL16,MIN,NFL Team,0,0,0,0,0,0
+NFL9,PIT,NFL Team,0,0,0,0,0,0
+NFL21,BAL,NFL Team,0,0,0,0,0,0
+NFL20,HOU,NFL Team,0,0,0,0,0,0
+NFL12,MIA,NFL Team,0,0,0,0,0,0
+NFL23,SEA,NFL Team,0,0,0,0,0,0
+NFL1,SFO,NFL Team,0,0,0,0,0,0
+NFL18,DEN,NFL Team,0,0,0,0,0,0
+NFL8,BUF,NFL Team,0,0,0,0,0,0
+NFL22,LAC,NFL Team,0,0,0,0,0,0
+NFL4,TAM,NFL Team,0,0,0,0,0,0
+NFL2,NYJ,NFL Team,0,0,0,0,0,0
+NFL10,CIN,NFL Team,0,0,0,0,0,0
+NFL24,NWE,NFL Team,0,0,0,0,0,0
+NFL30,LAR,NFL Team,0,0,0,0,0,0
+NFL5,NYG,NFL Team,0,0,0,0,0,0
+NFL0,ARI,NFL Team,0,0,0,0,0,0
+NFL6,JAX,NFL Team,0,0,0,0,0,0
+NFL3,OAK,NFL Team,0,0,0,0,0,0

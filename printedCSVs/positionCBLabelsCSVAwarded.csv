@@ -1,0 +1,21 @@
+ID,Label,Node Type,All Pros,Pro Bowls,Draft Age,Round Selected,Pick In Round,Position
+PL256,Denzel Ward,Player,0,1,21,1,4,CB
+PL517,Marshon Lattimore,Player,0,1,21,1,11,CB
+PL671,Jamal Agnew,Player,1,0,22,5,165,CB
+PL763,Jalen Ramsey,Player,1,2,21,1,5,CB
+PL796,Xavien Howard,Player,0,1,23,2,38,CB
+PL1027,Marcus Peters,Player,1,2,22,1,18,CB
+PL1036,Byron Jones,Player,0,1,22,1,27,CB
+CG1,Ohio St.,College,0,0,0,0,0,0
+CG156,San Diego,College,0,0,0,0,0,0
+CG11,Florida St.,College,0,0,0,0,0,0
+CG41,Baylor,College,0,0,0,0,0,0
+CG20,Washington,College,0,0,0,0,0,0
+CG128,Connecticut,College,0,0,0,0,0,0
+NFL26,CLE,NFL Team,0,0,0,0,0,0
+NFL27,NOR,NFL Team,0,0,0,0,0,0
+NFL7,DET,NFL Team,0,0,0,0,0,0
+NFL6,JAX,NFL Team,0,0,0,0,0,0
+NFL12,MIA,NFL Team,0,0,0,0,0,0
+NFL28,KAN,NFL Team,0,0,0,0,0,0
+NFL29,DAL,NFL Team,0,0,0,0,0,0
