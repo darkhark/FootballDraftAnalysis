@@ -129,6 +129,27 @@ class DraftDataObtainer:
         CSVPrinter.print4_3LBsEdgesAndLabelsCSVs(DraftDataObtainer.scraper.playerList, edgesCSV, labelsCSV, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
+    @staticmethod
+    def obtainDBs(awardedOnly):
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing DBs Player Data to CSVs.")
+        edgesCSV = DraftDataObtainer.baseCSVDirectory + "positionDBsEdgesCSV"
+        labelsCSV = DraftDataObtainer.baseCSVDirectory + "positionDBsLabelsCSV"
+        if awardedOnly:
+            edgesCSV = edgesCSV + "Awarded"
+            labelsCSV = labelsCSV + "Awarded"
+        edgesCSV = edgesCSV + ".csv"
+        labelsCSV = labelsCSV + ".csv"
+        CSVPrinter.printDBsEdgesAndLabelsCSVs(DraftDataObtainer.scraper.playerList, edgesCSV, labelsCSV, awardedOnly)
+        print(DraftDataObtainer.finishedMessage)
+
 
 DraftDataObtainer.obtainAllPlayers()
 DraftDataObtainer.obtainAwardedPlayers()
@@ -146,8 +167,7 @@ DraftDataObtainer.obtainPosition("DE", False)
 DraftDataObtainer.obtainPosition("DT", False)
 DraftDataObtainer.obtainPosition("LB", False)
 DraftDataObtainer.obtain4_3LBs(False)
-DraftDataObtainer.obtainPosition("CB", False)
-DraftDataObtainer.obtainPosition("S", False)
+DraftDataObtainer.obtainDBs(False)
 DraftDataObtainer.obtainRoundsRange(1, 3, True)
 DraftDataObtainer.obtainRoundsRange(4, 7, True)
 DraftDataObtainer.obtainRoundsRange(1, 2, True)
@@ -162,5 +182,4 @@ DraftDataObtainer.obtainPosition("DE", True)
 DraftDataObtainer.obtainPosition("DT", True)
 DraftDataObtainer.obtainPosition("LB", True)
 DraftDataObtainer.obtain4_3LBs(True)
-DraftDataObtainer.obtainPosition("CB", True)
-DraftDataObtainer.obtainPosition("S", True)
+DraftDataObtainer.obtainDBs(True)
