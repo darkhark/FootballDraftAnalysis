@@ -12,13 +12,13 @@ class CSVPrinter:
     @staticmethod
     def printAllEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         for player in playersList:
             nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
             edgeCSVRows.append([player.collegeID, player.uniqueID])
             edgeCSVRows.append([player.uniqueID, nflID])
-            labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+            labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls, player.yearDrafted,
                                  player.draftAge, player.roundSelected, player.pickInRound, player.position])
         for college in College.teamCache:
             labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, "0"])
@@ -36,7 +36,7 @@ class CSVPrinter:
     @staticmethod
     def printAwardedEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
@@ -51,7 +51,8 @@ class CSVPrinter:
                 edgeCSVRows.append([collegeID, player.uniqueID])
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
@@ -59,7 +60,7 @@ class CSVPrinter:
     def printRoundRangeEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, minimum, maximum,
                                           awardedOnly):
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
@@ -76,14 +77,15 @@ class CSVPrinter:
                 edgeCSVRows.append([collegeID, player.uniqueID])
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printPositionEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, position, awardedOnly):
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
@@ -99,7 +101,8 @@ class CSVPrinter:
                 edgeCSVRows.append([collegeID, player.uniqueID])
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
@@ -107,7 +110,7 @@ class CSVPrinter:
     def printOLEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         offensiveLine = ["T", "G", "C", "OL"]
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
@@ -123,7 +126,8 @@ class CSVPrinter:
                 edgeCSVRows.append([collegeID, player.uniqueID])
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
                                              labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
@@ -132,7 +136,7 @@ class CSVPrinter:
     def print4_3LBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         lbs4_3 = ["OLB", "ILB"]
         edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
@@ -148,10 +152,35 @@ class CSVPrinter:
                 edgeCSVRows.append([collegeID, player.uniqueID])
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
-                                             labelCSVLocation,
-                                             edgeCSVRows, labelCSVRows)
+                                             labelCSVLocation, edgeCSVRows, labelCSVRows)
+
+    @staticmethod
+    def printDBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
+        defensiveBacks = ["CB", "DB", "S"]
+        edgeCSVRows = [["Source", "Target"]]
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
+                         "Round Selected", "Pick In Round", "Position"]]
+        tempCollegeIDList = []
+        tempNFLTeamIDList = []
+        for player in playersList:
+            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
+            if player.position in defensiveBacks and ((awardedOnly and playerHasAward) or not awardedOnly):
+                collegeID = player.collegeID
+                if collegeID not in tempCollegeIDList:
+                    tempCollegeIDList.append(collegeID)
+                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
+                if nflID not in tempNFLTeamIDList:
+                    tempNFLTeamIDList.append(nflID)
+                edgeCSVRows.append([collegeID, player.uniqueID])
+                edgeCSVRows.append([player.uniqueID, nflID])
+                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+                                     player.draftAge, player.yearDrafted, player.roundSelected,
+                                     player.pickInRound, player.position])
+        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printPlayersAndEdgesToCSV(collegeList, NFLTeamList, edgeCSVLocation, labelCSVLocation,
