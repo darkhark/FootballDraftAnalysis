@@ -56,14 +56,17 @@ class CSVPrinter:
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
-    def printRoundRangeEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, minimum, maximum):
+    def printRoundRangeEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, minimum, maximum,
+                                          awardedOnly):
         edgeCSVRows = [["Source", "Target"]]
         labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
+
         for player in playersList:
-            if minimum <= int(player.roundSelected) <= maximum:
+            if minimum <= int(player.roundSelected) <= maximum and \
+                    ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
                 collegeID = player.collegeID
                 if collegeID not in tempCollegeIDList:
                     tempCollegeIDList.append(collegeID)
@@ -78,14 +81,15 @@ class CSVPrinter:
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
-    def printPositionEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, position):
+    def printPositionEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, position, awardedOnly):
         edgeCSVRows = [["Source", "Target"]]
         labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
                          "Round Selected", "Pick In Round", "Position"]]
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
-            if player.position == position:
+            if player.position == position and \
+                    ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
                 collegeID = player.collegeID
                 if collegeID not in tempCollegeIDList:
                     tempCollegeIDList.append(collegeID)
@@ -97,6 +101,56 @@ class CSVPrinter:
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.roundSelected, player.pickInRound, player.position])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
+                                             edgeCSVRows, labelCSVRows)
+
+    @staticmethod
+    def printOLEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
+        offensiveLine = ["T", "G", "C", "OL"]
+        edgeCSVRows = [["Source", "Target"]]
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+                         "Round Selected", "Pick In Round", "Position"]]
+        tempCollegeIDList = []
+        tempNFLTeamIDList = []
+        for player in playersList:
+            if player.position in offensiveLine and \
+                    ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
+                collegeID = player.collegeID
+                if collegeID not in tempCollegeIDList:
+                    tempCollegeIDList.append(collegeID)
+                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
+                if nflID not in tempNFLTeamIDList:
+                    tempNFLTeamIDList.append(nflID)
+                edgeCSVRows.append([collegeID, player.uniqueID])
+                edgeCSVRows.append([player.uniqueID, nflID])
+                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation,
+                                             edgeCSVRows, labelCSVRows)
+
+    @staticmethod
+    def print4_3LBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
+        lbs4_3 = ["OLB", "ILB"]
+        edgeCSVRows = [["Source", "Target"]]
+        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age",
+                         "Round Selected", "Pick In Round", "Position"]]
+        tempCollegeIDList = []
+        tempNFLTeamIDList = []
+        for player in playersList:
+            if player.position in lbs4_3 and \
+                    ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
+                collegeID = player.collegeID
+                if collegeID not in tempCollegeIDList:
+                    tempCollegeIDList.append(collegeID)
+                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
+                if nflID not in tempNFLTeamIDList:
+                    tempNFLTeamIDList.append(nflID)
+                edgeCSVRows.append([collegeID, player.uniqueID])
+                edgeCSVRows.append([player.uniqueID, nflID])
+                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+                                     player.draftAge, player.roundSelected, player.pickInRound, player.position])
+        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
@@ -128,4 +182,3 @@ class CSVPrinter:
         if nflID == "NFL36":
             nflID = "NFL0"
         return nflID
-
