@@ -21,9 +21,9 @@ class CSVPrinter:
             labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls, player.yearDrafted,
                                  player.draftAge, player.roundSelected, player.pickInRound, player.position])
         for college in College.teamCache:
-            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0"])
         for team in NFLTeam.teamCache:
-            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0"])
         with open(edgeCSVLocation, "w") as edgesCSV:
             writer = csv.writer(edgesCSV)
             writer.writerows(edgeCSVRows)
@@ -187,10 +187,10 @@ class CSVPrinter:
                                   edgeCSVRows, labelCSVRows):
         for collegeID in collegeList:
             college = College.getCachedTeam(collegeID)
-            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0"])
         for teamID in NFLTeamList:
             team = NFLTeam.getCachedTeam(teamID)
-            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0"])
         with open(edgeCSVLocation, "w") as edgesCSV:
             writer = csv.writer(edgesCSV)
             writer.writerows(edgeCSVRows)
