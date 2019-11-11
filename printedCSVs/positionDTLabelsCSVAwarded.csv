@@ -59,68 +59,68 @@ PL12600,Louie Kelcher,Player,1,3,22,1975,2,30,DT
 PL12608,Doug English,Player,1,4,22,1975,2,38,DT
 PL12655,Cleveland Elam,Player,1,2,23,1975,4,85,DT
 PL13009,John Dutton,Player,1,3,23,1974,1,5,DT
-CG68,Pittsburgh,College,0,0,0,0,0,0
-CG28,Missouri,College,0,0,0,0,0,0
-CG123,Purdue,College,0,0,0,0,0,0
-CG213,Missouri Southern,College,0,0,0,0,0,0
-CG43,Memphis,College,0,0,0,0,0,0
-CG13,Mississippi St.,College,0,0,0,0,0,0
-CG7,Iowa,College,0,0,0,0,0,0
-CG111,Tennessee,College,0,0,0,0,0,0
-CG2,Alabama,College,0,0,0,0,0,0
-CG22,Temple,College,0,0,0,0,0,0
-CG54,USC,College,0,0,0,0,0,0
-CG132,Nebraska,College,0,0,0,0,0,0
-CG0,Oklahoma,College,0,0,0,0,0,0
-CG143,East Carolina,College,0,0,0,0,0,0
-CG19,Georgia,College,0,0,0,0,0,0
-CG10,Boston Col.,College,0,0,0,0,0,0
-CG31,Utah,College,0,0,0,0,0,0
-CG66,Oregon,College,0,0,0,0,0,0
-CG4,LSU,College,0,0,0,0,0,0
-CG11,Florida St.,College,0,0,0,0,0,0
-CG14,Maryland,College,0,0,0,0,0,0
-CG61,Oklahoma St.,College,0,0,0,0,0,0
-CG70,Texas,College,0,0,0,0,0,0
-CG3,Clemson,College,0,0,0,0,0,0
-CG52,San Diego St.,College,0,0,0,0,0,0
-CG63,Miami (FL),College,0,0,0,0,0,0
-CG55,Auburn,College,0,0,0,0,0,0
-CG17,Notre Dame,College,0,0,0,0,0,0
-CG32,Texas A&M,College,0,0,0,0,0,0
-CG25,Mississippi,College,0,0,0,0,0,0
-CG118,Kansas,College,0,0,0,0,0,0
-CG344,Wake Technical CC,College,0,0,0,0,0,0
-CG348,Emporia St.,College,0,0,0,0,0,0
-CG21,Arizona St.,College,0,0,0,0,0,0
-CG15,Washington St.,College,0,0,0,0,0,0
-CG150,Grambling St.,College,0,0,0,0,0,0
-CG107,SMU,College,0,0,0,0,0,0
-CG190,Tennessee St.,College,0,0,0,0,0,0
-NFL30,LAR,NFL Team,0,0,0,0,0,0
-NFL2,NYJ,NFL Team,0,0,0,0,0,0
-NFL15,CAR,NFL Team,0,0,0,0,0,0
-NFL21,BAL,NFL Team,0,0,0,0,0,0
-NFL28,KAN,NFL Team,0,0,0,0,0,0
-NFL19,PHI,NFL Team,0,0,0,0,0,0
-NFL11,GNB,NFL Team,0,0,0,0,0,0
-NFL18,DEN,NFL Team,0,0,0,0,0,0
-NFL8,BUF,NFL Team,0,0,0,0,0,0
-NFL17,TEN,NFL Team,0,0,0,0,0,0
-NFL7,DET,NFL Team,0,0,0,0,0,0
-NFL4,TAM,NFL Team,0,0,0,0,0,0
-NFL5,NYG,NFL Team,0,0,0,0,0,0
-NFL10,CIN,NFL Team,0,0,0,0,0,0
-NFL12,MIA,NFL Team,0,0,0,0,0,0
-NFL31,CHI,NFL Team,0,0,0,0,0,0
-NFL0,ARI,NFL Team,0,0,0,0,0,0
-NFL16,MIN,NFL Team,0,0,0,0,0,0
-NFL6,JAX,NFL Team,0,0,0,0,0,0
-NFL3,OAK,NFL Team,0,0,0,0,0,0
-NFL20,HOU,NFL Team,0,0,0,0,0,0
-NFL1,SFO,NFL Team,0,0,0,0,0,0
-NFL23,SEA,NFL Team,0,0,0,0,0,0
-NFL29,DAL,NFL Team,0,0,0,0,0,0
-NFL26,CLE,NFL Team,0,0,0,0,0,0
-NFL24,NWE,NFL Team,0,0,0,0,0,0
-NFL22,LAC,NFL Team,0,0,0,0,0,0
+CG68,Pittsburgh,College,0,0,0,0,0,0,0
+CG28,Missouri,College,0,0,0,0,0,0,0
+CG123,Purdue,College,0,0,0,0,0,0,0
+CG213,Missouri Southern,College,0,0,0,0,0,0,0
+CG43,Memphis,College,0,0,0,0,0,0,0
+CG13,Mississippi St.,College,0,0,0,0,0,0,0
+CG7,Iowa,College,0,0,0,0,0,0,0
+CG111,Tennessee,College,0,0,0,0,0,0,0
+CG2,Alabama,College,0,0,0,0,0,0,0
+CG22,Temple,College,0,0,0,0,0,0,0
+CG54,USC,College,0,0,0,0,0,0,0
+CG132,Nebraska,College,0,0,0,0,0,0,0
+CG0,Oklahoma,College,0,0,0,0,0,0,0
+CG143,East Carolina,College,0,0,0,0,0,0,0
+CG19,Georgia,College,0,0,0,0,0,0,0
+CG10,Boston Col.,College,0,0,0,0,0,0,0
+CG31,Utah,College,0,0,0,0,0,0,0
+CG66,Oregon,College,0,0,0,0,0,0,0
+CG4,LSU,College,0,0,0,0,0,0,0
+CG11,Florida St.,College,0,0,0,0,0,0,0
+CG14,Maryland,College,0,0,0,0,0,0,0
+CG61,Oklahoma St.,College,0,0,0,0,0,0,0
+CG70,Texas,College,0,0,0,0,0,0,0
+CG3,Clemson,College,0,0,0,0,0,0,0
+CG52,San Diego St.,College,0,0,0,0,0,0,0
+CG63,Miami (FL),College,0,0,0,0,0,0,0
+CG55,Auburn,College,0,0,0,0,0,0,0
+CG17,Notre Dame,College,0,0,0,0,0,0,0
+CG32,Texas A&M,College,0,0,0,0,0,0,0
+CG25,Mississippi,College,0,0,0,0,0,0,0
+CG118,Kansas,College,0,0,0,0,0,0,0
+CG344,Wake Technical CC,College,0,0,0,0,0,0,0
+CG348,Emporia St.,College,0,0,0,0,0,0,0
+CG21,Arizona St.,College,0,0,0,0,0,0,0
+CG15,Washington St.,College,0,0,0,0,0,0,0
+CG150,Grambling St.,College,0,0,0,0,0,0,0
+CG107,SMU,College,0,0,0,0,0,0,0
+CG190,Tennessee St.,College,0,0,0,0,0,0,0
+NFL30,LAR,NFL Team,0,0,0,0,0,0,0
+NFL2,NYJ,NFL Team,0,0,0,0,0,0,0
+NFL15,CAR,NFL Team,0,0,0,0,0,0,0
+NFL21,BAL,NFL Team,0,0,0,0,0,0,0
+NFL28,KAN,NFL Team,0,0,0,0,0,0,0
+NFL19,PHI,NFL Team,0,0,0,0,0,0,0
+NFL11,GNB,NFL Team,0,0,0,0,0,0,0
+NFL18,DEN,NFL Team,0,0,0,0,0,0,0
+NFL8,BUF,NFL Team,0,0,0,0,0,0,0
+NFL17,TEN,NFL Team,0,0,0,0,0,0,0
+NFL7,DET,NFL Team,0,0,0,0,0,0,0
+NFL4,TAM,NFL Team,0,0,0,0,0,0,0
+NFL5,NYG,NFL Team,0,0,0,0,0,0,0
+NFL10,CIN,NFL Team,0,0,0,0,0,0,0
+NFL12,MIA,NFL Team,0,0,0,0,0,0,0
+NFL31,CHI,NFL Team,0,0,0,0,0,0,0
+NFL0,ARI,NFL Team,0,0,0,0,0,0,0
+NFL16,MIN,NFL Team,0,0,0,0,0,0,0
+NFL6,JAX,NFL Team,0,0,0,0,0,0,0
+NFL3,OAK,NFL Team,0,0,0,0,0,0,0
+NFL20,HOU,NFL Team,0,0,0,0,0,0,0
+NFL1,SFO,NFL Team,0,0,0,0,0,0,0
+NFL23,SEA,NFL Team,0,0,0,0,0,0,0
+NFL29,DAL,NFL Team,0,0,0,0,0,0,0
+NFL26,CLE,NFL Team,0,0,0,0,0,0,0
+NFL24,NWE,NFL Team,0,0,0,0,0,0,0
+NFL22,LAC,NFL Team,0,0,0,0,0,0,0

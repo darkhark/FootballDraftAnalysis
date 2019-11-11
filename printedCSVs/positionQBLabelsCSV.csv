@@ -634,223 +634,223 @@ PL13364,Don Van Galder,Player,0,0,,1974,14,361,QB
 PL13376,Larry Cipa,Player,0,0,22,1974,15,373,QB
 PL13382,Piel Pennington,Player,0,0,,1974,15,379,QB
 PL13422,Craig Holland,Player,0,0,,1974,17,420,QB
-CG0,Oklahoma,College,0,0,0,0,0,0
-CG5,Duke,College,0,0,0,0,0,0
-CG1,Ohio St.,College,0,0,0,0,0,0
-CG28,Missouri,College,0,0,0,0,0,0
-CG58,West Virginia,College,0,0,0,0,0,0
-CG12,North Carolina St.,College,0,0,0,0,0,0
-CG55,Auburn,College,0,0,0,0,0,0
-CG72,North Dakota St.,College,0,0,0,0,0,0
-CG73,Northwestern,College,0,0,0,0,0,0
-CG15,Washington St.,College,0,0,0,0,0,0
-CG33,Penn St.,College,0,0,0,0,0,0
-CG54,USC,College,0,0,0,0,0,0
-CG80,Wyoming,College,0,0,0,0,0,0
-CG100,UCLA,College,0,0,0,0,0,0
-CG103,Louisville,College,0,0,0,0,0,0
-CG61,Oklahoma St.,College,0,0,0,0,0,0
-CG116,Richmond,College,0,0,0,0,0,0
-CG117,Western Kentucky,College,0,0,0,0,0,0
-CG132,Nebraska,College,0,0,0,0,0,0
-CG4,LSU,College,0,0,0,0,0,0
-CG136,Florida International,College,0,0,0,0,0,0
-CG40,Toledo,College,0,0,0,0,0,0
-CG74,North Carolina,College,0,0,0,0,0,0
-CG99,Texas Tech,College,0,0,0,0,0,0
-CG3,Clemson,College,0,0,0,0,0,0
-CG17,Notre Dame,College,0,0,0,0,0,0
-CG137,California,College,0,0,0,0,0,0
-CG7,Iowa,College,0,0,0,0,0,0
-CG111,Tennessee,College,0,0,0,0,0,0
-CG68,Pittsburgh,College,0,0,0,0,0,0
-CG63,Miami (FL),College,0,0,0,0,0,0
-CG25,Mississippi,College,0,0,0,0,0,0
-CG43,Memphis,College,0,0,0,0,0,0
-CG49,Michigan St.,College,0,0,0,0,0,0
-CG13,Mississippi St.,College,0,0,0,0,0,0
-CG35,Stanford,College,0,0,0,0,0,0
-CG65,Indiana,College,0,0,0,0,0,0
-CG9,Michigan,College,0,0,0,0,0,0
-CG62,Arkansas,College,0,0,0,0,0,0
-CG51,Louisiana Tech,College,0,0,0,0,0,0
-CG11,Florida St.,College,0,0,0,0,0,0
-CG66,Oregon,College,0,0,0,0,0,0
-CG97,Colorado St.,College,0,0,0,0,0,0
-CG153,Oregon St.,College,0,0,0,0,0,0
-CG41,Baylor,College,0,0,0,0,0,0
-CG36,Central Florida,College,0,0,0,0,0,0
-CG32,Texas A&M,College,0,0,0,0,0,0
-CG75,Fresno St.,College,0,0,0,0,0,0
-CG180,East. Illinois,College,0,0,0,0,0,0
-CG102,Virginia Tech,College,0,0,0,0,0,0
-CG19,Georgia,College,0,0,0,0,0,0
-CG2,Alabama,College,0,0,0,0,0,0
-CG42,San Jose St.,College,0,0,0,0,0,0
-CG204,Ball St.,College,0,0,0,0,0,0
-CG107,SMU,College,0,0,0,0,0,0
-CG96,Syracuse,College,0,0,0,0,0,0
-CG169,Southern Utah,College,0,0,0,0,0,0
-CG183,Miami (OH),College,0,0,0,0,0,0
-CG112,South Florida,College,0,0,0,0,0,0
-CG21,Arizona St.,College,0,0,0,0,0,0
-CG46,Wisconsin,College,0,0,0,0,0,0
-CG91,Arizona,College,0,0,0,0,0,0
-CG52,San Diego St.,College,0,0,0,0,0,0
-CG162,Tenn-Chattanooga,College,0,0,0,0,0,0
-CG34,Northern Illinois,College,0,0,0,0,0,0
-CG20,Washington,College,0,0,0,0,0,0
-CG18,TCU,College,0,0,0,0,0,0
-CG104,Nevada,College,0,0,0,0,0,0
-CG95,Idaho,College,0,0,0,0,0,0
-CG23,Florida,College,0,0,0,0,0,0
-CG70,Texas,College,0,0,0,0,0,0
-CG121,Fordham,College,0,0,0,0,0,0
-CG45,Florida Atlantic,College,0,0,0,0,0,0
-CG26,Central Michigan,College,0,0,0,0,0,0
-CG94,Cincinnati,College,0,0,0,0,0,0
-CG149,Troy,College,0,0,0,0,0,0
-CG27,Kansas St.,College,0,0,0,0,0,0
-CG108,Sam Houston St.,College,0,0,0,0,0,0
-CG76,Rutgers,College,0,0,0,0,0,0
-CG241,West Texas A&M,College,0,0,0,0,0,0
-CG123,Purdue,College,0,0,0,0,0,0
-CG10,Boston Col.,College,0,0,0,0,0,0
-CG37,Delaware,College,0,0,0,0,0,0
-CG156,San Diego,College,0,0,0,0,0,0
-CG29,Hawaii,College,0,0,0,0,0,0
-CG6,Kentucky,College,0,0,0,0,0,0
-CG8,Houston,College,0,0,0,0,0,0
-CG47,BYU,College,0,0,0,0,0,0
-CG105,Texas-El Paso,College,0,0,0,0,0,0
-CG160,Coastal Carolina,College,0,0,0,0,0,0
-CG30,Vanderbilt,College,0,0,0,0,0,0
-CG16,Alabama St.,College,0,0,0,0,0,0
-CG202,Furman,College,0,0,0,0,0,0
-CG84,Bowling Green,College,0,0,0,0,0,0
-CG31,Utah,College,0,0,0,0,0,0
-CG83,Akron,College,0,0,0,0,0,0
-CG128,Connecticut,College,0,0,0,0,0,0
-CG234,Tulsa,College,0,0,0,0,0,0
-CG175,Harvard,College,0,0,0,0,0,0
-CG87,Tulane,College,0,0,0,0,0,0
-CG39,Virginia,College,0,0,0,0,0,0
-CG195,Marshall,College,0,0,0,0,0,0
-CG44,Iowa St.,College,0,0,0,0,0,0
-CG143,East Carolina,College,0,0,0,0,0,0
-CG86,Illinois,College,0,0,0,0,0,0
-CG291,California-Davis,College,0,0,0,0,0,0
-CG244,Cal Poly-San Luis Obispo,College,0,0,0,0,0,0
-CG115,Southern Miss,College,0,0,0,0,0,0
-CG122,S.F. Austin,College,0,0,0,0,0,0
-CG265,Hofstra,College,0,0,0,0,0,0
-CG184,Texas St.,College,0,0,0,0,0,0
-CG221,Florida A&M,College,0,0,0,0,0,0
-CG164,Georgia Tech,College,0,0,0,0,0,0
-CG205,NW Missouri St.,College,0,0,0,0,0,0
-CG60,East. Michigan,College,0,0,0,0,0,0
-CG141,Middle Tenn. St.,College,0,0,0,0,0,0
-CG57,Murray St.,College,0,0,0,0,0,0
-CG78,Colorado,College,0,0,0,0,0,0
-CG280,Sacramento St.,College,0,0,0,0,0,0
-CG256,Army,College,0,0,0,0,0,0
-CG274,Northern Arizona,College,0,0,0,0,0,0
-CG90,James Madison,College,0,0,0,0,0,0
-CG303,Alcorn St.,College,0,0,0,0,0,0
-CG139,New Mexico,College,0,0,0,0,0,0
-CG327,Pacific,College,0,0,0,0,0,0
-CG330,C.W. Post,College,0,0,0,0,0,0
-CG269,Howard,College,0,0,0,0,0,0
-CG178,William & Mary,College,0,0,0,0,0,0
-CG14,Maryland,College,0,0,0,0,0,0
-CG191,Rice,College,0,0,0,0,0,0
-CG357,John Carroll,College,0,0,0,0,0,0
-CG359,Pacific Lutheran,College,0,0,0,0,0,0
-CG129,Maine,College,0,0,0,0,0,0
-CG302,Wisconsin–Stevens Point,College,0,0,0,0,0,0
-CG24,South Carolina,College,0,0,0,0,0,0
-CG150,Grambling St.,College,0,0,0,0,0,0
-CG50,West. Illinois,College,0,0,0,0,0,0
-CG64,Wake Forest,College,0,0,0,0,0,0
-CG346,Long Beach St.,College,0,0,0,0,0,0
-CG119,Weber St.,College,0,0,0,0,0,0
-CG85,Utah St.,College,0,0,0,0,0,0
-CG220,New Hampshire,College,0,0,0,0,0,0
-CG82,La-Monroe,College,0,0,0,0,0,0
-CG245,Nicholls St.,College,0,0,0,0,0,0
-CG176,Montana,College,0,0,0,0,0,0
-CG273,Michigan Tech,College,0,0,0,0,0,0
-CG118,Kansas,College,0,0,0,0,0,0
-CG396,Truman St.,College,0,0,0,0,0,0
-CG238,UNLV,College,0,0,0,0,0,0
-CG379,Colgate,College,0,0,0,0,0,0
-CG399,Trinity (CT),College,0,0,0,0,0,0
-CG311,Columbia,College,0,0,0,0,0,0
-CG404,Montclair St.,College,0,0,0,0,0,0
-CG297,Texas A&M-Commerce,College,0,0,0,0,0,0
-CG279,Idaho St.,College,0,0,0,0,0,0
-CG411,Fairmont St.,College,0,0,0,0,0,0
-CG172,Grand Valley St.,College,0,0,0,0,0,0
-CG171,Princeton,College,0,0,0,0,0,0
-CG127,Northern Iowa,College,0,0,0,0,0,0
-CG413,Toronto,College,0,0,0,0,0,0
-CG208,Portland St.,College,0,0,0,0,0,0
-CG415,Moorhead State (MN),College,0,0,0,0,0,0
-CG353,Northern Michigan,College,0,0,0,0,0,0
-CG190,Tennessee St.,College,0,0,0,0,0,0
-CG203,Arkansas St.,College,0,0,0,0,0,0
-CG418,California Lutheran,College,0,0,0,0,0,0
-CG356,Morehead St.,College,0,0,0,0,0,0
-CG287,Carson-Newman,College,0,0,0,0,0,0
-CG227,Lehigh,College,0,0,0,0,0,0
-CG391,Santa Clara,College,0,0,0,0,0,0
-CG267,Northern Colorado,College,0,0,0,0,0,0
-CG148,Youngstown St.,College,0,0,0,0,0,0
-CG120,New Mexico St.,College,0,0,0,0,0,0
-CG428,Minot St.,College,0,0,0,0,0,0
-CG400,Wichita St.,College,0,0,0,0,0,0
-CG333,Miss. Valley St.,College,0,0,0,0,0,0
-CG243,Brown,College,0,0,0,0,0,0
-CG114,Humboldt St.,College,0,0,0,0,0,0
-CG198,Kent St.,College,0,0,0,0,0,0
-CG348,Emporia St.,College,0,0,0,0,0,0
-CG447,Washington & Lee,College,0,0,0,0,0,0
-CG22,Temple,College,0,0,0,0,0,0
-CG326,Howard Payne,College,0,0,0,0,0,0
-CG59,Boise St.,College,0,0,0,0,0,0
-CG131,Yale,College,0,0,0,0,0,0
-CG315,East Tennessee St.,College,0,0,0,0,0,0
-CG38,Massachusetts,College,0,0,0,0,0,0
-CG389,Texas-Arlington,College,0,0,0,0,0,0
-NFL0,ARI,NFL Team,0,0,0,0,0,0
-NFL5,NYG,NFL Team,0,0,0,0,0,0
-NFL14,WAS,NFL Team,0,0,0,0,0,0
-NFL18,DEN,NFL Team,0,0,0,0,0,0
-NFL15,CAR,NFL Team,0,0,0,0,0,0
-NFL10,CIN,NFL Team,0,0,0,0,0,0
-NFL24,NWE,NFL Team,0,0,0,0,0,0
-NFL22,LAC,NFL Team,0,0,0,0,0,0
-NFL19,PHI,NFL Team,0,0,0,0,0,0
-NFL6,JAX,NFL Team,0,0,0,0,0,0
-NFL21,BAL,NFL Team,0,0,0,0,0,0
-NFL26,CLE,NFL Team,0,0,0,0,0,0
-NFL2,NYJ,NFL Team,0,0,0,0,0,0
-NFL8,BUF,NFL Team,0,0,0,0,0,0
-NFL9,PIT,NFL Team,0,0,0,0,0,0
-NFL29,DAL,NFL Team,0,0,0,0,0,0
-NFL17,TEN,NFL Team,0,0,0,0,0,0
-NFL23,SEA,NFL Team,0,0,0,0,0,0
-NFL31,CHI,NFL Team,0,0,0,0,0,0
-NFL28,KAN,NFL Team,0,0,0,0,0,0
-NFL20,HOU,NFL Team,0,0,0,0,0,0
-NFL1,SFO,NFL Team,0,0,0,0,0,0
-NFL7,DET,NFL Team,0,0,0,0,0,0
-NFL30,LAR,NFL Team,0,0,0,0,0,0
-NFL3,OAK,NFL Team,0,0,0,0,0,0
-NFL12,MIA,NFL Team,0,0,0,0,0,0
-NFL4,TAM,NFL Team,0,0,0,0,0,0
-NFL27,NOR,NFL Team,0,0,0,0,0,0
-NFL11,GNB,NFL Team,0,0,0,0,0,0
-NFL16,MIN,NFL Team,0,0,0,0,0,0
-NFL13,ATL,NFL Team,0,0,0,0,0,0
-NFL25,IND,NFL Team,0,0,0,0,0,0
+CG0,Oklahoma,College,0,0,0,0,0,0,0
+CG5,Duke,College,0,0,0,0,0,0,0
+CG1,Ohio St.,College,0,0,0,0,0,0,0
+CG28,Missouri,College,0,0,0,0,0,0,0
+CG58,West Virginia,College,0,0,0,0,0,0,0
+CG12,North Carolina St.,College,0,0,0,0,0,0,0
+CG55,Auburn,College,0,0,0,0,0,0,0
+CG72,North Dakota St.,College,0,0,0,0,0,0,0
+CG73,Northwestern,College,0,0,0,0,0,0,0
+CG15,Washington St.,College,0,0,0,0,0,0,0
+CG33,Penn St.,College,0,0,0,0,0,0,0
+CG54,USC,College,0,0,0,0,0,0,0
+CG80,Wyoming,College,0,0,0,0,0,0,0
+CG100,UCLA,College,0,0,0,0,0,0,0
+CG103,Louisville,College,0,0,0,0,0,0,0
+CG61,Oklahoma St.,College,0,0,0,0,0,0,0
+CG116,Richmond,College,0,0,0,0,0,0,0
+CG117,Western Kentucky,College,0,0,0,0,0,0,0
+CG132,Nebraska,College,0,0,0,0,0,0,0
+CG4,LSU,College,0,0,0,0,0,0,0
+CG136,Florida International,College,0,0,0,0,0,0,0
+CG40,Toledo,College,0,0,0,0,0,0,0
+CG74,North Carolina,College,0,0,0,0,0,0,0
+CG99,Texas Tech,College,0,0,0,0,0,0,0
+CG3,Clemson,College,0,0,0,0,0,0,0
+CG17,Notre Dame,College,0,0,0,0,0,0,0
+CG137,California,College,0,0,0,0,0,0,0
+CG7,Iowa,College,0,0,0,0,0,0,0
+CG111,Tennessee,College,0,0,0,0,0,0,0
+CG68,Pittsburgh,College,0,0,0,0,0,0,0
+CG63,Miami (FL),College,0,0,0,0,0,0,0
+CG25,Mississippi,College,0,0,0,0,0,0,0
+CG43,Memphis,College,0,0,0,0,0,0,0
+CG49,Michigan St.,College,0,0,0,0,0,0,0
+CG13,Mississippi St.,College,0,0,0,0,0,0,0
+CG35,Stanford,College,0,0,0,0,0,0,0
+CG65,Indiana,College,0,0,0,0,0,0,0
+CG9,Michigan,College,0,0,0,0,0,0,0
+CG62,Arkansas,College,0,0,0,0,0,0,0
+CG51,Louisiana Tech,College,0,0,0,0,0,0,0
+CG11,Florida St.,College,0,0,0,0,0,0,0
+CG66,Oregon,College,0,0,0,0,0,0,0
+CG97,Colorado St.,College,0,0,0,0,0,0,0
+CG153,Oregon St.,College,0,0,0,0,0,0,0
+CG41,Baylor,College,0,0,0,0,0,0,0
+CG36,Central Florida,College,0,0,0,0,0,0,0
+CG32,Texas A&M,College,0,0,0,0,0,0,0
+CG75,Fresno St.,College,0,0,0,0,0,0,0
+CG180,East. Illinois,College,0,0,0,0,0,0,0
+CG102,Virginia Tech,College,0,0,0,0,0,0,0
+CG19,Georgia,College,0,0,0,0,0,0,0
+CG2,Alabama,College,0,0,0,0,0,0,0
+CG42,San Jose St.,College,0,0,0,0,0,0,0
+CG204,Ball St.,College,0,0,0,0,0,0,0
+CG107,SMU,College,0,0,0,0,0,0,0
+CG96,Syracuse,College,0,0,0,0,0,0,0
+CG169,Southern Utah,College,0,0,0,0,0,0,0
+CG183,Miami (OH),College,0,0,0,0,0,0,0
+CG112,South Florida,College,0,0,0,0,0,0,0
+CG21,Arizona St.,College,0,0,0,0,0,0,0
+CG46,Wisconsin,College,0,0,0,0,0,0,0
+CG91,Arizona,College,0,0,0,0,0,0,0
+CG52,San Diego St.,College,0,0,0,0,0,0,0
+CG162,Tenn-Chattanooga,College,0,0,0,0,0,0,0
+CG34,Northern Illinois,College,0,0,0,0,0,0,0
+CG20,Washington,College,0,0,0,0,0,0,0
+CG18,TCU,College,0,0,0,0,0,0,0
+CG104,Nevada,College,0,0,0,0,0,0,0
+CG95,Idaho,College,0,0,0,0,0,0,0
+CG23,Florida,College,0,0,0,0,0,0,0
+CG70,Texas,College,0,0,0,0,0,0,0
+CG121,Fordham,College,0,0,0,0,0,0,0
+CG45,Florida Atlantic,College,0,0,0,0,0,0,0
+CG26,Central Michigan,College,0,0,0,0,0,0,0
+CG94,Cincinnati,College,0,0,0,0,0,0,0
+CG149,Troy,College,0,0,0,0,0,0,0
+CG27,Kansas St.,College,0,0,0,0,0,0,0
+CG108,Sam Houston St.,College,0,0,0,0,0,0,0
+CG76,Rutgers,College,0,0,0,0,0,0,0
+CG241,West Texas A&M,College,0,0,0,0,0,0,0
+CG123,Purdue,College,0,0,0,0,0,0,0
+CG10,Boston Col.,College,0,0,0,0,0,0,0
+CG37,Delaware,College,0,0,0,0,0,0,0
+CG156,San Diego,College,0,0,0,0,0,0,0
+CG29,Hawaii,College,0,0,0,0,0,0,0
+CG6,Kentucky,College,0,0,0,0,0,0,0
+CG8,Houston,College,0,0,0,0,0,0,0
+CG47,BYU,College,0,0,0,0,0,0,0
+CG105,Texas-El Paso,College,0,0,0,0,0,0,0
+CG160,Coastal Carolina,College,0,0,0,0,0,0,0
+CG30,Vanderbilt,College,0,0,0,0,0,0,0
+CG16,Alabama St.,College,0,0,0,0,0,0,0
+CG202,Furman,College,0,0,0,0,0,0,0
+CG84,Bowling Green,College,0,0,0,0,0,0,0
+CG31,Utah,College,0,0,0,0,0,0,0
+CG83,Akron,College,0,0,0,0,0,0,0
+CG128,Connecticut,College,0,0,0,0,0,0,0
+CG234,Tulsa,College,0,0,0,0,0,0,0
+CG175,Harvard,College,0,0,0,0,0,0,0
+CG87,Tulane,College,0,0,0,0,0,0,0
+CG39,Virginia,College,0,0,0,0,0,0,0
+CG195,Marshall,College,0,0,0,0,0,0,0
+CG44,Iowa St.,College,0,0,0,0,0,0,0
+CG143,East Carolina,College,0,0,0,0,0,0,0
+CG86,Illinois,College,0,0,0,0,0,0,0
+CG291,California-Davis,College,0,0,0,0,0,0,0
+CG244,Cal Poly-San Luis Obispo,College,0,0,0,0,0,0,0
+CG115,Southern Miss,College,0,0,0,0,0,0,0
+CG122,S.F. Austin,College,0,0,0,0,0,0,0
+CG265,Hofstra,College,0,0,0,0,0,0,0
+CG184,Texas St.,College,0,0,0,0,0,0,0
+CG221,Florida A&M,College,0,0,0,0,0,0,0
+CG164,Georgia Tech,College,0,0,0,0,0,0,0
+CG205,NW Missouri St.,College,0,0,0,0,0,0,0
+CG60,East. Michigan,College,0,0,0,0,0,0,0
+CG141,Middle Tenn. St.,College,0,0,0,0,0,0,0
+CG57,Murray St.,College,0,0,0,0,0,0,0
+CG78,Colorado,College,0,0,0,0,0,0,0
+CG280,Sacramento St.,College,0,0,0,0,0,0,0
+CG256,Army,College,0,0,0,0,0,0,0
+CG274,Northern Arizona,College,0,0,0,0,0,0,0
+CG90,James Madison,College,0,0,0,0,0,0,0
+CG303,Alcorn St.,College,0,0,0,0,0,0,0
+CG139,New Mexico,College,0,0,0,0,0,0,0
+CG327,Pacific,College,0,0,0,0,0,0,0
+CG330,C.W. Post,College,0,0,0,0,0,0,0
+CG269,Howard,College,0,0,0,0,0,0,0
+CG178,William & Mary,College,0,0,0,0,0,0,0
+CG14,Maryland,College,0,0,0,0,0,0,0
+CG191,Rice,College,0,0,0,0,0,0,0
+CG357,John Carroll,College,0,0,0,0,0,0,0
+CG359,Pacific Lutheran,College,0,0,0,0,0,0,0
+CG129,Maine,College,0,0,0,0,0,0,0
+CG302,Wisconsin–Stevens Point,College,0,0,0,0,0,0,0
+CG24,South Carolina,College,0,0,0,0,0,0,0
+CG150,Grambling St.,College,0,0,0,0,0,0,0
+CG50,West. Illinois,College,0,0,0,0,0,0,0
+CG64,Wake Forest,College,0,0,0,0,0,0,0
+CG346,Long Beach St.,College,0,0,0,0,0,0,0
+CG119,Weber St.,College,0,0,0,0,0,0,0
+CG85,Utah St.,College,0,0,0,0,0,0,0
+CG220,New Hampshire,College,0,0,0,0,0,0,0
+CG82,La-Monroe,College,0,0,0,0,0,0,0
+CG245,Nicholls St.,College,0,0,0,0,0,0,0
+CG176,Montana,College,0,0,0,0,0,0,0
+CG273,Michigan Tech,College,0,0,0,0,0,0,0
+CG118,Kansas,College,0,0,0,0,0,0,0
+CG396,Truman St.,College,0,0,0,0,0,0,0
+CG238,UNLV,College,0,0,0,0,0,0,0
+CG379,Colgate,College,0,0,0,0,0,0,0
+CG399,Trinity (CT),College,0,0,0,0,0,0,0
+CG311,Columbia,College,0,0,0,0,0,0,0
+CG404,Montclair St.,College,0,0,0,0,0,0,0
+CG297,Texas A&M-Commerce,College,0,0,0,0,0,0,0
+CG279,Idaho St.,College,0,0,0,0,0,0,0
+CG411,Fairmont St.,College,0,0,0,0,0,0,0
+CG172,Grand Valley St.,College,0,0,0,0,0,0,0
+CG171,Princeton,College,0,0,0,0,0,0,0
+CG127,Northern Iowa,College,0,0,0,0,0,0,0
+CG413,Toronto,College,0,0,0,0,0,0,0
+CG208,Portland St.,College,0,0,0,0,0,0,0
+CG415,Moorhead State (MN),College,0,0,0,0,0,0,0
+CG353,Northern Michigan,College,0,0,0,0,0,0,0
+CG190,Tennessee St.,College,0,0,0,0,0,0,0
+CG203,Arkansas St.,College,0,0,0,0,0,0,0
+CG418,California Lutheran,College,0,0,0,0,0,0,0
+CG356,Morehead St.,College,0,0,0,0,0,0,0
+CG287,Carson-Newman,College,0,0,0,0,0,0,0
+CG227,Lehigh,College,0,0,0,0,0,0,0
+CG391,Santa Clara,College,0,0,0,0,0,0,0
+CG267,Northern Colorado,College,0,0,0,0,0,0,0
+CG148,Youngstown St.,College,0,0,0,0,0,0,0
+CG120,New Mexico St.,College,0,0,0,0,0,0,0
+CG428,Minot St.,College,0,0,0,0,0,0,0
+CG400,Wichita St.,College,0,0,0,0,0,0,0
+CG333,Miss. Valley St.,College,0,0,0,0,0,0,0
+CG243,Brown,College,0,0,0,0,0,0,0
+CG114,Humboldt St.,College,0,0,0,0,0,0,0
+CG198,Kent St.,College,0,0,0,0,0,0,0
+CG348,Emporia St.,College,0,0,0,0,0,0,0
+CG447,Washington & Lee,College,0,0,0,0,0,0,0
+CG22,Temple,College,0,0,0,0,0,0,0
+CG326,Howard Payne,College,0,0,0,0,0,0,0
+CG59,Boise St.,College,0,0,0,0,0,0,0
+CG131,Yale,College,0,0,0,0,0,0,0
+CG315,East Tennessee St.,College,0,0,0,0,0,0,0
+CG38,Massachusetts,College,0,0,0,0,0,0,0
+CG389,Texas-Arlington,College,0,0,0,0,0,0,0
+NFL0,ARI,NFL Team,0,0,0,0,0,0,0
+NFL5,NYG,NFL Team,0,0,0,0,0,0,0
+NFL14,WAS,NFL Team,0,0,0,0,0,0,0
+NFL18,DEN,NFL Team,0,0,0,0,0,0,0
+NFL15,CAR,NFL Team,0,0,0,0,0,0,0
+NFL10,CIN,NFL Team,0,0,0,0,0,0,0
+NFL24,NWE,NFL Team,0,0,0,0,0,0,0
+NFL22,LAC,NFL Team,0,0,0,0,0,0,0
+NFL19,PHI,NFL Team,0,0,0,0,0,0,0
+NFL6,JAX,NFL Team,0,0,0,0,0,0,0
+NFL21,BAL,NFL Team,0,0,0,0,0,0,0
+NFL26,CLE,NFL Team,0,0,0,0,0,0,0
+NFL2,NYJ,NFL Team,0,0,0,0,0,0,0
+NFL8,BUF,NFL Team,0,0,0,0,0,0,0
+NFL9,PIT,NFL Team,0,0,0,0,0,0,0
+NFL29,DAL,NFL Team,0,0,0,0,0,0,0
+NFL17,TEN,NFL Team,0,0,0,0,0,0,0
+NFL23,SEA,NFL Team,0,0,0,0,0,0,0
+NFL31,CHI,NFL Team,0,0,0,0,0,0,0
+NFL28,KAN,NFL Team,0,0,0,0,0,0,0
+NFL20,HOU,NFL Team,0,0,0,0,0,0,0
+NFL1,SFO,NFL Team,0,0,0,0,0,0,0
+NFL7,DET,NFL Team,0,0,0,0,0,0,0
+NFL30,LAR,NFL Team,0,0,0,0,0,0,0
+NFL3,OAK,NFL Team,0,0,0,0,0,0,0
+NFL12,MIA,NFL Team,0,0,0,0,0,0,0
+NFL4,TAM,NFL Team,0,0,0,0,0,0,0
+NFL27,NOR,NFL Team,0,0,0,0,0,0,0
+NFL11,GNB,NFL Team,0,0,0,0,0,0,0
+NFL16,MIN,NFL Team,0,0,0,0,0,0,0
+NFL13,ATL,NFL Team,0,0,0,0,0,0,0
+NFL25,IND,NFL Team,0,0,0,0,0,0,0
