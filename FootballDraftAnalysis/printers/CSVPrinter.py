@@ -16,8 +16,8 @@ class CSVPrinter:
                          "Round Selected", "Pick In Round", "Position"]]
         for player in playersList:
             nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-            edgeCSVRows.append([player.collegeID, player.uniqueID])
-            edgeCSVRows.append([player.uniqueID, nflID])
+            #edgeCSVRows.append([player.collegeID, player.uniqueID])
+            #edgeCSVRows.append([player.uniqueID, nflID])
             labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls, player.yearDrafted,
                                  player.draftAge, player.roundSelected, player.pickInRound, player.position])
         for college in College.teamCache:
@@ -201,6 +201,44 @@ class CSVPrinter:
         labelCSV.close()
 
     @staticmethod
+    def printBarChartCSV(playersList, csvLocation):
+        data = {}
+        header = ["college_team"]
+        years = []
+        csvArray = []
+        for player in playersList:
+            if player.yearDrafted not in years:
+                 years.append(player.yearDrafted)
+            college = College.getCachedTeam(player.collegeID)
+            if college.name not in data:
+                yearData = {player.yearDrafted: 1}
+                data[college.name] = yearData
+            elif player.yearDrafted not in data[college.name]:
+                data[college.name][player.yearDrafted] = 1
+            else:
+                data[college.name][player.yearDrafted] += 1
+        years = list(reversed(years))
+        for year in years:
+            header.append(year)
+        csvArray.append(header)
+        for collegeName in data:
+            collegeSums = []
+            collegeSums.append(collegeName)
+            for year in list(years):
+                print("Year: " + year)
+                if year not in sorted(data[collegeName]):
+                    print("Year not in that colleges years!!!!!!!!!!!!!!!!!!!!!!!!!")
+                    collegeSums.append(0)
+                else:
+                    print("Year in data ========================================")
+                    collegeSums.append(data[collegeName][year])
+            csvArray.append(collegeSums)
+        with open(csvLocation, "w") as barChartCSV:
+            writer = csv.writer(barChartCSV)
+            writer.writerows(csvArray)
+        barChartCSV.close()
+
+    @staticmethod
     def getModernNFLID(nflID):
         if nflID == "NFL32":
             nflID = "NFL22"
@@ -211,3 +249,4 @@ class CSVPrinter:
         if nflID == "NFL36":
             nflID = "NFL0"
         return nflID
+
