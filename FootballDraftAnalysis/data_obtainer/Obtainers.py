@@ -166,7 +166,7 @@ class DraftDataObtainer:
         if awardedOnly:
             html = html + "Awarded"
         html = html + ".html"
-        CSVPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html)
+        CSVPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
 '''DraftDataObtainer.obtainAllPlayers()

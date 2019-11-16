@@ -200,30 +200,6 @@ class CSVPrinter:
             writer.writerows(labelCSVRows)
         labelCSV.close()
 
-    '''@staticmethod
-    def printBipartiteGraph(playersList, csvLocation):
-        bipartiteCSVHeader = ["College", "NFL Team", "Number of Players"]
-        csvRows = [bipartiteCSVHeader]
-
-        for college in College.teamCache:
-            sum = 0
-            nflTeams = []
-            collegeName = ""
-            collegeID = college.uniqueID
-            for player in playersList:
-                if collegeID == player.collegeID:
-                    collegeName = college.name
-                    sum += 1
-                    nflTeamName = NFLTeam.getCachedTeam(player.nflTeamID).name
-                    if nflTeamName not in nflTeams:
-                        nflTeams.append(nflTeamName)
-            for nflTeamName in nflTeams:
-                csvRows.append([collegeName, nflTeamName, sum])'''
-
-
-
-
-
     @staticmethod
     def getModernNFLID(nflID):
         if nflID == "NFL32":
@@ -238,89 +214,132 @@ class CSVPrinter:
 
 
     @staticmethod
-    def printBipartiteHTML(playersList, htmlLocation):
-        totalPlayers = 0
+    def printBipartiteHTML(playersList, htmlLocation, awardedOnly):
         outerDict = {}
+        tempCounterDict = {}
+        counterDict = {}
         for player in playersList:
-            nflName = NFLTeam.getCachedTeam(player.nflTeamID).name.encode('utf-8')
-            collegeName = College.getCachedTeam(player.collegeID).name.encode('utf-8')
-            if collegeName not in outerDict:
-                innerDict = {nflName: 1}
-                outerDict[collegeName] = innerDict
-                totalPlayers += 1
-            elif nflName not in outerDict[collegeName]:
-                outerDict[collegeName][nflName] = 1
-                totalPlayers += 1
-            else:
-                outerDict[collegeName][nflName] += 1
-                totalPlayers += 1
-        print(outerDict)
-        print("Total Players " + str(totalPlayers))
+            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
+            if (awardedOnly and playerHasAward) or not awardedOnly:
+                nflName = NFLTeam.getCachedTeam(CSVPrinter.getModernNFLID(player.nflTeamID)).name.encode('utf-8')
+                collegeName = College.getCachedTeam(player.collegeID).name.encode('utf-8')
+                if nflName not in outerDict:
+                    innerDict = {collegeName: 1}
+                    outerDict[nflName] = innerDict
+                elif collegeName not in outerDict[nflName]:
+                    outerDict[nflName][collegeName] = 1
+                else:
+                    outerDict[nflName][collegeName] += 1
+                if collegeName not in tempCounterDict:
+                    innerCounterDict = {nflName: 1}
+                    tempCounterDict[collegeName] = innerCounterDict
+                elif nflName not in tempCounterDict[collegeName]:
+                    tempCounterDict[collegeName][nflName] = 1
+                else:
+                    tempCounterDict[collegeName][nflName] += 1
 
-        topOfHTML = '< !DOCTYPE html > < meta charset = "utf-8" > < style > text {font - size: 12px;}.mainBars rect{'\
-                    +'shape - rendering: auto; fill - opacity: 0; stroke - width: 0.5px; stroke: rgb(0, 0, 0); stroke'\
-                    +' - opacity: 0; }.subBars { shape - rendering: crispEdges; }.edges { stroke: none; '\
-                    +'fill - opacity:0.5; }.header { text - anchor: middle; font - size:16 px; } line { stroke: grey;'\
-                    +'} < / style > < body > < script src = "https://d3js.org/d3.v4.min.js" > < / script > < script '\
-                    +'src = "http://vizjs.org/viz.v1.1.0.min.js" > < / script > < script >'
-        dictionaryToString = 'var data = ['
-        for college in outerDict:
-            for nflteam in outerDict[college]:
-                dictionaryToString += "['" + college + "','" + nflteam + "'," + str(outerDict[college][nflteam]) + "], "
+        for clg in tempCounterDict:
+            totalDraftees = 0
+            for nfl in tempCounterDict[clg]:
+                totalDraftees += tempCounterDict[clg][nfl]
+            counterDict[clg] = totalDraftees
+        topOfHTML = """
+<!DOCTYPE html>\n
+<meta charset="utf-8">\n
+<style>\n
+.mainBars rect{\n
+  fill-opacity: 0;\n
+  stroke-width: 0.5px;\n
+  stroke: rgb(0, 0, 0);\n
+  stroke-opacity: 0;\n
+}\n
+.subBars{\n
+	shape-rendering:crispEdges;\n
+}\n
+.header{\n
+	text-anchor:middle;\n
+	font-size:16px;\n
+}\n
+</style>\n
+<body>\n
+<script src="https://d3js.org/d3.v4.min.js"></script>\n
+<script src="http://vizjs.org/viz.v1.3.0.min.js"></script>\n
+<script>\n
+"""
+        dictionaryToString = '\nvar data = ['
+        for nflTeam in outerDict:
+            for college in outerDict[nflTeam]:
+                if counterDict[college] > 3:
+                    replacementCollegeName = college
+                    if "'" in college:
+                        replacementCollegeName = replacementCollegeName.replace("'", "`")
+                    dictionaryToString += "['" + nflTeam + "','" + replacementCollegeName + "'," \
+                                          + str(outerDict[nflTeam][college]) + "], " + "\n"
         dictionaryToString += "]; "
-        bottomOfHTML = 'var svg = d3.select("body").append("svg").attr("width", 960).attr("height", 800); '\
-                       +'svg.append("text").attr("x",250).attr("y",70).attr("class","header").text("Sales Attempt");'\
-                       +'svg.append("text").attr("x",750).attr("y",70).attr("class","header").text("Sales"); '\
-                       +'var g =[svg.append("g").attr("transform","translate(150,100)"),svg.append("g").attr('\
-                       +'"transform","translate(650,100)")]; var bp=[ viz.bP().data(data).min(12).pad(1).height(600)'\
-                       +'.width(200).barSize(35).fill(d=>color[d.primary]) ,viz.bP().data(data).value(d=>d[3]) '\
-                       +'.min(12).pad(1).height(600).width(200).barSize(35).fill(d=>color[d.primary]) ]; [0,1]'\
-                       +'.forEach(function(i){ g[i].call(bp[i]) g[i].append("text").attr("x",-50).attr("y",-8).style'\
-                       +'("text-anchor","middle").text("Channel"); g[i].append("text").attr("x", 250).attr("y",-8)'\
-                       +'.style("text-anchor","middle").text("State"); g[i].append("line").attr("x1",-100).attr("x2",0)'\
-                       +'; g[i].append("line").attr("x1",200).attr("x2",300); g[i].append("line").attr("y1",610).attr'\
-                       +'("y2",610).attr("x1",-100).attr("x2",0); g[i].append("line").attr("y1",610).attr("y2",610)'\
-                       +'.attr("x1",200).attr("x2",300); g[i].selectAll(".mainBars").on("mouseover",mouseover).on'\
-                       +'("mouseout",mouseout); g[i].selectAll(".mainBars").append("text").attr("class","label") '\
-                       +'.attr("x",d=>(d.part=="primary"? -30: 30)).attr("y",d=>+6).text(d=>d.key).attr("text-'\
-                       +'anchor",d=>(d.part=="primary"? "end": "start")); g[i].selectAll(".mainBars").append("text")'\
-                       +'.attr("class","perc").attr("x",d=>(d.part=="primary"? -100: 80)).attr("y",d=>+6).text'\
-                       +'(function(d){ return d3.format("0.0%")(d.percent)}).attr("text-anchor",d=>(d.part=="primary"'\
-                       +'? "end": "start")); }); function mouseover(d){ [0,1].forEach(function(i){ bp[i].mouseover(d);'\
-                       +' g[i].selectAll(".mainBars").select(".perc").text(function(d){ return d3.format("0.0%")'\
-                       +'(d.percent)}); }); } function mouseout(d){ [0,1].forEach(function(i){ bp[i].mouseout(d);'\
-                       +' g[i].selectAll(".mainBars").select(".perc").text(function(d){ return d3.format("0.0%")'\
-                       +'(d.percent)}); }); } d3.select(self.frameElement).style("height", "800px"); </script> </body>'\
-                       +' </html>'
+        dictionaryToString.replace("], \n];", "]];\n")
+        bottomOfHTML = """
+var svg = d3.select("body").append("svg").attr("width", 960).attr("height", 2300);\n
+\n
+svg.append("text").attr("x",300).attr("y",70)\n
+	.attr("class","header").text("Awarded Players Drafted");\n
+\n
+var g =[svg.append("g").attr("transform","translate(150,100)")];\n
+\n
+var bp= [viz.biPartite()\n
+		.data(data)\n
+		.pad(1)\n
+		.height(900)\n
+		.width(300)\n
+		.barSize(50)];\n
+\n
+[0].forEach(function(){\n
+	g[0].call(bp[0])\n
+	\n
+	g[0].append("text").attr("x",-50).attr("y",-8).style("text-anchor","middle").text("NFL Team");\n
+	g[0].append("text").attr("x", 325).attr("y",-8).style("text-anchor","middle").text("College");\n
+	\n
+	g[0].selectAll(".mainBars")\n
+		.on("mouseover",mouseover)\n
+		.on("mouseout",mouseout);\n
+\n
+<!--Labels -60 = NFL 50 = College-->\n
+	g[0].selectAll(".mainBars").append("text").attr("class", "label")\n
+		.attr("x",d=>(d.part=="primary"? -60: 50))\n
+		.attr("y",d=>+6)\n
+		.text(d=>d.key)\n
+		.attr("text-anchor",d=>(d.part=="primary"? "end": "start"));\n
+<!--Percentages-->\n
+	g[0].selectAll(".mainBars").append("text").attr("class", "perc")\n
+		.attr("x",d=>(d.part=="primary"? -100: 150))\n
+		.attr("y",d=>+6)\n
+		.text(function(d){ return d3.format("0.0%")(d.percent)})\n
+		.attr("text-anchor",d=>(d.part=="primary"? "end": "start"));\n
+});\n
+\n
+function mouseover(d){\n
+	[0].forEach(function(){\n
+		bp[0].mouseover(d);\n
+		\n
+		g[0].selectAll(".mainBars").select(".perc")\n
+		.text(function(d){ return d3.format("0.0%")(d.percent)});\n
+	});\n
+}\n
+function mouseout(d){\n
+	[0].forEach(function(){\n
+		bp[0].mouseout(d);\n
+		\n
+		g[0].selectAll(".mainBars").select(".perc")\n
+		.text(function(d){ return d3.format("0.0%")(d.percent)});\n
+	});\n
+}\n
+d3.select(self.frameElement).style("height", "800px");\n
+</script>\n
+</body>\n
+</html>
+        """
 
         entireHTML = topOfHTML + dictionaryToString + bottomOfHTML
         with open(htmlLocation, "w") as htmlwriter:
             htmlwriter.write(entireHTML)
         htmlwriter.close()
-
-
-
-
-
-
-
-#College is the class. Team cache is the object that gets filled with team name and team unique ID
-
-
-#class.object
-#College.teamCache
-
-
-
-#matching players who have the same college ID and football team
-    '''@staticmethod
-    def Bipartite( )
-
-        csvHeader = ["College", "NFLTeam", "Number of Players"]
-        college = []
-        sum = 0
-        NFLTeam = []
-        for player in playerList:
-            if player.collegeID = uniqueID && player.NFLTeam
-        for college in collegelist:'''
 
