@@ -5,25 +5,27 @@ from nodes.NFLTeam import NFLTeam
 
 
 class CSVPrinter:
-
+    edgeCSVRowsHeader = [["Source", "Target"]]
+    labelCSVRowsHeader = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
+                           "Round Selected", "Pick In Round", "Position", "College", "NFLTeam"]]
     def __init__(self):
         return
 
     @staticmethod
     def printAllEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         for player in playersList:
             nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
             edgeCSVRows.append([player.collegeID, player.uniqueID])
             edgeCSVRows.append([player.uniqueID, nflID])
             labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls, player.yearDrafted,
-                                 player.draftAge, player.roundSelected, player.pickInRound, player.position])
+                                 player.draftAge, player.roundSelected, player.pickInRound, player.position,
+                                 College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         for college in College.teamCache:
-            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0", "0", "0"])
         for team in NFLTeam.teamCache:
-            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0", "0", "0"])
         with open(edgeCSVLocation, "w") as edgesCSV:
             writer = csv.writer(edgesCSV)
             writer.writerows(edgeCSVRows)
@@ -35,9 +37,8 @@ class CSVPrinter:
 
     @staticmethod
     def printAwardedEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
@@ -52,16 +53,16 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printRoundRangeEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, minimum, maximum,
                                           awardedOnly):
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
 
@@ -78,15 +79,15 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printPositionEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, position, awardedOnly):
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
@@ -102,16 +103,16 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printOLEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         offensiveLine = ["T", "G", "C", "OL"]
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
@@ -127,7 +128,8 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
                                              labelCSVLocation,
                                              edgeCSVRows, labelCSVRows)
@@ -135,9 +137,8 @@ class CSVPrinter:
     @staticmethod
     def print4_3LBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         lbs4_3 = ["OLB", "ILB"]
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
@@ -153,16 +154,16 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
                                              labelCSVLocation, edgeCSVRows, labelCSVRows)
 
     @staticmethod
     def printDBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         defensiveBacks = ["CB", "DB", "S"]
-        edgeCSVRows = [["Source", "Target"]]
-        labelCSVRows = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
-                         "Round Selected", "Pick In Round", "Position"]]
+        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
         tempCollegeIDList = []
         tempNFLTeamIDList = []
         for player in playersList:
@@ -178,7 +179,8 @@ class CSVPrinter:
                 edgeCSVRows.append([player.uniqueID, nflID])
                 labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
                                      player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position])
+                                     player.pickInRound, player.position,
+                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
         CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
                                              labelCSVLocation, edgeCSVRows, labelCSVRows)
 
@@ -187,10 +189,10 @@ class CSVPrinter:
                                   edgeCSVRows, labelCSVRows):
         for collegeID in collegeList:
             college = College.getCachedTeam(collegeID)
-            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([college.uniqueID, college.name, "College", 0, 0, 0, 0, 0, 0, "0", "0", "0", "0", "0"])
         for teamID in NFLTeamList:
             team = NFLTeam.getCachedTeam(teamID)
-            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0"])
+            labelCSVRows.append([team.uniqueID, team.name, "NFL Team", 0, 0, 0, 0, 0, 0, "0", "0", "0"])
         with open(edgeCSVLocation, "w") as edgesCSV:
             writer = csv.writer(edgesCSV)
             writer.writerows(edgeCSVRows)
@@ -221,8 +223,8 @@ class CSVPrinter:
         for player in playersList:
             playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
             if (awardedOnly and playerHasAward) or not awardedOnly:
-                nflName = NFLTeam.getCachedTeam(CSVPrinter.getModernNFLID(player.nflTeamID)).name.encode('utf-8')
-                collegeName = College.getCachedTeam(player.collegeID).name.encode('utf-8')
+                nflName = NFLTeam.getCachedTeam(CSVPrinter.getModernNFLID(player.nflTeamID)).name
+                collegeName = College.getCachedTeam(player.collegeID).name
                 if nflName not in outerDict:
                     innerDict = {collegeName: 1}
                     outerDict[nflName] = innerDict
@@ -244,27 +246,27 @@ class CSVPrinter:
                 totalDraftees += tempCounterDict[clg][nfl]
             counterDict[clg] = totalDraftees
         topOfHTML = """
-<!DOCTYPE html>\n
-<meta charset="utf-8">\n
-<style>\n
-.mainBars rect{\n
-  fill-opacity: 0;\n
-  stroke-width: 0.5px;\n
-  stroke: rgb(0, 0, 0);\n
-  stroke-opacity: 0;\n
-}\n
-.subBars{\n
-	shape-rendering:crispEdges;\n
-}\n
-.header{\n
-	text-anchor:middle;\n
-	font-size:16px;\n
-}\n
-</style>\n
-<body>\n
-<script src="https://d3js.org/d3.v4.min.js"></script>\n
-<script src="http://vizjs.org/viz.v1.3.0.min.js"></script>\n
-<script>\n
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+.mainBars rect{
+  fill-opacity: 0;
+  stroke-width: 0.5px;
+  stroke: rgb(0, 0, 0);
+  stroke-opacity: 0;
+}
+.subBars{
+	shape-rendering:crispEdges;
+}
+.header{
+	text-anchor:middle;
+	font-size:16px;
+}
+</style>
+<body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
+<script>
 """
         dictionaryToString = '\nvar data = ['
         for nflTeam in outerDict:
@@ -278,63 +280,58 @@ class CSVPrinter:
         dictionaryToString += "]; "
         dictionaryToString.replace("], \n];", "]];\n")
         bottomOfHTML = """
-var svg = d3.select("body").append("svg").attr("width", 960).attr("height", 2300);\n
-\n
-svg.append("text").attr("x",300).attr("y",70)\n
-	.attr("class","header").text("Awarded Players Drafted");\n
-\n
-var g =[svg.append("g").attr("transform","translate(150,100)")];\n
-\n
-var bp= [viz.biPartite()\n
-		.data(data)\n
-		.pad(1)\n
-		.height(900)\n
-		.width(300)\n
-		.barSize(50)];\n
-\n
-[0].forEach(function(){\n
-	g[0].call(bp[0])\n
-	\n
-	g[0].append("text").attr("x",-50).attr("y",-8).style("text-anchor","middle").text("NFL Team");\n
-	g[0].append("text").attr("x", 325).attr("y",-8).style("text-anchor","middle").text("College");\n
-	\n
-	g[0].selectAll(".mainBars")\n
-		.on("mouseover",mouseover)\n
-		.on("mouseout",mouseout);\n
-\n
-<!--Labels -60 = NFL 50 = College-->\n
-	g[0].selectAll(".mainBars").append("text").attr("class", "label")\n
-		.attr("x",d=>(d.part=="primary"? -60: 50))\n
-		.attr("y",d=>+6)\n
-		.text(d=>d.key)\n
-		.attr("text-anchor",d=>(d.part=="primary"? "end": "start"));\n
-<!--Percentages-->\n
-	g[0].selectAll(".mainBars").append("text").attr("class", "perc")\n
-		.attr("x",d=>(d.part=="primary"? -100: 150))\n
-		.attr("y",d=>+6)\n
-		.text(function(d){ return d3.format("0.0%")(d.percent)})\n
-		.attr("text-anchor",d=>(d.part=="primary"? "end": "start"));\n
-});\n
-\n
-function mouseover(d){\n
-	[0].forEach(function(){\n
-		bp[0].mouseover(d);\n
-		\n
-		g[0].selectAll(".mainBars").select(".perc")\n
-		.text(function(d){ return d3.format("0.0%")(d.percent)});\n
-	});\n
-}\n
-function mouseout(d){\n
-	[0].forEach(function(){\n
-		bp[0].mouseout(d);\n
-		\n
-		g[0].selectAll(".mainBars").select(".perc")\n
-		.text(function(d){ return d3.format("0.0%")(d.percent)});\n
-	});\n
-}\n
-d3.select(self.frameElement).style("height", "800px");\n
-</script>\n
-</body>\n
+var color ={ARI:"#f03535", ATL:"#ab0909",  BAL:"#64017d", BUF:"#166af2", CAR:"#50b4f2",
+ CHI:"#013263", CIN:"#f58905", CLE:"#b35b04", DAL:"#ada9a5", DEN:"#FF990A",
+ DET:"#0AB6FF", GNB:"#FFD20A", HOU:"#012A7D", IND:"#E1F5FA", JAX:"#146B02",
+ KAN:"#F7070F", LAC:"#2FD1FA", LAR:"#024BAB", MIA:"#07E88E", MIN:"#A835F0",
+ NOR:"#B58610", NWE:"#002EAB", NYG:"#4768C4", NYJ:"#039C27", OAK:"#000000",
+ PHI:"#02BA2D", PIT:"#FFEA05", SEA:"#05FF09", SFO:"#E80725", TAM:"#F71936",
+ TEN:"#2D95F7", WAS:"#B83D5F"};
+var svg = d3.select("body").append("svg").attr("width", 700).attr("height", 2200);
+var g = svg.append("g").attr("transform","translate(200,50)");
+
+var bp=viz.bP()
+        .data(data)
+        .pad(1)
+        .min(8)
+        .height(2000)
+        .width(300)
+        .barSize(35)
+        .fill(d=>color[d.primary]);
+g.call(bp);
+
+g.selectAll(".mainBars")
+    .on("mouseover",mouseover)
+    .on("mouseout",mouseout)
+
+<!--Names-->
+g.selectAll(".mainBars").append("text").attr("class","label")
+    .attr("x",d=>(d.part=="primary"? -30: 30))
+    .attr("y",d=>+6)
+    .text(d=>d.key)
+    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
+<!--Percent-->
+g.selectAll(".mainBars").append("text").attr("class","perc")
+    .attr("x",d=>(d.part=="primary"? -90: 180))
+    .attr("y",d=>+6)
+    .text(function(d){ return d3.format("0.0%")(d.percent)})
+    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
+
+function mouseover(d){
+    bp.mouseover(d);
+    g.selectAll(".mainBars")
+    .select(".perc")
+    .text(function(d){ return d3.format("0.0%")(d.percent)})
+}
+function mouseout(d){
+    bp.mouseout(d);
+    g.selectAll(".mainBars")
+        .select(".perc")
+        .text(function(d){ return d3.format("0.0%")(d.percent)})
+}
+d3.select(self.frameElement).style("height", "800px");
+</script>
+</body>
 </html>
         """
 

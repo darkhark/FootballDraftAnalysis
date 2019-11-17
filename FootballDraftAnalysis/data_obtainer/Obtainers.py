@@ -169,7 +169,8 @@ class DraftDataObtainer:
         CSVPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
-'''DraftDataObtainer.obtainAllPlayers()
+
+DraftDataObtainer.obtainAllPlayers()
 DraftDataObtainer.obtainAwardedPlayers()
 DraftDataObtainer.obtainRoundsRange(1, 3, False)
 DraftDataObtainer.obtainRoundsRange(4, 7, False)
@@ -200,5 +201,7 @@ DraftDataObtainer.obtainPosition("DE", True)
 DraftDataObtainer.obtainPosition("DT", True)
 DraftDataObtainer.obtainPosition("LB", True)
 DraftDataObtainer.obtain4_3LBs(True)
-DraftDataObtainer.obtainDBs(True)'''
+DraftDataObtainer.obtainDBs(True)
 DraftDataObtainer.obtainBipartite(True)
+DraftDataObtainer.obtainBipartite(False)
+
