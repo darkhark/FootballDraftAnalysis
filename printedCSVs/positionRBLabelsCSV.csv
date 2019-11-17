@@ -1,1769 +1,1769 @@
-ID,Label,Node Type,All Pros,Pro Bowls,Draft Age,Year Drafted,Round Selected,Pick In Round,Position
-PL23,Josh Jacobs,Player,0,0,21,2019,1,24,RB
-PL52,Miles Sanders,Player,0,0,22,2019,2,53,RB
-PL69,Darrell Henderson,Player,0,0,22,2019,3,70,RB
-PL72,David Montgomery,Player,0,0,22,2019,3,73,RB
-PL73,Devin Singletary,Player,0,0,22,2019,3,74,RB
-PL86,Damien Harris,Player,0,0,22,2019,3,87,RB
-PL101,Alexander Mattison,Player,0,0,21,2019,3,102,RB
-PL111,Bryce Love,Player,0,0,22,2019,4,112,RB
-PL112,Justice Hill,Player,0,0,21,2019,4,113,RB
-PL121,Benny Snell,Player,0,0,21,2019,4,122,RB
-PL127,Tony Pollard,Player,0,0,22,2019,4,128,RB
-PL139,Ryquell Armstead,Player,0,0,22,2019,5,140,RB
-PL151,Qadree Ollison,Player,0,0,22,2019,5,152,RB
-PL153,Jordan Scarlett,Player,0,0,23,2019,5,154,RB
-PL181,Trayveon Williams,Player,0,0,21,2019,6,182,RB
-PL185,Ty Johnson,Player,0,0,21,2019,6,186,RB
-PL193,Dexter Williams,Player,0,0,22,2019,6,194,RB
-PL203,Travis Homer,Player,0,0,21,2019,6,204,RB
-PL210,Rodney Anderson,Player,0,0,22,2019,6,211,RB
-PL213,Darwin Thompson,Player,0,0,23,2019,6,214,RB
-PL217,Mike Weber,Player,0,0,22,2019,7,218,RB
-PL219,Cullen Gillaspia,Player,0,0,24,2019,7,220,RB
-PL221,"Kerrith Whyte, Jr.",Player,0,0,22,2019,7,222,RB
-PL232,Chandler Cox,Player,0,0,23,2019,7,233,RB
-PL233,Myles Gaskin,Player,0,0,22,2019,7,234,RB
-PL254,Saquon Barkley,Player,0,1,21,2018,1,2,RB
-PL279,Rashaad Penny,Player,0,0,22,2018,1,27,RB
-PL283,Sony Michel,Player,0,0,23,2018,1,31,RB
-PL287,Nick Chubb,Player,0,0,22,2018,2,35,RB
-PL290,Ronald Jones,Player,0,0,21,2018,2,38,RB
-PL295,Kerryon Johnson,Player,0,0,21,2018,2,43,RB
-PL311,Derrius Guice,Player,0,0,21,2018,2,59,RB
-PL323,Royce Freeman,Player,0,0,22,2018,3,71,RB
-PL356,Nyheim Hines,Player,0,0,21,2018,4,104,RB
-PL364,Mark Walton,Player,0,0,21,2018,4,112,RB
-PL378,Ito Smith,Player,0,0,22,2018,4,126,RB
-PL383,Kalen Ballage,Player,0,0,22,2018,4,131,RB
-PL386,Chase Edmonds,Player,0,0,22,2018,4,134,RB
-PL421,Jordan Wilkins,Player,0,0,24,2018,5,169,RB
-PL428,John Kelly,Player,0,0,21,2018,6,176,RB
-PL453,Boston Scott,Player,0,0,23,2018,6,201,RB
-PL456,Trenton Cannon,Player,0,0,24,2018,6,204,RB
-PL478,David Williams,Player,0,0,24,2018,7,226,RB
-PL487,Bo Scarbrough,Player,0,0,21,2018,7,236,RB
-PL488,Nick Bawden,Player,0,0,22,2018,7,237,RB
-PL501,Justin Jackson,Player,0,0,23,2018,7,251,RB
-PL510,Leonard Fournette,Player,0,0,22,2017,1,4,RB
-PL514,Christian McCaffrey,Player,0,0,21,2017,1,8,RB
-PL547,Dalvin Cook,Player,0,0,22,2017,2,41,RB
-PL554,Joe Mixon,Player,0,0,21,2017,2,48,RB
-PL573,Alvin Kamara,Player,0,2,22,2017,3,67,RB
-PL592,Kareem Hunt,Player,0,1,22,2017,3,86,RB
-PL595,D'Onta Foreman,Player,0,0,21,2017,3,89,RB
-PL611,James Conner,Player,0,1,22,2017,3,105,RB
-PL620,Samaje Perine,Player,0,0,21,2017,4,114,RB
-PL625,Tarik Cohen,Player,1,1,22,2017,4,119,RB
-PL627,Joe Williams,Player,0,0,24,2017,4,121,RB
-PL638,Donnel Pumphrey,Player,0,0,22,2017,4,132,RB
-PL640,Jamaal Williams,Player,0,0,22,2017,4,134,RB
-PL646,Wayne Gallman,Player,0,0,22,2017,4,140,RB
-PL649,Marlon Mack,Player,0,0,21,2017,4,143,RB
-PL662,Brian Hill,Player,0,0,21,2017,5,156,RB
-PL668,Jeremy McNichols,Player,0,0,21,2017,5,162,RB
-PL685,T.J. Logan,Player,0,0,23,2017,5,179,RB
-PL688,Aaron Jones,Player,0,0,22,2017,5,182,RB
-PL694,Elijah McGuire,Player,0,0,23,2017,6,188,RB
-PL709,De'Angelo Henderson,Player,0,0,24,2017,6,203,RB
-PL713,Brandon Wilson,Player,0,0,23,2017,6,207,RB
-PL743,Devante Mays,Player,0,0,23,2017,7,238,RB
-PL746,Khalfani Muhammad,Player,0,0,22,2017,7,241,RB
-PL747,Elijah Hood,Player,0,0,21,2017,7,242,RB
-PL754,Chris Carson,Player,0,0,22,2017,7,249,RB
-PL757,Matthew Dayes,Player,0,0,23,2017,7,252,RB
-PL762,Ezekiel Elliott,Player,1,2,21,2016,1,4,RB
-PL803,Derrick Henry,Player,0,0,22,2016,2,45,RB
-PL831,Kenyan Drake,Player,0,0,22,2016,3,73,RB
-PL848,C.J. Prosise,Player,0,0,22,2016,3,90,RB
-PL877,Tyler Ervin,Player,0,0,22,2016,4,119,RB
-PL892,Kenneth Dixon,Player,0,0,22,2016,4,134,RB
-PL894,Devontae Booker,Player,0,0,24,2016,4,136,RB
-PL901,DeAndre Washington,Player,0,0,23,2016,5,143,RB
-PL907,Paul Perkins,Player,0,0,21,2016,5,149,RB
-PL908,Jordan Howard,Player,0,1,21,2016,5,150,RB
-PL911,Wendell Smallwood,Player,0,0,22,2016,5,153,RB
-PL914,Jonathan Williams,Player,0,0,22,2016,5,156,RB
-PL929,Alex Collins,Player,0,0,22,2016,5,171,RB
-PL939,Keenan Reynolds,Player,0,0,22,2016,6,182,RB
-PL967,Kelvin Taylor,Player,0,0,22,2016,6,211,RB
-PL972,Darius Jackson,Player,0,0,22,2016,6,216,RB
-PL992,Dwayne Washington,Player,0,0,22,2016,7,236,RB
-PL993,Daniel Lasco,Player,0,0,23,2016,7,237,RB
-PL998,Keith Marshall,Player,0,0,22,2016,7,242,RB
-PL1003,Zac Brooks,Player,0,0,23,2016,7,247,RB
-PL1019,Todd Gurley,Player,2,3,21,2015,1,10,RB
-PL1024,Melvin Gordon,Player,0,2,22,2015,1,15,RB
-PL1045,T.J. Yeldon,Player,0,0,21,2015,2,36,RB
-PL1063,Ameer Abdullah,Player,0,0,22,2015,2,54,RB
-PL1082,Tevin Coleman,Player,0,0,22,2015,3,73,RB
-PL1086,Duke Johnson,Player,0,0,21,2015,3,77,RB
-PL1095,David Johnson,Player,1,1,23,2015,3,86,RB
-PL1104,Matt Jones,Player,0,0,22,2015,3,95,RB
-PL1115,Jeremy Langford,Player,0,0,23,2015,4,106,RB
-PL1134,Javorius Allen,Player,0,0,24,2015,4,125,RB
-PL1135,Mike Davis,Player,0,0,22,2015,4,126,RB
-PL1147,David Cobb,Player,0,0,22,2015,5,138,RB
-PL1158,Jay Ajayi,Player,0,1,22,2015,5,149,RB
-PL1164,Karlos Williams,Player,0,0,22,2015,5,155,RB
-PL1182,Cameron Artis-Payne,Player,0,0,25,2015,5,174,RB
-PL1213,Josh Robinson,Player,0,0,23,2015,6,205,RB
-PL1238,Marcus Murphy,Player,0,0,24,2015,7,230,RB
-PL1243,Kenny Hilliard,Player,0,0,23,2015,7,235,RB
-PL1318,Bishop Sankey,Player,0,0,21,2014,2,54,RB
-PL1319,Jeremy Hill,Player,0,0,21,2014,2,55,RB
-PL1321,Carlos Hyde,Player,0,0,23,2014,2,57,RB
-PL1333,Charles Sims,Player,0,0,23,2014,3,69,RB
-PL1339,Tre Mason,Player,0,0,21,2014,3,75,RB
-PL1358,Terrance West,Player,0,0,23,2014,3,94,RB
-PL1360,Jerick McKinnon,Player,0,0,22,2014,3,96,RB
-PL1367,Devonta Freeman,Player,0,2,22,2014,4,103,RB
-PL1377,Andre Williams,Player,0,0,22,2014,4,113,RB
-PL1381,Ka'Deem Carey,Player,0,0,21,2014,4,117,RB
-PL1388,De'Anthony Thomas,Player,0,0,21,2014,4,124,RB
-PL1394,James White,Player,0,0,22,2014,4,130,RB
-PL1402,Lorenzo Taliaferro,Player,0,0,22,2014,4,138,RB
-PL1445,Alfred Blue,Player,0,0,23,2014,6,181,RB
-PL1450,Lache Seastrunk,Player,0,0,23,2014,6,186,RB
-PL1465,Marion Grice,Player,0,0,23,2014,6,201,RB
-PL1468,Tyler Gaffney,Player,0,0,23,2014,6,204,RB
-PL1486,Storm Johnson,Player,0,0,22,2014,7,222,RB
-PL1491,Kiero Small,Player,0,0,25,2014,7,227,RB
-PL1557,Giovani Bernard,Player,0,0,21,2013,2,37,RB
-PL1568,Le'Veon Bell,Player,2,3,21,2013,2,48,RB
-PL1578,Montee Ball,Player,0,0,22,2013,2,58,RB
-PL1581,Eddie Lacy,Player,0,1,23,2013,2,61,RB
-PL1582,Christine Michael,Player,0,0,22,2013,2,62,RB
-PL1616,Knile Davis,Player,0,0,21,2013,3,96,RB
-PL1645,Johnathan Franklin,Player,0,0,23,2013,4,125,RB
-PL1650,Kyle Juszczyk,Player,0,3,22,2013,4,130,RB
-PL1651,Marcus Lattimore,Player,0,0,21,2013,4,131,RB
-PL1660,Stepfan Taylor,Player,0,0,22,2013,5,140,RB
-PL1671,Joseph Randle,Player,0,0,21,2013,5,151,RB
-PL1674,Chris Thompson,Player,0,0,22,2013,5,154,RB
-PL1680,Zac Stacy,Player,0,0,22,2013,5,160,RB
-PL1684,Mike Gillislee,Player,0,0,22,2013,5,164,RB
-PL1701,Latavius Murray,Player,0,1,23,2013,6,181,RB
-PL1702,Kenjon Barner,Player,0,0,23,2013,6,182,RB
-PL1707,Andre Ellington,Player,0,0,24,2013,6,187,RB
-PL1709,Mike James,Player,0,0,22,2013,6,189,RB
-PL1710,Rex Burkhead,Player,0,0,23,2013,6,190,RB
-PL1714,Spencer Ware,Player,0,0,21,2013,6,194,RB
-PL1719,Theo Riddick,Player,0,0,22,2013,6,199,RB
-PL1734,Tommy Bohanon,Player,0,0,22,2013,7,215,RB
-PL1747,Jawan Jamison,Player,0,0,21,2013,7,228,RB
-PL1749,Kerwynn Williams,Player,0,0,22,2013,7,230,RB
-PL1771,Michael Cox,Player,0,0,24,2013,7,253,RB
-PL1775,Trent Richardson,Player,0,0,22,2012,1,3,RB
-PL1803,Doug Martin,Player,1,2,23,2012,1,31,RB
-PL1804,David Wilson,Player,0,0,21,2012,1,32,RB
-PL1822,Isaiah Pead,Player,0,0,22,2012,2,50,RB
-PL1833,LaMichael James,Player,0,0,22,2012,2,61,RB
-PL1839,Ronnie Hillman,Player,0,0,20,2012,3,67,RB
-PL1856,Bernard Pierce,Player,0,0,21,2012,3,84,RB
-PL1867,Lamar Miller,Player,0,1,21,2012,4,97,RB
-PL1876,Robert Turbin,Player,0,0,22,2012,4,106,RB
-PL1897,Rhett Ellison,Player,0,0,23,2012,4,128,RB
-PL1926,Bradie Ewing,Player,0,0,22,2012,5,157,RB
-PL1928,Chris Rainey,Player,0,0,24,2012,5,159,RB
-PL1938,Vick Ballard,Player,0,0,22,2012,5,170,RB
-PL1940,Alfred Morris,Player,0,2,23,2012,6,173,RB
-PL1949,Cyrus Gray,Player,0,0,22,2012,6,182,RB
-PL1957,Dan Herron,Player,0,0,23,2012,6,191,RB
-PL1967,Terrance Ganaway,Player,0,0,23,2012,6,202,RB
-PL1977,Michael Smith,Player,0,0,24,2012,7,212,RB
-PL1994,Bryce Brown,Player,0,0,21,2012,7,229,RB
-PL2015,Edwin Baker,Player,0,0,21,2012,7,250,RB
-PL2017,Daryl Richardson,Player,0,0,22,2012,7,252,RB
-PL2046,Mark Ingram,Player,0,2,21,2011,1,28,RB
-PL2056,Ryan Williams,Player,0,0,21,2011,2,38,RB
-PL2074,Shane Vereen,Player,0,0,22,2011,2,56,RB
-PL2075,Mikel Leshoure,Player,0,0,21,2011,2,57,RB
-PL2080,Daniel Thomas,Player,0,0,23,2011,2,62,RB
-PL2089,DeMarco Murray,Player,1,3,23,2011,3,71,RB
-PL2091,Stevan Ridley,Player,0,0,22,2011,3,73,RB
-PL2114,Alex Green,Player,0,0,23,2011,3,96,RB
-PL2123,Roy Helu,Player,0,0,22,2011,4,105,RB
-PL2133,Kendall Hunter,Player,0,0,22,2011,4,115,RB
-PL2137,Delone Carter,Player,0,0,24,2011,4,119,RB
-PL2142,Owen Marecic,Player,0,0,22,2011,4,124,RB
-PL2143,Taiwan Jones,Player,0,0,23,2011,4,125,RB
-PL2144,Bilal Powell,Player,0,0,22,2011,4,126,RB
-PL2148,Jamie Harper,Player,0,0,21,2011,4,130,RB
-PL2151,Johnny White,Player,0,0,23,2011,5,133,RB
-PL2154,Anthony Sherman,Player,0,1,22,2011,5,136,RB
-PL2163,Jacquizz Rodgers,Player,0,0,21,2011,5,145,RB
-PL2167,Dion Lewis,Player,0,0,20,2011,5,149,RB
-PL2195,Evan Royster,Player,0,0,23,2011,6,177,RB
-PL2201,Jordan Todman,Player,0,0,21,2011,6,183,RB
-PL2205,Allen Bradford,Player,0,0,23,2011,6,187,RB
-PL2238,Shaun Chapas,Player,0,0,23,2011,7,220,RB
-PL2239,Da'Rel Scott,Player,0,0,23,2011,7,221,RB
-PL2241,Shane Bannon,Player,0,0,22,2011,7,223,RB
-PL2243,Anthony Allen,Player,0,0,23,2011,7,225,RB
-PL2250,Baron Batch,Player,0,0,23,2011,7,232,RB
-PL2258,Stanley Havili,Player,0,0,23,2011,7,240,RB
-PL2263,Jay Finley,Player,0,0,23,2011,7,246,RB
-PL2280,C.J. Spiller,Player,0,1,23,2010,1,9,RB
-PL2283,Ryan Mathews,Player,0,1,22,2010,1,12,RB
-PL2301,Jahvid Best,Player,0,0,21,2010,1,30,RB
-PL2322,Toby Gerhart,Player,0,0,23,2010,2,51,RB
-PL2329,Ben Tate,Player,0,0,22,2010,2,58,RB
-PL2330,Montario Hardesty,Player,0,0,23,2010,2,59,RB
-PL2383,Joe McKnight,Player,0,0,22,2010,4,112,RB
-PL2410,John Conner,Player,0,0,23,2010,5,139,RB
-PL2444,Anthony Dixon,Player,0,0,22,2010,6,173,RB
-PL2445,Dennis Morris,Player,0,0,,2010,6,174,RB
-PL2451,Deji Karim,Player,0,0,23,2010,6,180,RB
-PL2459,Jonathan Dwyer,Player,0,0,21,2010,6,188,RB
-PL2464,James Starks,Player,0,0,24,2010,6,193,RB
-PL2471,Charles Scott,Player,0,0,,2010,6,200,RB
-PL2508,Ryan D'Imperio,Player,0,0,23,2010,7,237,RB
-PL2538,Knowshon Moreno,Player,0,0,22,2009,1,12,RB
-PL2553,Donald Brown,Player,0,0,22,2009,1,27,RB
-PL2557,Beanie Wells,Player,0,0,21,2009,1,31,RB
-PL2579,LeSean McCoy,Player,2,6,21,2009,2,53,RB
-PL2591,Shonn Greene,Player,0,0,24,2009,3,65,RB
-PL2600,Glen Coffee,Player,0,0,22,2009,3,74,RB
-PL2637,Mike Goodson,Player,0,0,22,2009,4,111,RB
-PL2654,Tony Fiammetta,Player,0,0,23,2009,4,128,RB
-PL2655,Andre Brown,Player,0,0,22,2009,4,129,RB
-PL2660,Gartrell Johnson,Player,0,0,23,2009,4,134,RB
-PL2671,Quinn Johnson,Player,0,0,22,2009,5,145,RB
-PL2695,Frank Summers,Player,0,0,24,2009,5,169,RB
-PL2699,Javon Ringer,Player,0,0,22,2009,5,173,RB
-PL2711,Cedric Peerman,Player,0,1,22,2009,6,185,RB
-PL2718,Aaron Brown,Player,0,0,23,2009,6,192,RB
-PL2721,James Davis,Player,0,0,23,2009,6,195,RB
-PL2735,Bernard Scott,Player,0,0,25,2009,6,209,RB
-PL2737,Chris Ogbonnaya,Player,0,0,23,2009,7,211,RB
-PL2738,Javarris Williams,Player,0,0,23,2009,7,212,RB
-PL2741,Fui Vakapuna,Player,0,0,25,2009,7,215,RB
-PL2747,Eddie Williams,Player,0,0,22,2009,7,221,RB
-PL2766,LaRod Stephens-Howling,Player,0,0,22,2009,7,240,RB
-PL2776,Rashad Jennings,Player,0,0,24,2009,7,250,RB
-PL2786,Darren McFadden,Player,0,0,21,2008,1,4,RB
-PL2795,Jonathan Stewart,Player,0,1,21,2008,1,13,RB
-PL2804,Felix Jones,Player,0,0,21,2008,1,22,RB
-PL2805,Rashard Mendenhall,Player,0,0,21,2008,1,23,RB
-PL2806,Chris Johnson,Player,1,3,22,2008,1,24,RB
-PL2826,Matt Forte,Player,0,2,22,2008,2,44,RB
-PL2837,Ray Rice,Player,0,3,21,2008,2,55,RB
-PL2846,Kevin Smith,Player,0,0,21,2008,3,64,RB
-PL2855,Jamaal Charles,Player,2,4,21,2008,3,73,RB
-PL2871,Steve Slaton,Player,0,0,22,2008,3,89,RB
-PL2904,Tashard Choice,Player,0,0,23,2008,4,122,RB
-PL2921,Ryan Torain,Player,0,0,22,2008,5,139,RB
-PL2931,Tim Hightower,Player,0,0,22,2008,5,149,RB
-PL2948,Marcus Thomas,Player,0,0,24,2008,5,166,RB
-PL2954,Thomas Brown,Player,0,0,22,2008,6,172,RB
-PL2958,Jalen Parmele,Player,0,0,22,2008,6,176,RB
-PL2961,Xavier Omon,Player,0,0,23,2008,6,179,RB
-PL2984,Mike Hart,Player,0,0,22,2008,6,202,RB
-PL2986,Lex Hilliard,Player,0,0,24,2008,6,204,RB
-PL2995,Chauncey Washington,Player,0,0,23,2008,7,213,RB
-PL3015,Justin Forsett,Player,0,1,22,2008,7,233,RB
-PL3020,Cory Boyd,Player,0,0,23,2008,7,238,RB
-PL3022,Allen Patrick,Player,0,0,24,2008,7,240,RB
-PL3041,Adrian Peterson,Player,4,7,22,2007,1,7,RB
-PL3046,Marshawn Lynch,Player,1,5,21,2007,1,12,RB
-PL3083,Kenny Irons,Player,0,0,,2007,2,49,RB
-PL3084,Chris Henry,Player,0,0,22,2007,2,50,RB
-PL3086,Brian Leonard,Player,0,0,23,2007,2,52,RB
-PL3097,Brandon Jackson,Player,0,0,21,2007,2,63,RB
-PL3105,Lorenzo Booker,Player,0,0,23,2007,3,71,RB
-PL3124,Tony Hunt,Player,0,0,21,2007,3,90,RB
-PL3127,Garrett Wolfe,Player,0,0,23,2007,3,93,RB
-PL3134,Michael Bush,Player,0,0,23,2007,4,100,RB
-PL3141,Antonio Pittman,Player,0,0,21,2007,4,107,RB
-PL3145,Dwayne Wright,Player,0,0,24,2007,4,111,RB
-PL3171,Le'Ron McClain,Player,1,2,22,2007,4,137,RB
-PL3182,Kolby Smith,Player,0,0,22,2007,5,148,RB
-PL3215,Reagan Maui'a,Player,0,0,23,2007,6,181,RB
-PL3220,Thomas Clayton,Player,0,0,,2007,6,186,RB
-PL3242,Justise Hairston,Player,0,0,,2007,6,208,RB
-PL3262,DeShawn Wynn,Player,0,0,23,2007,7,228,RB
-PL3270,Nate Ilaoa,Player,0,0,,2007,7,236,RB
-PL3278,Jason Snelling,Player,0,0,23,2007,7,244,RB
-PL3280,Kenneth Darby,Player,0,0,24,2007,7,246,RB
-PL3284,Ahmad Bradshaw,Player,0,0,21,2007,7,250,RB
-PL3291,Reggie Bush,Player,0,0,21,2006,1,2,RB
-PL3310,Laurence Maroney,Player,0,0,21,2006,1,21,RB
-PL3316,DeAngelo Williams,Player,0,1,23,2006,1,27,RB
-PL3319,Joseph Addai,Player,0,1,23,2006,1,30,RB
-PL3334,LenDale White,Player,0,0,21,2006,2,45,RB
-PL3349,Maurice Jones-Drew,Player,1,3,21,2006,2,60,RB
-PL3363,Brian Calhoun,Player,0,0,22,2006,3,74,RB
-PL3368,Jerious Norwood,Player,0,0,23,2006,3,79,RB
-PL3406,Leon Washington,Player,1,2,24,2006,4,117,RB
-PL3421,P.J. Daniels,Player,0,0,23,2006,4,132,RB
-PL3434,Jerome Harrison,Player,0,0,23,2006,5,145,RB
-PL3452,David Kirtman,Player,0,0,23,2006,5,163,RB
-PL3459,Wali Lundy,Player,0,0,22,2006,6,170,RB
-PL3484,J.D. Runnels,Player,0,0,22,2006,6,195,RB
-PL3511,Justin Hamilton,Player,0,0,23,2006,7,222,RB
-PL3529,Cedric Humes,Player,0,0,,2006,7,240,RB
-PL3535,Quinton Ganther,Player,0,0,22,2006,7,246,RB
-PL3546,Ronnie Brown,Player,0,1,23,2005,1,2,RB
-PL3548,Cedric Benson,Player,0,0,22,2005,1,4,RB
-PL3549,Cadillac Williams,Player,0,0,23,2005,1,5,RB
-PL3588,J.J. Arrington,Player,0,0,22,2005,2,44,RB
-PL3598,Eric Shelton,Player,0,0,22,2005,2,54,RB
-PL3609,Frank Gore,Player,0,5,22,2005,3,65,RB
-PL3617,Vernand Morency,Player,0,0,25,2005,3,73,RB
-PL3621,Ryan Moats,Player,0,0,22,2005,3,77,RB
-PL3645,Maurice Clarett,Player,0,0,,2005,3,101,RB
-PL3653,Marion Barber,Player,0,1,22,2005,4,109,RB
-PL3654,Brandon Jacobs,Player,0,0,23,2005,4,110,RB
-PL3656,Ciatrick Fason,Player,0,0,22,2005,4,112,RB
-PL3664,Manuel White,Player,0,0,,2005,4,120,RB
-PL3671,Alvin Pearman,Player,0,0,23,2005,4,127,RB
-PL3674,Darren Sproles,Player,0,3,22,2005,4,130,RB
-PL3686,Damien Nash,Player,0,0,23,2005,5,142,RB
-PL3726,Cedric Houston,Player,0,0,23,2005,6,182,RB
-PL3745,DeAndra Cobb,Player,0,0,24,2005,6,201,RB
-PL3765,Rick Razzano,Player,0,0,,2005,7,221,RB
-PL3780,Lionel Gates,Player,0,0,23,2005,7,236,RB
-PL3787,Anthony Davis,Player,0,0,,2005,7,243,RB
-PL3788,Noah Herron,Player,0,0,23,2005,7,244,RB
-PL3823,Steven Jackson,Player,0,3,21,2004,1,24,RB
-PL3825,Chris Perry,Player,0,0,22,2004,1,26,RB
-PL3829,Kevin Jones,Player,0,0,22,2004,1,30,RB
-PL3840,Tatum Bell,Player,0,0,23,2004,2,41,RB
-PL3842,Julius Jones,Player,0,0,23,2004,2,43,RB
-PL3854,Greg Jones,Player,0,0,23,2004,2,55,RB
-PL3918,Mewelde Moore,Player,0,0,22,2004,4,119,RB
-PL3927,Cedric Cobbs,Player,0,0,23,2004,4,128,RB
-PL3953,Michael Turner,Player,1,2,22,2004,5,154,RB
-PL3990,Troy Fleming,Player,0,0,23,2004,6,191,RB
-PL4007,Adimchinobe Echemandu,Player,0,0,23,2004,7,208,RB
-PL4018,Quincy Wilson,Player,0,0,23,2004,7,219,RB
-PL4027,Casey Cramer,Player,0,0,22,2004,7,228,RB
-PL4034,Derrick Ward,Player,0,0,24,2004,7,235,RB
-PL4041,Bruce Perry,Player,0,0,23,2004,7,242,RB
-PL4046,Brandon Miree,Player,0,0,23,2004,7,247,RB
-PL4077,Willis McGahee,Player,0,2,21,2003,1,23,RB
-PL4081,Larry Johnson,Player,1,2,23,2003,1,27,RB
-PL4131,Musa Smith,Player,0,0,21,2003,3,77,RB
-PL4147,Chris Brown,Player,0,0,22,2003,3,93,RB
-PL4153,Artose Pinner,Player,0,0,25,2003,4,99,RB
-PL4155,Domanick Williams,Player,0,0,22,2003,4,101,RB
-PL4159,Onterrio Smith,Player,0,0,22,2003,4,105,RB
-PL4162,Quentin Griffin,Player,0,0,22,2003,4,108,RB
-PL4169,Lee Suggs,Player,0,0,23,2003,4,115,RB
-PL4186,LaBrandon Toefield,Player,0,0,22,2003,4,132,RB
-PL4260,Brock Forsey,Player,0,0,23,2003,6,206,RB
-PL4289,Ahmaad Galloway,Player,0,0,,2003,7,235,RB
-PL4290,Brandon Drumm,Player,0,0,,2003,7,236,RB
-PL4296,J.T. Wall,Player,0,0,,2003,7,242,RB
-PL4301,Casey Moore,Player,0,0,,2003,7,247,RB
-PL4332,William Green,Player,0,0,22,2002,1,16,RB
-PL4334,T.J. Duckett,Player,0,0,21,2002,1,18,RB
-PL4350,DeShaun Foster,Player,0,0,22,2002,2,34,RB
-PL4367,Clinton Portis,Player,0,2,21,2002,2,51,RB
-PL4370,Maurice Morris,Player,0,0,22,2002,2,54,RB
-PL4372,Ladell Betts,Player,0,0,23,2002,2,56,RB
-PL4400,Lamar Gordon,Player,0,0,22,2002,3,84,RB
-PL4407,Brian Westbrook,Player,1,2,23,2002,3,91,RB
-PL4415,Jonathan Wells,Player,0,0,23,2002,4,99,RB
-PL4435,Travis Stephens,Player,0,0,24,2002,4,119,RB
-PL4451,Najeh Davenport,Player,0,0,23,2002,4,135,RB
-PL4461,Kyle Johnson,Player,0,0,23,2002,5,145,RB
-PL4482,Verron Haynes,Player,0,0,23,2002,5,166,RB
-PL4501,Josh Scobey,Player,0,0,22,2002,6,185,RB
-PL4513,Larry Ned,Player,0,0,24,2002,6,197,RB
-PL4515,Adrian Peterson,Player,0,0,23,2002,6,199,RB
-PL4520,Brian Allen,Player,0,0,22,2002,6,204,RB
-PL4523,Chester Taylor,Player,0,0,22,2002,6,207,RB
-PL4530,Luke Staley,Player,0,0,,2002,7,214,RB
-PL4553,Antwoine Womack,Player,0,0,,2002,7,237,RB
-PL4557,Leonard Henry,Player,0,0,24,2002,7,241,RB
-PL4559,Chris Massey,Player,0,0,23,2002,7,243,RB
-PL4567,Jarrett Ferguson,Player,0,0,,2002,7,251,RB
-PL4582,LaDainian Tomlinson HOF,Player,3,5,22,2001,1,5,RB
-PL4600,Deuce McAllister,Player,0,2,22,2001,1,23,RB
-PL4604,Michael Bennett,Player,0,1,23,2001,1,27,RB
-PL4615,Anthony Thomas,Player,0,0,23,2001,2,38,RB
-PL4626,LaMont Jordan,Player,0,0,22,2001,2,49,RB
-PL4635,Travis Henry,Player,0,1,22,2001,2,58,RB
-PL4642,James Jackson,Player,0,0,25,2001,3,65,RB
-PL4657,Kevan Barlow,Player,0,0,22,2001,3,80,RB
-PL4662,Travis Minor,Player,0,0,22,2001,3,85,RB
-PL4677,Rudi Johnson,Player,0,1,21,2001,4,100,RB
-PL4685,George Layne,Player,0,0,22,2001,4,108,RB
-PL4698,Correll Buckhalter,Player,0,0,22,2001,4,121,RB
-PL4727,Derrick Blaylock,Player,0,0,22,2001,5,150,RB
-PL4738,Chris Barnes,Player,0,0,,2001,5,161,RB
-PL4752,Dee Brown,Player,0,0,23,2001,6,175,RB
-PL4769,Dan Alexander,Player,0,0,23,2001,6,192,RB
-PL4828,Jamal Lewis,Player,1,1,21,2000,1,5,RB
-PL4830,Thomas Jones,Player,0,1,22,2000,1,7,RB
-PL4834,Ron Dayne,Player,0,0,22,2000,1,11,RB
-PL4842,Shaun Alexander,Player,1,3,23,2000,1,19,RB
-PL4854,Trung Canidate,Player,0,0,23,2000,1,31,RB
-PL4886,Travis Prentice,Player,0,0,23,2000,3,63,RB
-PL4899,J.R. Redmond,Player,0,0,22,2000,3,76,RB
-PL4904,Reuben Droughns,Player,0,0,22,2000,3,81,RB
-PL4911,Doug Chapman,Player,0,0,23,2000,3,88,RB
-PL4920,Curtis Keaton,Player,0,0,23,2000,4,97,RB
-PL4938,Frank Moreau,Player,0,0,23,2000,4,115,RB
-PL4955,Paul Smith,Player,0,0,22,2000,5,132,RB
-PL4967,Michael Wiley,Player,0,0,22,2000,5,144,RB
-PL4979,Sammy Morris,Player,0,0,23,2000,5,156,RB
-PL4989,Chad Morton,Player,0,0,23,2000,5,166,RB
-PL4994,Thomas Hamner,Player,0,0,,2000,6,171,RB
-PL5012,Mike Anderson,Player,0,0,26,2000,6,189,RB
-PL5036,Mike Green,Player,0,0,23,2000,7,213,RB
-PL5066,Shyrone Stith,Player,0,0,22,2000,7,243,RB
-PL5075,Rondell Mealey,Player,0,0,23,2000,7,252,RB
-PL5081,Edgerrin James,Player,1,4,21,1999,1,4,RB
-PL5082,Ricky Williams,Player,1,1,22,1999,1,5,RB
-PL5116,J.J. Johnson,Player,0,0,25,1999,2,39,RB
-PL5123,Kevin Faulk,Player,0,0,23,1999,2,46,RB
-PL5126,Joe Montgomery,Player,0,0,23,1999,2,49,RB
-PL5131,Mike Cloud,Player,0,0,24,1999,2,54,RB
-PL5137,Jermaine Fazande,Player,0,0,24,1999,2,60,RB
-PL5163,Shawn Bryson,Player,0,0,22,1999,3,86,RB
-PL5172,Amos Zereoue,Player,0,0,22,1999,3,95,RB
-PL5180,Sedrick Irvin,Player,0,0,21,1999,4,103,RB
-PL5189,Sean Bennett,Player,0,0,23,1999,4,112,RB
-PL5204,Olandis Gary,Player,0,0,24,1999,4,127,RB
-PL5211,Cecil Collins,Player,0,0,22,1999,5,134,RB
-PL5229,Charlie Rogers,Player,0,0,23,1999,5,152,RB
-PL5236,De'Mond Parker,Player,0,0,22,1999,5,159,RB
-PL5271,Lamarr Glenn,Player,0,0,,1999,6,195,RB
-PL5283,Madre Hill,Player,0,0,23,1999,7,207,RB
-PL5309,Autry Denson,Player,0,0,22,1999,7,233,RB
-PL5334,Curtis Enis,Player,0,0,22,1998,1,5,RB
-PL5338,Fred Taylor,Player,0,1,22,1998,1,9,RB
-PL5347,Robert Edwards,Player,0,0,23,1998,1,18,RB
-PL5358,John Avery,Player,0,0,22,1998,1,29,RB
-PL5366,Robert Holcombe,Player,0,0,22,1998,2,37,RB
-PL5398,Skip Hicks,Player,0,0,23,1998,3,69,RB
-PL5405,Ahman Green,Player,0,4,21,1998,3,76,RB
-PL5410,Chris Floyd,Player,0,0,23,1998,3,81,RB
-PL5417,Rashaan Shehee,Player,0,0,23,1998,3,88,RB
-PL5424,Michael Pittman,Player,0,0,23,1998,4,95,RB
-PL5430,Tavian Banks,Player,0,0,24,1998,4,101,RB
-PL5451,Curtis Alexander,Player,0,0,,1998,4,122,RB
-PL5452,Carlos King,Player,0,0,24,1998,4,123,RB
-PL5458,Raymond Priester,Player,0,0,,1998,5,129,RB
-PL5460,Jonathan Linton,Player,0,0,23,1998,5,131,RB
-PL5461,Wilmont Perry,Player,0,0,23,1998,5,132,RB
-PL5482,Chris Howard,Player,0,0,23,1998,5,153,RB
-PL5505,Harold Shaw,Player,0,0,24,1998,6,176,RB
-PL5507,Chris Fuamatu-Ma'afala,Player,0,0,21,1998,6,178,RB
-PL5530,Ken Oxendine,Player,0,0,22,1998,7,201,RB
-PL5531,Marcus Parker,Player,0,0,,1998,7,202,RB
-PL5547,Eddie Watson,Player,0,0,21,1998,7,218,RB
-PL5552,Tarik Smith,Player,0,0,,1998,7,223,RB
-PL5553,Ernest Blackwell,Player,0,0,,1998,7,224,RB
-PL5562,Ron Janes,Player,0,0,,1998,7,233,RB
-PL5582,Warrick Dunn,Player,0,3,22,1997,1,12,RB
-PL5593,Antowain Smith,Player,0,0,25,1997,1,23,RB
-PL5606,Tiki Barber,Player,1,3,22,1997,2,36,RB
-PL5611,Byron Hanspard,Player,0,0,21,1997,2,41,RB
-PL5613,Corey Dillon,Player,0,4,22,1997,2,43,RB
-PL5631,Sedrick Shaw,Player,0,0,23,1997,3,61,RB
-PL5632,Troy Davis,Player,0,0,21,1997,3,62,RB
-PL5634,Jay Graham,Player,0,0,22,1997,3,64,RB
-PL5641,Duce Staley,Player,0,0,22,1997,3,71,RB
-PL5674,Leon Johnson,Player,0,0,23,1997,4,104,RB
-PL5675,Darnell Autry,Player,0,0,21,1997,4,105,RB
-PL5693,Chad Levitt,Player,0,0,21,1997,4,123,RB
-PL5699,Nicky Sualua,Player,0,0,22,1997,4,129,RB
-PL5708,Kenny Bynum,Player,0,0,23,1997,5,138,RB
-PL5724,George Jones,Player,0,0,23,1997,5,154,RB
-PL5733,June Henley,Player,0,0,22,1997,5,163,RB
-PL5737,Steve Lee,Player,0,0,,1997,6,167,RB
-PL5745,Rod Brown,Player,0,0,,1997,6,175,RB
-PL5776,Terry Battle,Player,0,0,,1997,7,206,RB
-PL5816,Lawrence Phillips,Player,0,0,21,1996,1,6,RB
-PL5818,Tim Biakabutuka,Player,0,0,22,1996,1,8,RB
-PL5824,Eddie George,Player,1,4,22,1996,1,14,RB
-PL5842,Leeland McElroy,Player,0,0,22,1996,2,32,RB
-PL5845,Mike Alstott,Player,3,6,22,1996,2,35,RB
-PL5875,Detron Smith,Player,0,1,22,1996,3,65,RB
-PL5883,Winslow Oliver,Player,0,0,23,1996,3,73,RB
-PL5885,Moe Williams,Player,0,0,22,1996,3,75,RB
-PL5890,Karim Abdul-Jabbar,Player,0,0,22,1996,3,80,RB
-PL5893,Jerald Moore,Player,0,0,21,1996,3,83,RB
-PL5901,Reggie Brown,Player,0,0,23,1996,3,91,RB
-PL5902,Jon Witman,Player,0,0,24,1996,3,92,RB
-PL5912,Stephen Davis,Player,0,3,22,1996,4,102,RB
-PL5913,Ricky Whittle,Player,0,0,24,1996,4,103,RB
-PL5925,Brian Milne,Player,0,0,23,1996,4,115,RB
-PL5927,Richard Huntley,Player,0,0,23,1996,4,117,RB
-PL5934,Kantroy Barber,Player,0,0,22,1996,4,124,RB
-PL5944,Jerris McPhail,Player,0,0,24,1996,5,134,RB
-PL5952,Marquette Smith,Player,0,0,,1996,5,142,RB
-PL5985,Derrick Harris,Player,0,0,23,1996,6,175,RB
-PL5993,Tim Hall,Player,0,0,22,1996,6,183,RB
-PL6003,Scott Greene,Player,0,0,24,1996,6,193,RB
-PL6005,Marrio Grier,Player,0,0,24,1996,6,195,RB
-PL6006,Leon Neal,Player,0,0,23,1996,6,196,RB
-PL6008,Stephen Pitts,Player,0,0,,1996,6,198,RB
-PL6028,Mike Archie,Player,0,0,23,1996,7,218,RB
-PL6041,Freddie Bradley,Player,0,0,26,1996,7,231,RB
-PL6045,L.T. Levine,Player,0,0,,1996,7,235,RB
-PL6052,Ryan Wood,Player,0,0,,1996,7,243,RB
-PL6062,Michael Hicks,Player,0,0,23,1996,7,253,RB
-PL6064,Ki-Jana Carter,Player,0,0,21,1995,1,1,RB
-PL6080,Tyrone Wheatley,Player,0,0,23,1995,1,17,RB
-PL6081,Napoleon Kaufman,Player,0,0,22,1995,1,18,RB
-PL6082,James Stewart,Player,0,0,23,1995,1,19,RB
-PL6084,Rashaan Salaam,Player,0,0,20,1995,1,21,RB
-PL6107,Ray Zellars,Player,0,0,22,1995,2,44,RB
-PL6109,Sherman Williams,Player,0,0,22,1995,2,46,RB
-PL6114,Terrell Fletcher,Player,0,0,21,1995,2,51,RB
-PL6137,Curtis Martin HOF,Player,1,5,22,1995,3,74,RB
-PL6149,Joe Aska,Player,0,0,23,1995,3,86,RB
-PL6152,Rodney Thomas,Player,0,0,22,1995,3,89,RB
-PL6166,Larry Jones,Player,0,0,,1995,4,103,RB
-PL6167,Aaron Hayden,Player,0,0,22,1995,4,104,RB
-PL6220,James Stewart,Player,0,0,23,1995,5,157,RB
-PL6232,Ryan Christopherson,Player,0,0,23,1995,5,169,RB
-PL6233,Travis Jervey,Player,0,1,23,1995,5,170,RB
-PL6258,Dino Philyaw,Player,0,0,24,1995,6,195,RB
-PL6259,Terrell Davis HOF,Player,3,3,22,1995,6,196,RB
-PL6269,Charles Way,Player,0,0,22,1995,6,206,RB
-PL6273,Kevin Bouie,Player,0,0,24,1995,7,210,RB
-PL6306,Darick Holmes,Player,0,0,24,1995,7,244,RB
-PL6313,Marshall Faulk HOF,Player,3,7,21,1994,1,2,RB
-PL6336,Greg Hill,Player,0,0,22,1994,1,25,RB
-PL6345,Errict Rhett,Player,0,0,23,1994,2,34,RB
-PL6349,Chuck Levy,Player,0,0,22,1994,2,38,RB
-PL6353,Charlie Garner,Player,0,1,22,1994,2,42,RB
-PL6355,Mario Bates,Player,0,0,21,1994,2,44,RB
-PL6369,Donnell Bennett,Player,0,0,21,1994,2,58,RB
-PL6384,Lamar Smith,Player,0,0,23,1994,3,73,RB
-PL6391,Calvin Jones,Player,0,0,23,1994,3,80,RB
-PL6394,James Bostic,Player,0,0,22,1994,3,83,RB
-PL6395,LeShon Johnson,Player,0,0,23,1994,3,84,RB
-PL6402,Bam Morris,Player,0,0,22,1994,3,91,RB
-PL6406,Gary Downs,Player,0,0,22,1994,3,95,RB
-PL6425,Raymont Harris,Player,0,0,23,1994,4,114,RB
-PL6440,Sean Jackson,Player,0,0,,1994,4,129,RB
-PL6460,Dorsey Levens,Player,0,1,24,1994,5,149,RB
-PL6471,Tony Vinson,Player,0,0,23,1994,5,160,RB
-PL6475,Lamont Warren,Player,0,0,21,1994,6,164,RB
-PL6482,Robert Strait,Player,0,0,,1994,6,171,RB
-PL6484,Fred Lester,Player,0,0,,1994,6,173,RB
-PL6496,Anthony Daigle,Player,0,0,24,1994,6,185,RB
-PL6511,Jamal Anderson,Player,1,1,21,1994,7,201,RB
-PL6514,Frank Harvey,Player,0,0,23,1994,7,204,RB
-PL6516,Mark Montgomery,Player,0,0,,1994,7,206,RB
-PL6519,Brice Abrams,Player,0,0,,1994,7,209,RB
-PL6522,Butler By'not'e,Player,0,0,21,1994,7,212,RB
-PL6535,Garrison Hearst,Player,0,2,22,1993,1,3,RB
-PL6542,Jerome Bettis HOF,Player,2,6,21,1993,1,10,RB
-PL6553,Robert Smith,Player,0,2,21,1993,1,21,RB
-PL6573,Natrone Means,Player,0,1,21,1993,2,41,RB
-PL6575,Glyn Milburn,Player,1,2,22,1993,2,43,RB
-PL6577,Reggie Brooks,Player,0,0,22,1993,2,45,RB
-PL6581,Roosevelt Potts,Player,0,0,22,1993,2,49,RB
-PL6605,Russell White,Player,0,0,22,1993,3,73,RB
-PL6610,Terry Kirby,Player,0,0,23,1993,3,78,RB
-PL6619,Ronald Moore,Player,0,0,23,1993,4,87,RB
-PL6623,Rudy Harris,Player,0,0,21,1993,4,91,RB
-PL6626,Derrick Lassic,Player,0,0,23,1993,4,94,RB
-PL6641,Derek Brown,Player,0,0,22,1993,4,109,RB
-PL6652,Adrian Murrell,Player,0,0,22,1993,5,120,RB
-PL6658,Kevin Williams,Player,0,0,23,1993,5,126,RB
-PL6691,Darius Turner,Player,0,0,,1993,6,159,RB
-PL6706,Ty Hallock,Player,0,0,22,1993,7,174,RB
-PL6716,Lance Lewis,Player,0,0,,1993,7,184,RB
-PL6740,Greg Robinson,Player,0,0,24,1993,8,208,RB
-PL6765,Tommy Vardell,Player,0,0,23,1992,1,9,RB
-PL6775,Tony Smith,Player,0,0,22,1992,1,19,RB
-PL6777,Vaughn Dunbar,Player,0,0,24,1992,1,21,RB
-PL6801,Amp Lee,Player,0,0,20,1992,2,45,RB
-PL6804,Siran Stacy,Player,0,0,24,1992,2,48,RB
-PL6841,Rodney Culver,Player,0,0,22,1992,4,85,RB
-PL6847,Tony Brooks,Player,0,0,23,1992,4,92,RB
-PL6858,Edgar Bennett,Player,0,0,23,1992,4,103,RB
-PL6868,Maury Toy,Player,0,0,,1992,5,113,RB
-PL6899,Joe Campbell,Player,0,0,,1992,6,144,RB
-PL6905,Michael Bates,Player,1,5,22,1992,6,150,RB
-PL6907,Mike Gaddis,Player,0,0,,1992,6,152,RB
-PL6943,Scottie Graham,Player,0,0,23,1992,7,188,RB
-PL6955,Anthony McDowell,Player,0,0,23,1992,8,200,RB
-PL6959,Scott Lockwood,Player,0,0,24,1992,8,204,RB
-PL6962,Muhammad Shamsid-Deen,Player,0,0,,1992,8,207,RB
-PL6967,Ronald Humphrey,Player,0,0,23,1992,8,212,RB
-PL6971,Derrick Moore,Player,0,0,24,1992,8,216,RB
-PL6981,Ostell Miles,Player,0,0,22,1992,9,226,RB
-PL7010,Tim Lester,Player,0,0,24,1992,10,255,RB
-PL7014,Reggie Yarbrough,Player,0,0,,1992,10,259,RB
-PL7017,Mike Saunders,Player,0,0,,1992,10,262,RB
-PL7022,Raoul Spears,Player,0,0,,1992,10,267,RB
-PL7028,Nikki Fisher,Player,0,0,,1992,10,273,RB
-PL7039,Mazio Royster,Player,0,0,22,1992,11,284,RB
-PL7040,Keith McAfee,Player,0,0,,1992,11,285,RB
-PL7050,Charles Evans,Player,0,0,25,1992,11,295,RB
-PL7083,Kameno Bell,Player,0,0,,1992,12,328,RB
-PL7105,Leonard Russell,Player,0,0,21,1991,1,14,RB
-PL7112,Harvey Williams,Player,0,0,24,1991,1,21,RB
-PL7130,Eric Bieniemy,Player,0,0,22,1991,2,39,RB
-PL7134,Nick Bell,Player,0,0,23,1991,2,43,RB
-PL7136,Ricky Watters,Player,0,5,22,1991,2,45,RB
-PL7151,Aaron Craver,Player,0,0,22,1991,3,60,RB
-PL7167,Ricky Ervins,Player,0,0,22,1991,3,76,RB
-PL7171,Robert Wilson,Player,0,0,22,1991,3,80,RB
-PL7183,Randy Baldwin,Player,0,0,24,1991,4,92,RB
-PL7188,Curvin Richards,Player,0,0,22,1991,4,97,RB
-PL7203,Jon Vaughn,Player,0,0,21,1991,5,112,RB
-PL7206,Greg Lewis,Player,0,0,22,1991,5,115,RB
-PL7236,Erric Pegram,Player,0,0,22,1991,6,145,RB
-PL7239,Blaise Bryant,Player,0,0,,1991,6,148,RB
-PL7240,Walter Dean,Player,0,0,23,1991,6,149,RB
-PL7245,Fred McAfee,Player,0,1,23,1991,6,154,RB
-PL7249,Leroy Thompson,Player,0,0,22,1991,6,158,RB
-PL7252,Darren Lewis,Player,0,0,22,1991,6,161,RB
-PL7260,Tyrone Shelton,Player,0,0,,1991,7,170,RB
-PL7261,Ivory Lee Brown,Player,0,0,22,1991,7,171,RB
-PL7277,James Joseph,Player,0,0,23,1991,7,187,RB
-PL7283,Sheldon Canley,Player,0,0,23,1991,7,193,RB
-PL7284,Amir Rasul,Player,0,0,,1991,7,194,RB
-PL7288,Greg Amsler,Player,0,0,,1991,8,198,RB
-PL7295,Cedric Jackson,Player,0,0,23,1991,8,205,RB
-PL7301,Mike Dingle,Player,0,0,22,1991,8,211,RB
-PL7304,Gary Brown,Player,0,0,22,1991,8,214,RB
-PL7322,Gerald Hudson,Player,0,0,,1991,9,232,RB
-PL7326,Howard Griffith,Player,0,0,23,1991,9,236,RB
-PL7327,Anthony Wallace,Player,0,0,,1991,9,237,RB
-PL7332,Chuck Weatherspoon,Player,0,0,23,1991,9,242,RB
-PL7344,Ronald Poles,Player,0,0,,1991,10,254,RB
-PL7351,Al Baker,Player,0,0,,1991,10,261,RB
-PL7355,Hyland Hickson,Player,0,0,,1991,10,265,RB
-PL7380,Tony Boles,Player,0,0,,1991,11,291,RB
-PL7386,Tony Stewart,Player,0,0,,1991,11,297,RB
-PL7399,Bob Christian,Player,0,0,22,1991,12,310,RB
-PL7401,Ernie Thompson,Player,0,0,21,1991,12,312,RB
-PL7406,Chris Samuels,Player,0,0,22,1991,12,317,RB
-PL7425,Blair Thomas,Player,0,0,22,1990,1,2,RB
-PL7440,Emmitt Smith HOF,Player,4,8,21,1990,1,17,RB
-PL7442,Darrell Thompson,Player,0,0,22,1990,1,19,RB
-PL7443,Steve Broussard,Player,0,0,23,1990,1,20,RB
-PL7447,Rodney Hampton,Player,0,2,21,1990,1,24,RB
-PL7448,Dexter Carter,Player,0,0,22,1990,1,25,RB
-PL7453,Reggie Cobb,Player,0,0,22,1990,2,30,RB
-PL7454,Anthony Thompson,Player,0,0,23,1990,2,31,RB
-PL7459,Anthony Johnson,Player,0,0,22,1990,2,36,RB
-PL7461,Harold Green,Player,0,1,22,1990,2,38,RB
-PL7468,Leroy Hoard,Player,0,1,22,1990,2,45,RB
-PL7512,Chris Warren,Player,0,3,22,1990,4,89,RB
-PL7523,Eddie Fuller,Player,0,0,22,1990,4,100,RB
-PL7540,Pat Chaffey,Player,0,0,23,1990,5,117,RB
-PL7543,James Gray,Player,0,0,,1990,5,120,RB
-PL7551,Barry Foster,Player,1,2,21,1990,5,128,RB
-PL7553,Brian Mitchell,Player,1,1,22,1990,5,130,RB
-PL7560,Leroy Holt,Player,0,0,,1990,5,137,RB
-PL7562,Mike Pringle,Player,0,0,22,1990,6,139,RB
-PL7564,Derrick Douglas,Player,0,0,22,1990,6,141,RB
-PL7572,Marcus Wilson,Player,0,0,22,1990,6,149,RB
-PL7592,Johnny Johnson,Player,0,1,22,1990,7,169,RB
-PL7607,Andy Murray,Player,0,0,,1990,7,184,RB
-PL7614,Aaron Emanuel,Player,0,0,,1990,7,191,RB
-PL7623,James Rouse,Player,0,0,23,1990,8,200,RB
-PL7624,J.J. Flannigan,Player,0,0,,1990,8,201,RB
-PL7651,Johnny Bailey,Player,0,1,23,1990,9,228,RB
-PL7653,Leon Perry,Player,0,0,,1990,9,230,RB
-PL7656,Broderick Graves,Player,0,0,,1990,9,233,RB
-PL7658,Michael Owens,Player,0,0,,1990,9,235,RB
-PL7664,Terry Allen,Player,0,1,22,1990,9,241,RB
-PL7676,Anthony Landry,Player,0,0,,1990,10,253,RB
-PL7708,Reginald Warnsley,Player,0,0,,1990,11,285,RB
-PL7714,Ernest Thompson,Player,0,0,,1990,11,291,RB
-PL7722,Harry Jackson,Player,0,0,,1990,11,299,RB
-PL7731,Donnie Riley,Player,0,0,,1990,12,308,RB
-PL7742,Richard Bell,Player,0,0,23,1990,12,319,RB
-PL7750,Judd Garrett,Player,0,0,,1990,12,327,RB
-PL7751,David Lang,Player,0,0,22,1990,12,328,RB
-PL7757,Barry Sanders HOF,Player,6,10,21,1989,1,3,RB
-PL7761,Tim Worley,Player,0,0,22,1989,1,7,RB
-PL7763,Sammie Smith,Player,0,0,22,1989,1,9,RB
-PL7767,Eric Metcalf,Player,2,3,21,1989,1,13,RB
-PL7780,Cleveland Gary,Player,0,0,23,1989,1,26,RB
-PL7789,Eric Ball,Player,0,0,23,1989,2,35,RB
-PL7793,Daryl Johnston,Player,0,2,23,1989,2,39,RB
-PL7816,Keith Jones,Player,0,0,23,1989,3,62,RB
-PL7825,Elroy Harris,Player,0,0,23,1989,3,71,RB
-PL7830,Robert Drummond,Player,0,0,22,1989,3,76,RB
-PL7838,Keith Henderson,Player,0,0,23,1989,3,84,RB
-PL7847,Lewis Tillman,Player,0,0,23,1989,4,93,RB
-PL7871,Jamie Lawson,Player,0,0,23,1989,5,117,RB
-PL7881,Vince Workman,Player,0,0,21,1989,5,127,RB
-PL7884,Mark Green,Player,0,0,22,1989,5,130,RB
-PL7886,Dave Meggett,Player,0,2,23,1989,5,132,RB
-PL7910,Doug Lloyd,Player,0,0,24,1989,6,156,RB
-PL7916,Heath Sherman,Player,0,0,22,1989,6,162,RB
-PL7918,Sean Doctor,Player,0,0,,1989,6,164,RB
-PL7919,Eric Mitchel,Player,0,0,,1989,6,165,RB
-PL7920,Craig Taylor,Player,0,0,23,1989,6,166,RB
-PL7926,Undra Johnson,Player,0,0,23,1989,7,172,RB
-PL7934,Mel Bratton,Player,0,0,24,1989,7,180,RB
-PL7936,Ivy Joe Hunter,Player,0,0,22,1989,7,182,RB
-PL7937,Marion Butts,Player,0,2,23,1989,7,183,RB
-PL7950,Charvez Foger,Player,0,0,,1989,8,196,RB
-PL7953,Bryan Tobey,Player,0,0,,1989,8,199,RB
-PL7959,Derrick Gainer,Player,0,0,23,1989,8,205,RB
-PL7961,John Burch,Player,0,0,,1989,8,207,RB
-PL7963,A.B. Brown,Player,0,0,23,1989,8,209,RB
-PL7974,Todd McNair,Player,0,0,23,1989,8,220,RB
-PL7984,Patrick Egu,Player,0,0,22,1989,9,230,RB
-PL7994,Darron Norris,Player,0,0,,1989,9,240,RB
-PL7995,Wayne Williams,Player,0,0,,1989,9,241,RB
-PL8002,Byron Sanders,Player,0,0,,1989,9,248,RB
-PL8022,Derrick Fenner,Player,0,0,22,1989,10,268,RB
-PL8025,Tracy Johnson,Player,0,0,22,1989,10,271,RB
-PL8027,Joe Henderson,Player,0,0,,1989,10,273,RB
-PL8040,Greg Paterra,Player,0,0,22,1989,11,286,RB
-PL8041,Victor Floyd,Player,0,0,23,1989,11,287,RB
-PL8043,Jim Bell,Player,0,0,,1989,11,289,RB
-PL8048,Tony Hinz,Player,0,0,,1989,11,294,RB
-PL8057,Brad Baxter,Player,0,0,22,1989,11,303,RB
-PL8065,Bill Jones,Player,0,0,22,1989,12,311,RB
-PL8068,William DuBose,Player,0,0,,1989,12,314,RB
-PL8071,Joe Mickles,Player,0,0,23,1989,12,317,RB
-PL8103,Gaston Green,Player,0,1,22,1988,1,14,RB
-PL8106,John Stephens,Player,0,1,22,1988,1,17,RB
-PL8111,Lorenzo White,Player,0,1,22,1988,1,22,RB
-PL8112,Brad Muster,Player,0,0,23,1988,1,23,RB
-PL8113,Craig Heyward,Player,0,1,21,1988,1,24,RB
-PL8120,Ickey Woods,Player,0,0,22,1988,2,31,RB
-PL8127,Tony Jeffery,Player,0,0,24,1988,2,38,RB
-PL8129,Thurman Thomas HOF,Player,2,5,22,1988,2,40,RB
-PL8142,Lars Tate,Player,0,0,22,1988,2,53,RB
-PL8150,Keith Woodside,Player,0,0,24,1988,3,61,RB
-PL8155,Mike Oliphant,Player,0,0,25,1988,3,66,RB
-PL8190,Kevin Harmon,Player,0,0,21,1988,4,101,RB
-PL8195,Lydell Carr,Player,0,0,23,1988,4,106,RB
-PL8198,Jamie Morris,Player,0,0,23,1988,4,109,RB
-PL8202,William Howard,Player,0,0,24,1988,5,113,RB
-PL8206,Robert Delpino,Player,0,0,22,1988,5,117,RB
-PL8221,Tony Jordan,Player,0,0,23,1988,5,132,RB
-PL8231,Carl Painter,Player,0,0,24,1988,6,142,RB
-PL8236,Keith Jones,Player,0,0,22,1988,6,147,RB
-PL8242,Melvin Bratton,Player,0,0,,1988,6,153,RB
-PL8244,Warren Williams,Player,0,0,23,1988,6,155,RB
-PL8245,George Cooper,Player,0,0,,1988,6,156,RB
-PL8256,Kerry Goode,Player,0,0,23,1988,7,167,RB
-PL8261,Gary Patton,Player,0,0,,1988,7,172,RB
-PL8273,Bo Wright,Player,0,0,,1988,7,184,RB
-PL8287,Anthony Simpson,Player,0,0,,1988,8,198,RB
-PL8289,Patrick Collins,Player,0,0,22,1988,8,200,RB
-PL8294,Mark Higgs,Player,0,0,22,1988,8,205,RB
-PL8296,David Smith,Player,0,0,,1988,8,207,RB
-PL8306,Harvey Reed,Player,0,0,,1988,8,217,RB
-PL8310,Darryl McGill,Player,0,0,,1988,8,221,RB
-PL8311,James Primus,Player,0,0,24,1988,9,222,RB
-PL8316,Reggie Ware,Player,0,0,,1988,9,227,RB
-PL8325,Gordie Lockbaum,Player,0,0,,1988,9,236,RB
-PL8337,Mel Farr,Player,0,0,22,1988,9,248,RB
-PL8340,Kenny Gamble,Player,0,0,23,1988,10,251,RB
-PL8357,Channing Williams,Player,0,0,,1988,10,268,RB
-PL8380,Tom Kelleher,Player,0,0,,1988,11,292,RB
-PL8382,Marvin Allen,Player,0,0,22,1988,11,294,RB
-PL8392,Richard Calvin,Player,0,0,,1988,11,304,RB
-PL8424,Alonzo Highsmith,Player,0,0,22,1987,1,3,RB
-PL8425,Brent Fullwood,Player,0,1,23,1987,1,4,RB
-PL8435,D.J. Dozier,Player,0,0,21,1987,1,14,RB
-PL8440,Paul Palmer,Player,0,0,22,1987,1,19,RB
-PL8442,Roger Vick,Player,0,0,23,1987,1,21,RB
-PL8445,Rod Bernstine,Player,0,0,22,1987,1,24,RB
-PL8446,Terrence Flagler,Player,0,0,22,1987,1,25,RB
-PL8452,Kenny Flowers,Player,0,0,23,1987,2,31,RB
-PL8456,Christian Okoye,Player,1,2,26,1987,2,35,RB
-PL8472,Don Smith,Player,0,0,23,1987,2,51,RB
-PL8499,Jamie Mueller,Player,0,0,22,1987,3,78,RB
-PL8500,Bob Perryman,Player,0,0,22,1987,3,79,RB
-PL8501,Tim Manoa,Player,0,0,22,1987,3,80,RB
-PL8502,Steve Smith,Player,0,0,23,1987,3,81,RB
-PL8520,Troy Stradford,Player,0,0,22,1987,4,99,RB
-PL8538,Timmy Smith,Player,0,0,23,1987,5,117,RB
-PL8539,George Swarn,Player,0,0,23,1987,5,118,RB
-PL8540,Tommie Agee,Player,0,0,23,1987,5,119,RB
-PL8551,Marc Logan,Player,0,0,22,1987,5,130,RB
-PL8554,Spencer Tillman,Player,0,0,23,1987,5,133,RB
-PL8564,Steve Bartalo,Player,0,0,23,1987,6,143,RB
-PL8581,Tim Richardson,Player,0,0,,1987,6,160,RB
-PL8588,Warren Marshall,Player,0,0,23,1987,6,167,RB
-PL8592,Kerry Porter,Player,0,0,22,1987,7,171,RB
-PL8603,Tom Brown,Player,0,0,22,1987,7,182,RB
-PL8616,Eddie Hunter,Player,0,0,22,1987,8,196,RB
-PL8631,Rick Fenney,Player,0,0,22,1987,8,211,RB
-PL8638,Michael Clemons,Player,0,0,22,1987,8,218,RB
-PL8644,Joe Armentrout,Player,0,0,,1987,9,224,RB
-PL8646,Thomas Wilcher,Player,0,0,,1987,9,226,RB
-PL8650,Rick Calhoun,Player,0,0,24,1987,9,230,RB
-PL8655,Alvin Blount,Player,0,0,22,1987,9,235,RB
-PL8660,Tracy Ham,Player,0,0,,1987,9,240,RB
-PL8668,Alfred Jenkins,Player,0,0,,1987,9,248,RB
-PL8669,Lakei Heimuli,Player,0,0,22,1987,9,249,RB
-PL8671,Dana Wright,Player,0,0,24,1987,9,251,RB
-PL8681,Merril Hoge,Player,0,0,22,1987,10,261,RB
-PL8689,David McCluskey,Player,0,0,23,1987,10,269,RB
-PL8691,James Evans,Player,0,0,24,1987,10,271,RB
-PL8700,Reggie Taylor,Player,0,0,,1987,11,280,RB
-PL8708,Chris McLemore,Player,0,0,23,1987,11,288,RB
-PL8717,Darryl Oliver,Player,0,0,23,1987,11,297,RB
-PL8725,Tim Jessie,Player,0,0,24,1987,11,305,RB
-PL8726,Tommy Neal,Player,0,0,,1987,11,306,RB
-PL8729,David Adams,Player,0,0,23,1987,12,309,RB
-PL8730,Marcus Greenwood,Player,0,0,,1987,12,310,RB
-PL8734,Ira Valentine,Player,0,0,24,1987,12,314,RB
-PL8736,Bobby Morse,Player,0,0,21,1987,12,316,RB
-PL8740,Larry Emery,Player,0,0,23,1987,12,320,RB
-PL8744,Tony Burse,Player,0,0,22,1987,12,324,RB
-PL8746,Alonzo Williams,Player,0,0,24,1987,12,326,RB
-PL8748,John Holifield,Player,0,0,23,1987,12,328,RB
-PL8749,Chad Stark,Player,0,0,22,1987,12,329,RB
-PL8750,Elgin Davis,Player,0,0,21,1987,12,330,RB
-PL8756,Bo Jackson,Player,0,1,23,1986,1,1,RB
-PL8765,Keith Byars,Player,0,1,22,1986,1,10,RB
-PL8771,Ronnie Harmon,Player,0,1,22,1986,1,16,RB
-PL8781,Reggie Dupard,Player,0,0,22,1986,1,26,RB
-PL8782,Neal Anderson,Player,0,4,22,1986,1,27,RB
-PL8784,Garry James,Player,0,0,23,1986,2,29,RB
-PL8786,Dalton Hilliard,Player,0,1,22,1986,2,31,RB
-PL8788,Darryl Clack,Player,0,0,22,1986,2,33,RB
-PL8792,Anthony Toney,Player,0,0,23,1986,2,37,RB
-PL8796,Kenneth Davis,Player,0,0,24,1986,2,41,RB
-PL8811,Tom Rathman,Player,0,0,23,1986,3,56,RB
-PL8812,Rueben Mayes,Player,0,2,23,1986,3,57,RB
-PL8816,Allen Pinkett,Player,0,0,22,1986,3,61,RB
-PL8817,Barry Word,Player,0,0,23,1986,3,62,RB
-PL8858,Vance Mueller,Player,0,0,22,1986,4,103,RB
-PL8863,Napoleon McCallum,Player,0,0,22,1986,4,108,RB
-PL8866,Carl Byrum,Player,0,0,23,1986,5,111,RB
-PL8874,Oscar Smith,Player,0,0,23,1986,5,119,RB
-PL8881,Bobby Joe Edmonds,Player,1,1,21,1986,5,126,RB
-PL8896,Kent Hagood,Player,0,0,,1986,6,141,RB
-PL8900,Ray Wallace,Player,0,0,22,1986,6,145,RB
-PL8902,Thomas Rooks,Player,0,0,,1986,6,147,RB
-PL8915,Lynn Williams,Player,0,0,,1986,6,160,RB
-PL8921,Jeff Powell,Player,0,0,23,1986,6,166,RB
-PL8928,Gill Fenerty,Player,0,0,23,1986,7,173,RB
-PL8930,Rodney Carter,Player,0,0,21,1986,7,175,RB
-PL8932,Pat Franklin,Player,0,0,23,1986,7,177,RB
-PL8936,Paul Miles,Player,0,0,,1986,7,181,RB
-PL8939,Jon Francis,Player,0,0,22,1986,7,184,RB
-PL8941,Rick Badanjek,Player,0,0,24,1986,7,186,RB
-PL8967,Topper Clemons,Player,0,0,22,1986,8,212,RB
-PL8995,Tony Cherry,Player,0,0,23,1986,9,240,RB
-PL9000,Nuu Faaola,Player,0,0,22,1986,9,245,RB
-PL9007,Tony Baker,Player,0,0,22,1986,10,252,RB
-PL9009,Vai Sikahema,Player,1,2,24,1986,10,254,RB
-PL9016,Junior Tautalatasi,Player,0,0,24,1986,10,261,RB
-PL9031,Cletis Jones,Player,0,0,,1986,10,276,RB
-PL9048,Chuck Sanders,Player,0,0,22,1986,11,293,RB
-PL9052,Kenny Fells,Player,0,0,,1986,11,297,RB
-PL9054,Vince Amoia,Player,0,0,,1986,11,299,RB
-PL9055,Chul Schwanke,Player,0,0,,1986,11,300,RB
-PL9056,Thomas Dendy,Player,0,0,,1986,11,301,RB
-PL9065,Chuck Banks,Player,0,0,22,1986,12,310,RB
-PL9079,Mike Crawford,Player,0,0,22,1986,12,324,RB
-PL9080,Bobby Howard,Player,0,0,22,1986,12,325,RB
-PL9082,Marcus Dupree,Player,0,0,22,1986,12,327,RB
-PL9084,Rickey Isom,Player,0,0,22,1986,12,329,RB
-PL9107,George Adams,Player,0,0,22,1985,1,19,RB
-PL9114,Steve Sewell,Player,0,0,22,1985,1,26,RB
-PL9115,Lorenzo Hampton,Player,0,0,23,1985,1,27,RB
-PL9123,Greg Allen,Player,0,0,22,1985,2,35,RB
-PL9141,Owen Gill,Player,0,0,23,1985,2,53,RB
-PL9163,Ricky Moore,Player,0,0,22,1985,3,75,RB
-PL9191,Robert Lavette,Player,0,0,21,1985,4,103,RB
-PL9192,Ron Wolfley,Player,0,4,22,1985,4,104,RB
-PL9202,Herschel Walker,Player,0,2,23,1985,5,114,RB
-PL9206,Joe McIntosh,Player,0,0,22,1985,5,118,RB
-PL9214,Bruce King,Player,0,0,22,1985,5,126,RB
-PL9223,Dan Reeder,Player,0,0,24,1985,5,135,RB
-PL9225,Johnnie Jones,Player,0,0,,1985,5,137,RB
-PL9255,Ron Davenport,Player,0,0,22,1985,6,167,RB
-PL9260,Kim Locklin,Player,0,0,,1985,7,172,RB
-PL9269,Gary Ellerson,Player,0,0,22,1985,7,182,RB
-PL9272,Lionel Vital,Player,0,0,22,1985,7,185,RB
-PL9276,Danny Bradley,Player,0,0,22,1985,7,189,RB
-PL9289,Scott Caldwell,Player,0,0,22,1985,8,202,RB
-PL9294,Curtis Adams,Player,0,0,23,1985,8,207,RB
-PL9300,Lee Rouson,Player,0,0,22,1985,8,213,RB
-PL9305,Marlon McIntyre,Player,0,0,,1985,8,218,RB
-PL9314,Jaime Covington,Player,0,0,22,1985,9,227,RB
-PL9331,Scott Williams,Player,0,0,23,1985,9,244,RB
-PL9337,Thomas Sanders,Player,0,0,23,1985,9,250,RB
-PL9354,Jeff Smith,Player,0,0,23,1985,10,267,RB
-PL9358,Dennis Williams,Player,0,0,,1985,10,271,RB
-PL9375,James Williams,Player,0,0,,1985,11,288,RB
-PL9376,Herman Hunter,Player,0,0,24,1985,11,289,RB
-PL9382,Paul Lewis,Player,0,0,,1985,11,295,RB
-PL9390,Steve Strachan,Player,0,0,22,1985,11,303,RB
-PL9394,Mike Jones,Player,0,0,,1985,11,307,RB
-PL9415,Tony Mumford,Player,0,0,22,1985,12,328,RB
-PL9449,Greg Bell,Player,0,1,22,1984,1,26,RB
-PL9484,Herman Heard,Player,0,0,22,1984,3,61,RB
-PL9488,Stanford Jennings,Player,0,0,22,1984,3,65,RB
-PL9490,Alfred Anderson,Player,0,0,23,1984,3,67,RB
-PL9492,Tyrone Anthony,Player,0,0,22,1984,3,69,RB
-PL9493,Jon Williams,Player,0,0,23,1984,3,70,RB
-PL9497,Ernest Anderson,Player,0,0,,1984,3,74,RB
-PL9505,Speedy Neal,Player,0,0,22,1984,3,82,RB
-PL9507,Joe McCall,Player,0,0,22,1984,3,84,RB
-PL9515,John Farley,Player,0,0,23,1984,4,92,RB
-PL9525,Jimmy Smith,Player,0,0,23,1984,4,102,RB
-PL9526,George Wonsley,Player,0,0,23,1984,4,103,RB
-PL9529,Dave D'Addio,Player,0,0,23,1984,4,106,RB
-PL9530,Michael Gunter,Player,0,0,23,1984,4,107,RB
-PL9532,Joe Carter,Player,0,0,22,1984,4,109,RB
-PL9539,Andre Hardy,Player,0,0,22,1984,5,116,RB
-PL9541,Lionel James,Player,0,0,22,1984,5,118,RB
-PL9560,Norm Granger,Player,0,0,22,1984,5,137,RB
-PL9563,Allen Rice,Player,0,0,22,1984,5,140,RB
-PL9570,Dwight Beverly,Player,0,0,22,1984,6,147,RB
-PL9572,Tony Paige,Player,0,0,21,1984,6,149,RB
-PL9593,Willie Joyner,Player,0,0,22,1984,7,170,RB
-PL9595,Joe Hayes,Player,0,0,23,1984,7,172,RB
-PL9602,Nakita Robertson,Player,0,0,,1984,7,179,RB
-PL9608,Quentin Walker,Player,0,0,23,1984,7,185,RB
-PL9633,Clemon Terrell,Player,0,0,,1984,8,210,RB
-PL9642,Bob Craighead,Player,0,0,,1984,8,219,RB
-PL9644,Ronnie Landry,Player,0,0,,1984,8,221,RB
-PL9645,Mike Revell,Player,0,0,,1984,8,222,RB
-PL9664,John Walker,Player,0,0,,1984,9,241,RB
-PL9668,Chris Brewer,Player,0,0,22,1984,9,245,RB
-PL9670,Rich Erenberg,Player,0,0,22,1984,9,247,RB
-PL9671,Derrick Harmon,Player,0,0,21,1984,9,248,RB
-PL9684,Ronny Cone,Player,0,0,,1984,10,261,RB
-PL9688,Brent Ziegler,Player,0,0,,1984,10,265,RB
-PL9693,Randall Morris,Player,0,0,23,1984,10,270,RB
-PL9702,Keith Griffin,Player,0,0,22,1984,10,279,RB
-PL9703,Earnest Byner,Player,0,2,21,1984,10,280,RB
-PL9706,Frank Cephous,Player,0,0,23,1984,11,283,RB
-PL9708,Bobby Johnson,Player,0,0,,1984,11,285,RB
-PL9709,Buford McGee,Player,0,0,24,1984,11,286,RB
-PL9712,Steve McKeaver,Player,0,0,,1984,11,289,RB
-PL9721,Gene Lang,Player,0,0,22,1984,11,298,RB
-PL9724,Dwayne Love,Player,0,0,,1984,11,301,RB
-PL9726,Elton Veals,Player,0,0,23,1984,11,303,RB
-PL9744,Mike Jones,Player,0,0,,1984,12,321,RB
-PL9753,Donald Jordan,Player,0,0,22,1984,12,330,RB
-PL9755,Scoop Gillespie,Player,0,0,22,1984,12,332,RB
-PL9761,Eric Dickerson HOF,Player,5,6,23,1983,1,2,RB
-PL9762,Curt Warner,Player,0,3,22,1983,1,3,RB
-PL9767,Michael Haddix,Player,0,0,21,1983,1,8,RB
-PL9779,Gary Anderson,Player,0,1,22,1983,1,20,RB
-PL9808,Roger Craig,Player,1,4,23,1983,2,49,RB
-PL9810,Johnny Hector,Player,0,0,22,1983,2,51,RB
-PL9815,Richard Williams,Player,0,0,23,1983,2,56,RB
-PL9825,Cliff Austin,Player,0,0,23,1983,3,66,RB
-PL9848,Michael Williams,Player,0,0,22,1983,4,89,RB
-PL9859,Mark Rush,Player,0,0,,1983,4,100,RB
-PL9873,Larry Moriarty,Player,0,0,25,1983,5,114,RB
-PL9891,Bryan Thomas,Player,0,0,,1983,5,132,RB
-PL9894,Chuck McSwain,Player,0,0,22,1983,5,135,RB
-PL9909,Reginald Gipson,Player,0,0,,1983,6,150,RB
-PL9922,Vincent White,Player,0,0,,1983,6,163,RB
-PL9924,Larry Kinnebrew,Player,0,0,24,1983,6,165,RB
-PL9928,Alvin Moore,Player,0,0,24,1983,7,169,RB
-PL9932,Ken Thomas,Player,0,0,23,1983,7,173,RB
-PL9933,Anthony Edgar,Player,0,0,,1983,7,174,RB
-PL9938,Daryl Posey,Player,0,0,,1983,7,179,RB
-PL9944,Weldon Ledbetter,Player,0,0,,1983,7,185,RB
-PL9946,Craig James,Player,0,1,22,1983,7,187,RB
-PL9947,Jessie Clark,Player,0,0,23,1983,7,188,RB
-PL9953,Jeff McCall,Player,0,0,,1983,7,194,RB
-PL9955,Kelvin Bryant,Player,0,0,22,1983,7,196,RB
-PL9958,Henry Odom,Player,0,0,24,1983,8,199,RB
-PL9961,Earnest Jackson,Player,0,2,23,1983,8,202,RB
-PL9979,Lawrence Ricks,Player,0,0,22,1983,8,220,RB
-PL9981,Mike Dotterer,Player,0,0,,1983,8,222,RB
-PL9992,Ricky Williams,Player,0,0,23,1983,9,233,RB
-PL9993,George Parker,Player,0,0,,1983,9,234,RB
-PL10001,Otis Brown,Player,0,0,,1983,9,242,RB
-PL10007,Stanley Wilson,Player,0,0,22,1983,9,248,RB
-PL10009,Marcus Gilbert,Player,0,0,,1983,9,251,RB
-PL10014,Anthony Hutchison,Player,0,0,22,1983,10,256,RB
-PL10036,Anthony Reed,Player,0,0,,1983,10,278,RB
-PL10044,Gary Worthy,Player,0,0,,1983,11,286,RB
-PL10045,Ben Tate,Player,0,0,,1983,11,287,RB
-PL10046,Boyce Green,Player,0,0,23,1983,11,288,RB
-PL10065,Tim Spencer,Player,0,0,22,1983,11,307,RB
-PL10077,Waddell Kelly,Player,0,0,,1983,12,319,RB
-PL10083,Maurice Turner,Player,0,0,22,1983,12,325,RB
-PL10088,Roger Wiley,Player,0,0,,1983,12,330,RB
-PL10089,Lorenzo Bouier,Player,0,0,,1983,12,331,RB
-PL10093,John Tuggle,Player,0,0,22,1983,12,335,RB
-PL10100,Darrin Nelson,Player,0,0,23,1982,1,7,RB
-PL10102,Gerald Riggs,Player,0,3,21,1982,1,9,RB
-PL10103,Marcus Allen HOF,Player,2,6,22,1982,1,10,RB
-PL10105,Walter Abercrombie,Player,0,0,22,1982,1,12,RB
-PL10107,Barry Redden,Player,0,0,22,1982,1,14,RB
-PL10111,Butch Woolfolk,Player,0,0,22,1982,1,18,RB
-PL10114,Gerald Willhite,Player,0,0,23,1982,1,21,RB
-PL10133,Robert Weathers,Player,0,0,21,1982,2,40,RB
-PL10138,Joe Morris,Player,1,2,21,1982,2,45,RB
-PL10164,Del Rodgers,Player,0,0,22,1982,3,71,RB
-PL10165,Stan Edwards,Player,0,0,22,1982,3,72,RB
-PL10172,Dwayne Crutchfield,Player,0,0,22,1982,3,79,RB
-PL10180,Dwight Walker,Player,0,0,23,1982,4,87,RB
-PL10186,Van Williams,Player,0,0,23,1982,4,93,RB
-PL10188,Reggie Brown,Player,0,0,22,1982,4,95,RB
-PL10196,Dave Barrett,Player,0,0,22,1982,4,103,RB
-PL10203,Rodney Tate,Player,0,0,23,1982,4,110,RB
-PL10218,Earl Ferrell,Player,0,0,24,1982,5,125,RB
-PL10219,Mike Meade,Player,0,0,22,1982,5,126,RB
-PL10223,Del Thompson,Player,0,0,24,1982,5,130,RB
-PL10224,Sammy Winder,Player,0,2,23,1982,5,131,RB
-PL10229,Rich Diana,Player,0,0,22,1982,5,136,RB
-PL10232,Newton Williams,Player,0,0,23,1982,5,139,RB
-PL10235,Marvin Lewis,Player,0,0,22,1982,6,142,RB
-PL10241,Gary Allen,Player,0,0,22,1982,6,148,RB
-PL10244,Vince Williams,Player,0,0,22,1982,6,151,RB
-PL10268,Phil Bates,Player,0,0,,1982,7,175,RB
-PL10269,David Toloumu,Player,0,0,,1982,7,176,RB
-PL10285,Larry Cowan,Player,0,0,22,1982,7,192,RB
-PL10295,A.J. Jones,Player,0,0,23,1982,8,202,RB
-PL10309,George Peoples,Player,0,0,22,1982,8,216,RB
-PL10312,Lawrence Texada,Player,0,0,,1982,8,219,RB
-PL10314,Dwight Sullivan,Player,0,0,,1982,8,221,RB
-PL10341,Mack Boatner,Player,0,0,23,1982,9,248,RB
-PL10347,Ricky Floyd,Player,0,0,,1982,10,255,RB
-PL10396,Mike Whiting,Player,0,0,,1982,11,304,RB
-PL10397,Russell Davis,Player,0,0,,1982,11,305,RB
-PL10399,Johnnie Wright,Player,0,0,23,1982,12,307,RB
-PL10400,Greg Taylor,Player,0,0,23,1982,12,308,RB
-PL10406,Donnie Craft,Player,0,0,22,1982,12,314,RB
-PL10410,Hobson Milner,Player,0,0,,1982,12,318,RB
-PL10411,Ricky Porter,Player,0,0,22,1982,12,319,RB
-PL10417,Michael Morton,Player,0,0,22,1982,12,325,RB
-PL10427,George Rogers,Player,1,2,22,1981,1,1,RB
-PL10429,Freeman McNeil,Player,1,3,22,1981,1,3,RB
-PL10438,Randy McMillan,Player,0,0,22,1981,1,12,RB
-PL10439,David Overstreet,Player,0,0,22,1981,1,13,RB
-PL10450,James Brooks,Player,0,4,22,1981,1,24,RB
-PL10454,Booker Moore,Player,0,0,22,1981,1,28,RB
-PL10456,Marion Barber,Player,0,0,21,1981,2,30,RB
-PL10457,David Hughes,Player,0,0,22,1981,2,31,RB
-PL10460,James Wilder,Player,0,1,23,1981,2,34,RB
-PL10467,Joe Delaney,Player,0,1,22,1981,2,41,RB
-PL10473,Tony Collins,Player,0,1,22,1981,2,47,RB
-PL10478,Jarvis Redwine,Player,0,0,24,1981,2,52,RB
-PL10482,Andra Franklin,Player,0,1,22,1981,2,56,RB
-PL10511,Cliff Chatman,Player,0,0,22,1981,4,85,RB
-PL10529,Amos Lawrence,Player,0,0,23,1981,4,103,RB
-PL10536,Calvin Murray,Player,0,0,22,1981,4,110,RB
-PL10548,Arrington Jones,Player,0,0,21,1981,5,122,RB
-PL10564,Tommy Vigorito,Player,0,0,21,1981,5,138,RB
-PL10577,Alvin Lewis,Player,0,0,,1981,6,151,RB
-PL10591,Edward O'Neal,Player,0,0,,1981,6,165,RB
-PL10594,Louis Jackson,Player,0,0,23,1981,7,168,RB
-PL10606,Billy Jackson,Player,0,0,21,1981,7,180,RB
-PL10610,Don Shaver,Player,0,0,,1981,7,184,RB
-PL10622,Eric Lane,Player,0,0,22,1981,8,196,RB
-PL10629,Garry White,Player,0,0,,1981,8,203,RB
-PL10648,Toussaint Tyler,Player,0,0,22,1981,9,222,RB
-PL10649,Jim Stone,Player,0,0,,1981,9,223,RB
-PL10652,Stump Mitchell,Player,0,0,22,1981,9,226,RB
-PL10656,Samoa Samoa,Player,0,0,,1981,9,230,RB
-PL10667,Robb Riddick,Player,0,0,24,1981,9,241,RB
-PL10671,Calvin Fance,Player,0,0,,1981,9,245,RB
-PL10675,Hokie Gajan,Player,0,0,22,1981,10,249,RB
-PL10678,Ken Dawson,Player,0,0,,1981,10,252,RB
-PL10684,Hubert Simpson,Player,0,0,,1981,10,258,RB
-PL10694,Robert Parham,Player,0,0,,1981,10,268,RB
-PL10695,Robert Alexander,Player,0,0,23,1981,10,269,RB
-PL10696,Larry Jones,Player,0,0,,1981,10,270,RB
-PL10701,Hubie Oliver,Player,0,0,23,1981,10,275,RB
-PL10702,Frank Hawkins,Player,0,0,22,1981,10,276,RB
-PL10705,Lance Olander,Player,0,0,,1981,11,279,RB
-PL10713,Lonnie Johnson,Player,0,0,,1981,11,287,RB
-PL10730,Chester Willis,Player,0,0,23,1981,11,304,RB
-PL10739,Major Ogilvie,Player,0,0,,1981,12,313,RB
-PL10747,Mandel Robinson,Player,0,0,,1981,12,321,RB
-PL10754,Jairo Penaranda,Player,0,0,23,1981,12,328,RB
-PL10759,Billy Sims,Player,0,3,24,1980,1,1,RB
-PL10763,Curtis Dickey,Player,0,0,23,1980,1,5,RB
-PL10771,Earl Cooper,Player,0,0,22,1980,1,13,RB
-PL10783,Vagas Ferguson,Player,0,0,23,1980,1,25,RB
-PL10785,Charles White,Player,1,1,22,1980,1,27,RB
-PL10787,Joe Cribbs,Player,0,3,22,1980,2,29,RB
-PL10804,Matt Suhey,Player,0,0,22,1980,2,46,RB
-PL10811,Perry Harrington,Player,0,0,22,1980,2,53,RB
-PL10816,Jewerl Thomas,Player,0,0,22,1980,3,58,RB
-PL10824,James Hadnot,Player,0,0,23,1980,3,66,RB
-PL10838,James Jones,Player,0,0,21,1980,3,80,RB
-PL10862,I.M. Hipp,Player,0,0,24,1980,4,104,RB
-PL10865,Rick Parros,Player,0,0,22,1980,4,107,RB
-PL10879,Doug Paschal,Player,0,0,22,1980,5,121,RB
-PL10880,Paul Jones,Player,0,0,,1980,5,122,RB
-PL10883,Kenny Lewis,Player,0,0,22,1980,5,125,RB
-PL10885,Joe Steele,Player,0,0,,1980,5,127,RB
-PL10893,Nate Rivers,Player,0,0,25,1980,5,135,RB
-PL10909,LaRue Harrington,Player,0,0,23,1980,6,151,RB
-PL10912,Mike Guman,Player,0,0,22,1980,6,154,RB
-PL10920,Timmy Newsome,Player,0,0,22,1980,6,162,RB
-PL10922,Larry Heater,Player,0,0,22,1980,6,164,RB
-PL10935,Mike Morucci,Player,0,0,,1980,7,177,RB
-PL10936,Bobby Batton,Player,0,0,23,1980,7,178,RB
-PL10947,Lester Brown,Player,0,0,,1980,7,189,RB
-PL10948,Bennie Leverett,Player,0,0,,1980,7,190,RB
-PL10950,Gerry Ellis,Player,0,0,22,1980,7,192,RB
-PL10954,Mark Lyles,Player,0,0,,1980,8,196,RB
-PL10958,Ken Harris,Player,0,0,,1980,8,200,RB
-PL10977,Curtis Sirmones,Player,0,0,,1980,8,219,RB
-PL10985,Mark Bright,Player,0,0,,1980,9,227,RB
-PL10987,Otis Wonsley,Player,0,0,23,1980,9,229,RB
-PL10990,Dennis Mosley,Player,0,0,,1980,9,232,RB
-PL10991,Frank Mordica,Player,0,0,,1980,9,233,RB
-PL10994,Roy De Walt,Player,0,0,,1980,9,236,RB
-PL11002,Ed Harris,Player,0,0,,1980,9,244,RB
-PL11005,Steve Whitman,Player,0,0,,1980,9,247,RB
-PL11026,Lewis Walker,Player,0,0,,1980,10,268,RB
-PL11033,Brett Davis,Player,0,0,,1980,10,275,RB
-PL11046,Sam Harrell,Player,0,0,23,1980,11,288,RB
-PL11047,George Woodard,Player,0,0,,1980,11,289,RB
-PL11050,Tali Ena,Player,0,0,,1980,11,292,RB
-PL11052,Roland Sales,Player,0,0,,1980,11,294,RB
-PL11063,Frank Pollard,Player,0,0,23,1980,11,305,RB
-PL11065,Ray Williams,Player,0,0,21,1980,12,307,RB
-PL11071,Quinn Jones,Player,0,0,,1980,12,313,RB
-PL11099,Ottis Anderson,Player,1,2,22,1979,1,8,RB
-PL11103,Charles Alexander,Player,0,0,22,1979,1,12,RB
-PL11106,Eddie Lee Ivery,Player,0,0,22,1979,1,15,RB
-PL11107,Ted Brown,Player,0,0,22,1979,1,16,RB
-PL11119,Greg Hawthorne,Player,0,0,23,1979,1,28,RB
-PL11120,James Owens,Player,0,0,24,1979,2,29,RB
-PL11126,Theotis Brown,Player,0,0,22,1979,2,35,RB
-PL11135,Steve Atkins,Player,0,0,23,1979,2,44,RB
-PL11145,Eddie Hill,Player,0,0,22,1979,2,54,RB
-PL11151,Jerry Eckwood,Player,0,0,24,1979,3,60,RB
-PL11152,Tony Nathan,Player,1,0,22,1979,3,61,RB
-PL11157,Willie McClendon,Player,0,0,21,1979,3,66,RB
-PL11158,Bo Robinson,Player,0,0,23,1979,3,67,RB
-PL11163,Kenny King,Player,0,1,22,1979,3,72,RB
-PL11166,James Mayberry,Player,0,0,21,1979,3,75,RB
-PL11170,William Andrews,Player,0,4,23,1979,3,79,RB
-PL11171,Rick Berns,Player,0,0,23,1979,3,80,RB
-PL11177,Russell Davis,Player,0,0,22,1979,4,86,RB
-PL11185,Ben Cowins,Player,0,0,,1979,4,94,RB
-PL11191,Lynn Cain,Player,0,0,23,1979,4,100,RB
-PL11203,Earl Gant,Player,0,0,22,1979,5,112,RB
-PL11210,Jerry Aldridge,Player,0,0,23,1979,5,119,RB
-PL11211,Harlan Huckleby,Player,0,0,21,1979,5,120,RB
-PL11227,Ron Springs,Player,0,0,22,1979,5,136,RB
-PL11233,Ira Matthews,Player,0,0,22,1979,6,142,RB
-PL11235,Thomas Lott,Player,0,0,22,1979,6,144,RB
-PL11236,Bob Torrey,Player,0,0,22,1979,6,145,RB
-PL11249,Eddie Hicks,Player,0,0,24,1979,6,158,RB
-PL11257,Phil Francis,Player,0,0,22,1979,7,166,RB
-PL11270,Emmett King,Player,0,0,,1979,7,179,RB
-PL11300,Robert Hawkins,Player,0,0,,1979,8,209,RB
-PL11301,Wilbert Haslip,Player,0,0,22,1979,8,210,RB
-PL11307,Randy Love,Player,0,0,22,1979,8,216,RB
-PL11321,Jerome Heavens,Player,0,0,,1979,9,230,RB
-PL11323,Gordy Sprattler,Player,0,0,,1979,9,232,RB
-PL11331,Ezra Tate,Player,0,0,,1979,9,240,RB
-PL11334,Rich Ellender,Player,0,0,22,1979,9,243,RB
-PL11341,Nathan Poole,Player,0,0,22,1979,10,250,RB
-PL11362,Allan Clark,Player,0,0,22,1979,10,271,RB
-PL11375,Ken Johnson,Player,0,0,22,1979,11,284,RB
-PL11387,Zachary Dixon,Player,0,0,23,1979,11,297,RB
-PL11395,Michael Forrest,Player,0,0,,1979,12,305,RB
-PL11398,Mike Harris,Player,0,0,,1979,12,308,RB
-PL11401,Kelsey Finch,Player,0,0,,1979,12,311,RB
-PL11409,Jeff Moore,Player,0,0,23,1979,12,319,RB
-PL11414,Wayne Wilson,Player,0,0,22,1979,12,324,RB
-PL11420,Earl Campbell HOF,Player,3,5,23,1978,1,1,RB
-PL11424,Terry Miller,Player,0,0,22,1978,1,5,RB
-PL11439,Elvis Peacock,Player,0,0,21,1978,1,20,RB
-PL11449,Johnny Davis,Player,0,0,22,1978,2,30,RB
-PL11464,Deacon Turner,Player,0,0,23,1978,2,45,RB
-PL11476,Derrick Jensen,Player,0,0,22,1978,3,57,RB
-PL11478,Dennis Johnson,Player,0,0,22,1978,3,59,RB
-PL11486,Larry Collins,Player,0,0,23,1978,3,67,RB
-PL11490,Rickey Anderson,Player,0,0,25,1978,3,71,RB
-PL11507,Dodie Donnell,Player,0,0,,1978,4,88,RB
-PL11509,Billy Taylor,Player,0,0,22,1978,4,90,RB
-PL11529,Alois Blackwell,Player,0,0,23,1978,4,110,RB
-PL11543,Earl Carr,Player,0,0,23,1978,5,124,RB
-PL11547,Willie Wilder,Player,0,0,,1978,5,128,RB
-PL11549,Norris Banks,Player,0,0,,1978,5,130,RB
-PL11558,John Skibinski,Player,0,0,23,1978,6,139,RB
-PL11567,Elliott Walker,Player,0,0,21,1978,6,148,RB
-PL11574,Steve Geise,Player,0,0,,1978,6,155,RB
-PL11578,Tony Green,Player,0,1,21,1978,6,159,RB
-PL11580,Ben Garry,Player,0,0,22,1978,6,161,RB
-PL11589,Jim Earley,Player,0,0,22,1978,7,170,RB
-PL11593,Dan Doornink,Player,0,0,22,1978,7,174,RB
-PL11595,Arthur Whittington,Player,0,0,23,1978,7,176,RB
-PL11596,Bruce Gibson,Player,0,0,,1978,7,177,RB
-PL11602,Steve Powell,Player,0,0,22,1978,7,183,RB
-PL11610,Jeff Logan,Player,0,0,,1978,7,191,RB
-PL11614,John Henry White,Player,0,0,,1978,8,195,RB
-PL11627,Rick Moser,Player,0,0,21,1978,8,208,RB
-PL11634,Mosi Tatupu,Player,0,1,23,1978,8,215,RB
-PL11637,Monte Anthony,Player,0,0,,1978,8,218,RB
-PL11674,Larry Key,Player,0,0,,1978,10,256,RB
-PL11675,Ricky Patton,Player,0,0,24,1978,10,257,RB
-PL11681,Ray Strong,Player,0,0,22,1978,10,263,RB
-PL11690,Hughie Shaw,Player,0,0,,1978,10,272,RB
-PL11703,Dave Riley,Player,0,0,,1978,11,285,RB
-PL11706,Billy Campfield,Player,0,0,22,1978,11,288,RB
-PL11710,Calvin Prince,Player,0,0,,1978,11,292,RB
-PL11717,Ron Harris,Player,0,0,,1978,11,299,RB
-PL11725,Kevin McLee,Player,0,0,,1978,12,307,RB
-PL11726,Richard Crump,Player,0,0,,1978,12,308,RB
-PL11731,Greg Lawson,Player,0,0,,1978,12,313,RB
-PL11734,Jeff Bergeron,Player,0,0,,1978,12,316,RB
-PL11749,Mike Moore,Player,0,0,,1978,12,331,RB
-PL11753,Ricky Bell,Player,0,0,22,1977,1,1,RB
-PL11754,Tony Dorsett HOF,Player,1,4,23,1977,1,2,RB
-PL11789,Tony Reed,Player,0,0,22,1977,2,37,RB
-PL11796,Horace Ivory,Player,0,0,23,1977,2,44,RB
-PL11797,Rob Lytle,Player,0,0,22,1977,2,45,RB
-PL11799,George Franklin,Player,0,0,23,1977,2,47,RB
-PL11800,Sidney Thornton,Player,0,0,23,1977,2,48,RB
-PL11801,Pete Johnson,Player,0,1,23,1977,2,49,RB
-PL11809,Ted McKnight,Player,0,0,23,1977,2,57,RB
-PL11811,Curtis Brown,Player,0,0,22,1977,3,59,RB
-PL11821,Rick Kane,Player,0,0,22,1977,3,69,RB
-PL11828,Mike Voight,Player,0,0,23,1977,3,76,RB
-PL11831,Wendell Tyler,Player,0,1,22,1977,3,79,RB
-PL11832,Terdell Middleton,Player,0,1,22,1977,3,80,RB
-PL11836,Rob Carpenter,Player,0,0,22,1977,3,84,RB
-PL11842,Scott Dierking,Player,0,0,22,1977,4,90,RB
-PL11844,Mark Bailey,Player,0,0,22,1977,4,92,RB
-PL11851,Laverne Smith,Player,0,0,22,1977,4,99,RB
-PL11874,Nate Simpson,Player,0,0,22,1977,5,122,RB
-PL11875,Leroy Harris,Player,0,0,23,1977,5,123,RB
-PL11876,Clarence Williams,Player,0,0,22,1977,5,124,RB
-PL11894,Tony Benjamin,Player,0,0,21,1977,6,142,RB
-PL11903,Larry Barnes,Player,0,0,23,1977,6,151,RB
-PL11906,Wilbert Montgomery,Player,0,2,22,1977,6,154,RB
-PL11908,Art Best,Player,0,0,24,1977,6,156,RB
-PL11919,Andre Herrera,Player,0,0,,1977,6,167,RB
-PL11920,Charlie White,Player,0,0,24,1977,7,168,RB
-PL11921,David Sims,Player,0,0,21,1977,7,169,RB
-PL11926,Greg Boykin,Player,0,0,23,1977,7,174,RB
-PL11935,Jim Van Wagner,Player,0,0,22,1977,7,183,RB
-PL11947,Kevin Long,Player,0,0,22,1977,7,195,RB
-PL11954,Cleveland Franklin,Player,0,0,22,1977,8,202,RB
-PL11964,Calvin Culliver,Player,0,0,,1977,8,212,RB
-PL11973,Fred Williams,Player,0,0,,1977,8,221,RB
-PL11975,Terry Robiskie,Player,0,0,22,1977,8,223,RB
-PL11989,Robert Turner,Player,0,0,23,1977,9,237,RB
-PL11997,Mike Northington,Player,0,0,,1977,9,246,RB
-PL11998,Glen Capriola,Player,0,0,,1977,9,247,RB
-PL12003,Robert Morgan,Player,0,0,,1977,10,252,RB
-PL12011,Jim Culbreath,Player,0,0,24,1977,10,260,RB
-PL12024,James Sykes,Player,0,0,,1977,10,273,RB
-PL12033,Nate Jackson,Player,0,0,,1977,11,282,RB
-PL12038,Dave Farmer,Player,0,0,23,1977,11,287,RB
-PL12062,Elmo Simmons,Player,0,0,,1977,12,311,RB
-PL12063,Phil Gargis,Player,0,0,,1977,12,312,RB
-PL12082,Bill Deutsch,Player,0,0,,1977,12,331,RB
-PL12084,Dave Preston,Player,0,0,22,1977,12,333,RB
-PL12086,Jim Kelleher,Player,0,0,,1977,12,335,RB
-PL12089,Chuck Muncie,Player,0,3,23,1976,1,3,RB
-PL12090,Joe Washington,Player,0,1,22,1976,1,4,RB
-PL12093,Mike Pruitt,Player,0,2,22,1976,1,7,RB
-PL12095,Bubba Bean,Player,0,0,22,1976,1,9,RB
-PL12102,Lawrence Gaines,Player,0,0,22,1976,1,16,RB
-PL12110,Archie Griffin,Player,0,0,22,1976,1,24,RB
-PL12116,Jimmy DuBose,Player,0,0,21,1976,2,30,RB
-PL12118,Tony Galbreath,Player,0,0,22,1976,2,32,RB
-PL12121,Ike Forte,Player,0,0,22,1976,2,35,RB
-PL12122,Sonny Collins,Player,0,0,23,1976,2,36,RB
-PL12126,Jim Jensen,Player,0,0,22,1976,2,40,RB
-PL12144,Sherman Smith,Player,0,0,21,1976,2,58,RB
-PL12161,John Smith,Player,0,0,,1976,3,75,RB
-PL12176,Ron Lee,Player,0,0,22,1976,3,90,RB
-PL12190,Gordon Bell,Player,0,0,22,1976,4,104,RB
-PL12192,Tony Davis,Player,0,0,23,1976,4,106,RB
-PL12209,Andy Bolton,Player,0,0,22,1976,4,123,RB
-PL12224,Willie Shelby,Player,0,0,23,1976,5,138,RB
-PL12225,Lonnie Perrin,Player,0,0,24,1976,5,139,RB
-PL12227,Wayne Morris,Player,0,0,22,1976,5,141,RB
-PL12236,Keith Barnette,Player,0,0,,1976,5,150,RB
-PL12242,Larry Bates,Player,0,0,,1976,5,156,RB
-PL12260,Gary Davis,Player,0,0,22,1976,6,174,RB
-PL12261,Darnell Powell,Player,0,0,22,1976,6,175,RB
-PL12268,Jack Deloplaine,Player,0,0,22,1976,6,182,RB
-PL12282,Rod Wellington,Player,0,0,,1976,7,196,RB
-PL12285,James Richards,Player,0,0,,1976,7,199,RB
-PL12289,Phil Rogers,Player,0,0,,1976,7,203,RB
-PL12294,Dave Williams,Player,0,0,22,1976,7,208,RB
-PL12300,Louie Giammona,Player,0,0,23,1976,8,214,RB
-PL12310,James Betterson,Player,0,0,22,1976,8,224,RB
-PL12312,Bobby Joe Easter,Player,0,0,,1976,8,226,RB
-PL12317,Terry Kunz,Player,0,0,23,1976,8,231,RB
-PL12321,Stu Betts,Player,0,0,,1976,8,235,RB
-PL12328,James Reed,Player,0,0,,1976,9,242,RB
-PL12333,Mike Hogan,Player,0,0,21,1976,9,247,RB
-PL12337,Glynn Harrison,Player,0,0,22,1976,9,251,RB
-PL12359,Herb Lusk,Player,0,0,23,1976,10,273,RB
-PL12362,John Thomas,Player,0,0,,1976,10,276,RB
-PL12368,Don Testerman,Player,0,0,23,1976,10,282,RB
-PL12371,Randy Walker,Player,0,0,,1976,10,285,RB
-PL12391,Paul Hofer,Player,0,0,24,1976,11,305,RB
-PL12397,Skip Walker,Player,0,0,,1976,11,311,RB
-PL12398,Dexter Pride,Player,0,0,,1976,11,312,RB
-PL12399,Rick Jennings,Player,0,0,23,1976,11,313,RB
-PL12404,Steve Kracher,Player,0,0,,1976,11,318,RB
-PL12405,Rolland Fuchs,Player,0,0,,1976,11,319,RB
-PL12407,George Ragsdale,Player,0,0,23,1976,12,321,RB
-PL12416,John O'Leary,Player,0,0,,1976,12,330,RB
-PL12422,Joe Lowery,Player,0,0,,1976,12,336,RB
-PL12430,Jim Jodat,Player,0,0,22,1976,12,344,RB
-PL12435,Andy Reid,Player,0,0,22,1976,13,349,RB
-PL12443,Dale Kasowski,Player,0,0,,1976,13,357,RB
-PL12447,Donnie McGraw,Player,0,0,,1976,13,362,RB
-PL12456,Randy Walker,Player,0,0,,1976,13,371,RB
-PL12468,Ron Cuie,Player,0,0,,1976,14,384,RB
-PL12470,John Henson,Player,0,0,,1976,14,386,RB
-PL12481,Calvin Young,Player,0,0,,1976,14,397,RB
-PL12507,Ron Holmes,Player,0,0,,1976,15,423,RB
-PL12509,John Monroe,Player,0,0,,1976,15,426,RB
-PL12511,Ron Groce,Player,0,0,22,1976,15,428,RB
-PL12520,James Godwin,Player,0,0,,1976,16,437,RB
-PL12522,Steve Campassi,Player,0,0,,1976,16,439,RB
-PL12542,Randy Butts,Player,0,0,,1976,16,459,RB
-PL12555,Pat McNeil,Player,0,0,22,1976,17,472,RB
-PL12556,Darryl Jenkins,Player,0,0,,1976,17,473,RB
-PL12564,Nate Beasley,Player,0,0,,1976,17,481,RB
-PL12574,Walter Payton HOF,Player,5,9,21,1975,1,4,RB
-PL12585,Don Hardeman,Player,0,0,22,1975,1,15,RB
-PL12607,Anthony Davis,Player,0,0,22,1975,2,37,RB
-PL12616,Jim Germany,Player,0,0,,1975,2,46,RB
-PL12619,Stan Winfrey,Player,0,0,22,1975,2,49,RB
-PL12624,Mike Franckowiak,Player,0,0,22,1975,3,54,RB
-PL12628,Willard Harrell,Player,0,0,22,1975,3,58,RB
-PL12630,Andrew Jones,Player,0,0,23,1975,3,60,RB
-PL12635,Woody Thompson,Player,0,0,23,1975,3,65,RB
-PL12646,Louis Carter,Player,0,0,22,1975,3,76,RB
-PL12656,Allen Carter,Player,0,0,22,1975,4,86,RB
-PL12659,Champ Henson,Player,0,0,22,1975,4,89,RB
-PL12667,Stan Fritts,Player,0,0,22,1975,4,97,RB
-PL12672,Tom Donchez,Player,0,0,23,1975,4,102,RB
-PL12675,Roosevelt Leaks,Player,0,0,22,1975,5,105,RB
-PL12678,Mike Thomas,Player,0,1,22,1975,5,108,RB
-PL12684,Wayne Bullock,Player,0,0,,1975,5,114,RB
-PL12699,Robert Miller,Player,0,0,22,1975,5,129,RB
-PL12707,Morris LaGrand,Player,0,0,22,1975,6,137,RB
-PL12711,Horace King,Player,0,0,22,1975,6,141,RB
-PL12724,Henry Hynoski,Player,0,0,22,1975,6,154,RB
-PL12727,Kim Jones,Player,0,0,23,1975,7,157,RB
-PL12729,Mike Esposito,Player,0,0,22,1975,7,159,RB
-PL12733,Steve Rogers,Player,0,0,22,1975,7,163,RB
-PL12734,Rickey Young,Player,0,0,21,1975,7,164,RB
-PL12744,Reggie Cherry,Player,0,0,,1975,7,174,RB
-PL12747,Steve Beaird,Player,0,0,,1975,7,177,RB
-PL12749,Phillip Kent,Player,0,0,,1975,7,179,RB
-PL12751,Henry Greene,Player,0,0,,1975,7,181,RB
-PL12780,Brad Davis,Player,0,0,22,1975,9,211,RB
-PL12782,Larry Poole,Player,0,0,23,1975,9,213,RB
-PL12785,Mike Strachan,Player,0,0,22,1975,9,216,RB
-PL12786,Jay Lynn Hodgin,Player,0,0,,1975,9,217,RB
-PL12802,Bruce Reimer,Player,0,0,,1975,9,234,RB
-PL12807,Clyde Russell,Player,0,0,,1975,10,239,RB
-PL12809,Chuck Heater,Player,0,0,,1975,10,241,RB
-PL12811,Donnie Layton,Player,0,0,,1975,10,243,RB
-PL12820,Dennis Booker,Player,0,0,,1975,10,252,RB
-PL12821,Roland Hooks,Player,0,0,22,1975,10,253,RB
-PL12847,Jerry Latin,Player,0,0,22,1975,11,280,RB
-PL12848,Howard Strickland,Player,0,0,,1975,11,281,RB
-PL12851,Ike Spencer,Player,0,0,,1975,11,285,RB
-PL12853,Marsh White,Player,0,0,22,1975,12,287,RB
-PL12859,James Rackley,Player,0,0,,1975,12,293,RB
-PL12864,Dick Pawlewicz,Player,0,0,,1975,12,298,RB
-PL12881,Charles McDaniel,Player,0,0,,1975,13,316,RB
-PL12884,Jim Upchurch,Player,0,0,,1975,13,319,RB
-PL12890,Jim Smith,Player,0,0,,1975,13,325,RB
-PL12894,Eric Penick,Player,0,0,,1975,13,329,RB
-PL12900,Glen Printers,Player,0,0,,1975,13,335,RB
-PL12906,Tim Barrett,Player,0,0,,1975,14,341,RB
-PL12907,Walter Hartfield,Player,0,0,,1975,14,342,RB
-PL12921,Scott Laidlaw,Player,0,0,22,1975,14,356,RB
-PL12927,Mike Strickland,Player,0,0,,1975,14,363,RB
-PL12928,Mike Collier,Player,0,0,21,1975,14,364,RB
-PL12929,John Goodie,Player,0,0,,1975,15,365,RB
-PL12930,Jim O'Connor,Player,0,0,,1975,15,366,RB
-PL12936,Grant Burget,Player,0,0,,1975,15,372,RB
-PL12939,Rudy Green,Player,0,0,,1975,15,375,RB
-PL12941,Jack Holmes,Player,0,0,22,1975,15,377,RB
-PL12942,Don Clayton,Player,0,0,,1975,15,378,RB
-PL12945,Willie Hamilton,Player,0,0,,1975,15,382,RB
-PL12950,Skip Johns,Player,0,0,,1975,15,387,RB
-PL12952,Paul Careathers,Player,0,0,,1975,15,389,RB
-PL12966,Kerry Marbury,Player,0,0,,1975,16,403,RB
-PL12973,Francis Reynolds,Player,0,0,,1975,16,410,RB
-PL12983,Roland Harper,Player,0,0,22,1975,17,420,RB
-PL12995,Lester Sherman,Player,0,0,,1975,17,433,RB
-PL12998,Ken Monroe,Player,0,0,,1975,17,436,RB
-PL13001,Dwaine Copeland,Player,0,0,,1975,17,439,RB
-PL13003,Adolph Bellizeare,Player,0,0,,1975,17,441,RB
-PL13006,Bo Matthews,Player,0,0,22,1974,1,2,RB
-PL13013,Wilbur Jackson,Player,0,0,22,1974,1,9,RB
-PL13015,John Cappelletti,Player,0,0,22,1974,1,11,RB
-PL13016,Barty Smith,Player,0,0,22,1974,1,12,RB
-PL13020,Woody Green,Player,0,0,23,1974,1,16,RB
-PL13026,Charley Young,Player,0,0,21,1974,1,22,RB
-PL13041,Ed Shuttlesworth,Player,0,0,,1974,2,37,RB
-PL13051,Benny Malone,Player,0,0,22,1974,2,47,RB
-PL13052,Charlie Davis,Player,0,0,22,1974,2,48,RB
-PL13053,Delvin Williams,Player,1,2,23,1974,2,49,RB
-PL13063,Bill Rudder,Player,0,0,,1974,3,59,RB
-PL13066,Cliff Taylor,Player,0,0,22,1974,3,62,RB
-PL13069,Dexter Bussey,Player,0,0,22,1974,3,65,RB
-PL13079,Mark van Eeghen,Player,0,0,22,1974,3,75,RB
-PL13092,Rod McNeill,Player,0,0,23,1974,4,88,RB
-PL13094,Sammy Johnson,Player,0,0,21,1974,4,90,RB
-PL13099,Carlester Crumpler,Player,0,0,,1974,4,95,RB
-PL13100,Vince Kendrick,Player,0,0,22,1974,4,96,RB
-PL13105,Andy Andrade,Player,0,0,,1974,4,101,RB
-PL13110,Gary Hayman,Player,0,0,22,1974,5,106,RB
-PL13116,Andy Johnson,Player,0,0,21,1974,5,112,RB
-PL13118,Haskel Stanback,Player,0,0,22,1974,5,114,RB
-PL13132,Monroe Eley,Player,0,0,25,1974,5,128,RB
-PL13135,Jay Washington,Player,0,0,,1974,6,131,RB
-PL13138,Don Woods,Player,0,0,23,1974,6,134,RB
-PL13141,Wayne Jones,Player,0,0,,1974,6,137,RB
-PL13143,Willie Burden,Player,0,0,,1974,6,139,RB
-PL13148,Jon Keyworth,Player,0,0,23,1974,6,144,RB
-PL13150,Billy Pritchett,Player,0,0,23,1974,6,146,RB
-PL13151,Doyle Orange,Player,0,0,,1974,6,147,RB
-PL13152,James McAlister,Player,0,0,23,1974,6,148,RB
-PL13159,Mark Kellar,Player,0,0,22,1974,6,155,RB
-PL13162,John Harvey,Player,0,0,,1974,7,158,RB
-PL13170,Kermit Johnson,Player,0,0,22,1974,7,166,RB
-PL13185,Fred Tabron,Player,0,0,,1974,7,181,RB
-PL13194,Ken Grandberry,Player,0,0,22,1974,8,190,RB
-PL13196,Larry Lightfoot,Player,0,0,,1974,8,192,RB
-PL13200,Darwin Robinson,Player,0,0,,1974,8,196,RB
-PL13202,Paul Miles,Player,0,0,,1974,8,198,RB
-PL13205,Alvin Maxson,Player,0,0,22,1974,8,201,RB
-PL13215,Jim Rathje,Player,0,0,,1974,9,211,RB
-PL13218,Robert Burns,Player,0,0,22,1974,9,214,RB
-PL13219,Reggie Harrison,Player,0,0,23,1974,9,215,RB
-PL13220,Manfred Moore,Player,0,0,23,1974,9,216,RB
-PL13226,Jim Jennings,Player,0,0,,1974,9,222,RB
-PL13227,Tommy Reamon,Player,0,0,22,1974,9,223,RB
-PL13249,Phil Polak,Player,0,0,,1974,10,245,RB
-PL13251,David Wooley,Player,0,0,,1974,10,247,RB
-PL13253,Don Calhoun,Player,0,0,22,1974,10,249,RB
-PL13259,Dennis Morgan,Player,0,0,22,1974,10,255,RB
-PL13263,Barry Reed,Player,0,0,,1974,10,259,RB
-PL13272,Archie Gibson,Player,0,0,,1974,11,268,RB
-PL13276,Eric Torkelson,Player,0,0,22,1974,11,272,RB
-PL13280,Steve Buchanan,Player,0,0,,1974,11,276,RB
-PL13283,Harold Hart,Player,0,0,22,1974,11,279,RB
-PL13287,Dickie Morton,Player,0,0,,1974,11,283,RB
-PL13309,Noe Gonzalez,Player,0,0,23,1974,12,305,RB
-PL13322,Jimmy Poulos,Player,0,0,,1974,13,319,RB
-PL13324,Phil Bennett,Player,0,0,,1974,13,321,RB
-PL13332,Ralph Powell,Player,0,0,,1974,13,329,RB
-PL13341,Clayton Heath,Player,0,0,23,1974,13,338,RB
-PL13348,Charles Smith,Player,0,0,,1974,14,345,RB
-PL13349,Cecil Bowens,Player,0,0,,1974,14,346,RB
-PL13355,Bob Hunt,Player,0,0,23,1974,14,352,RB
-PL13360,Don Willingham,Player,0,0,,1974,14,357,RB
-PL13366,Alan Dixon,Player,0,0,,1974,14,363,RB
-PL13388,Isaac Jackson,Player,0,0,,1974,15,385,RB
-PL13393,Mathew Williams,Player,0,0,,1974,16,391,RB
-PL13397,Jazz Jackson,Player,0,0,22,1974,16,395,RB
-PL13399,Alonzo Emery,Player,0,0,,1974,16,397,RB
-PL13410,Molly McGee,Player,0,0,22,1974,16,408,RB
-PL13413,Nate Anderson,Player,0,0,,1974,16,411,RB
-PL13417,John Goebel,Player,0,0,,1974,16,415,RB
-PL13421,Steve Crosby,Player,0,0,24,1974,17,419,RB
-PL13429,Cliff Brown,Player,0,0,,1974,17,427,RB
-PL13441,Jim Smith,Player,0,0,,1974,17,439,RB
-CG2,Alabama,College,0,0,0,0,0,0,0
-CG33,Penn St.,College,0,0,0,0,0,0,0
-CG43,Memphis,College,0,0,0,0,0,0,0
-CG44,Iowa St.,College,0,0,0,0,0,0,0
-CG45,Florida Atlantic,College,0,0,0,0,0,0,0
-CG59,Boise St.,College,0,0,0,0,0,0,0
-CG35,Stanford,College,0,0,0,0,0,0,0
-CG61,Oklahoma St.,College,0,0,0,0,0,0,0
-CG6,Kentucky,College,0,0,0,0,0,0,0
-CG22,Temple,College,0,0,0,0,0,0,0
-CG68,Pittsburgh,College,0,0,0,0,0,0,0
-CG23,Florida,College,0,0,0,0,0,0,0
-CG32,Texas A&M,College,0,0,0,0,0,0,0
-CG14,Maryland,College,0,0,0,0,0,0,0
-CG17,Notre Dame,College,0,0,0,0,0,0,0
-CG63,Miami (FL),College,0,0,0,0,0,0,0
-CG0,Oklahoma,College,0,0,0,0,0,0,0
-CG85,Utah St.,College,0,0,0,0,0,0,0
-CG1,Ohio St.,College,0,0,0,0,0,0,0
-CG55,Auburn,College,0,0,0,0,0,0,0
-CG20,Washington,College,0,0,0,0,0,0,0
-CG52,San Diego St.,College,0,0,0,0,0,0,0
-CG19,Georgia,College,0,0,0,0,0,0,0
-CG54,USC,College,0,0,0,0,0,0,0
-CG4,LSU,College,0,0,0,0,0,0,0
-CG66,Oregon,College,0,0,0,0,0,0,0
-CG12,North Carolina St.,College,0,0,0,0,0,0,0
-CG115,Southern Miss,College,0,0,0,0,0,0,0
-CG21,Arizona St.,College,0,0,0,0,0,0,0
-CG121,Fordham,College,0,0,0,0,0,0,0
-CG25,Mississippi,College,0,0,0,0,0,0,0
-CG111,Tennessee,College,0,0,0,0,0,0,0
-CG51,Louisiana Tech,College,0,0,0,0,0,0,0
-CG133,Virginia St.,College,0,0,0,0,0,0,0
-CG62,Arkansas,College,0,0,0,0,0,0,0
-CG73,Northwestern,College,0,0,0,0,0,0,0
-CG11,Florida St.,College,0,0,0,0,0,0,0
-CG40,Toledo,College,0,0,0,0,0,0,0
-CG70,Texas,College,0,0,0,0,0,0,0
-CG89,North Carolina A&T,College,0,0,0,0,0,0,0
-CG31,Utah,College,0,0,0,0,0,0,0
-CG47,BYU,College,0,0,0,0,0,0,0
-CG3,Clemson,College,0,0,0,0,0,0,0
-CG112,South Florida,College,0,0,0,0,0,0,0
-CG80,Wyoming,College,0,0,0,0,0,0,0
-CG74,North Carolina,College,0,0,0,0,0,0,0
-CG105,Texas-El Paso,College,0,0,0,0,0,0,0
-CG110,Louisiana,College,0,0,0,0,0,0,0
-CG160,Coastal Carolina,College,0,0,0,0,0,0,0
-CG8,Houston,College,0,0,0,0,0,0,0
-CG137,California,College,0,0,0,0,0,0,0
-CG42,San Jose St.,College,0,0,0,0,0,0,0
-CG99,Texas Tech,College,0,0,0,0,0,0,0
-CG100,UCLA,College,0,0,0,0,0,0,0
-CG65,Indiana,College,0,0,0,0,0,0,0
-CG58,West Virginia,College,0,0,0,0,0,0,0
-CG177,Navy,College,0,0,0,0,0,0,0
-CG60,East. Michigan,College,0,0,0,0,0,0,0
-CG46,Wisconsin,College,0,0,0,0,0,0,0
-CG132,Nebraska,College,0,0,0,0,0,0,0
-CG127,Northern Iowa,College,0,0,0,0,0,0,0
-CG49,Michigan St.,College,0,0,0,0,0,0,0
-CG24,South Carolina,College,0,0,0,0,0,0,0
-CG69,Minnesota,College,0,0,0,0,0,0,0
-CG13,Mississippi St.,College,0,0,0,0,0,0,0
-CG28,Missouri,College,0,0,0,0,0,0,0
-CG189,Towson,College,0,0,0,0,0,0,0
-CG159,Georgia Southern,College,0,0,0,0,0,0,0
-CG10,Boston Col.,College,0,0,0,0,0,0,0
-CG91,Arizona,College,0,0,0,0,0,0,0
-CG41,Baylor,College,0,0,0,0,0,0,0
-CG36,Central Florida,College,0,0,0,0,0,0,0
-CG175,Harvard,College,0,0,0,0,0,0,0
-CG30,Vanderbilt,College,0,0,0,0,0,0,0
-CG64,Wake Forest,College,0,0,0,0,0,0,0
-CG76,Rutgers,College,0,0,0,0,0,0,0
-CG38,Massachusetts,College,0,0,0,0,0,0,0
-CG102,Virginia Tech,College,0,0,0,0,0,0,0
-CG94,Cincinnati,College,0,0,0,0,0,0,0
-CG27,Kansas St.,College,0,0,0,0,0,0,0
-CG226,Abilene Christian,College,0,0,0,0,0,0,0
-CG86,Illinois,College,0,0,0,0,0,0,0
-CG29,Hawaii,College,0,0,0,0,0,0,0
-CG96,Syracuse,College,0,0,0,0,0,0,0
-CG147,East. Washington,College,0,0,0,0,0,0,0
-CG103,Louisville,College,0,0,0,0,0,0,0
-CG128,Connecticut,College,0,0,0,0,0,0,0
-CG153,Oregon St.,College,0,0,0,0,0,0,0
-CG131,Yale,College,0,0,0,0,0,0,0
-CG164,Georgia Tech,College,0,0,0,0,0,0,0
-CG75,Fresno St.,College,0,0,0,0,0,0,0
-CG187,Southern Illinois,College,0,0,0,0,0,0,0
-CG165,Buffalo,College,0,0,0,0,0,0,0
-CG7,Iowa,College,0,0,0,0,0,0,0
-CG97,Colorado St.,College,0,0,0,0,0,0,0
-CG238,UNLV,College,0,0,0,0,0,0,0
-CG39,Virginia,College,0,0,0,0,0,0,0
-CG18,TCU,College,0,0,0,0,0,0,0
-CG190,Tennessee St.,College,0,0,0,0,0,0,0
-CG95,Idaho,College,0,0,0,0,0,0,0
-CG199,Liberty,College,0,0,0,0,0,0,0
-CG143,East Carolina,College,0,0,0,0,0,0,0
-CG87,Tulane,College,0,0,0,0,0,0,0
-CG116,Richmond,College,0,0,0,0,0,0,0
-CG205,NW Missouri St.,College,0,0,0,0,0,0,0
-CG9,Michigan,College,0,0,0,0,0,0,0
-CG176,Montana,College,0,0,0,0,0,0,0
-CG34,Northern Illinois,College,0,0,0,0,0,0,0
-CG232,Central Connecticut St.,College,0,0,0,0,0,0,0
-CG195,Marshall,College,0,0,0,0,0,0,0
-CG15,Washington St.,College,0,0,0,0,0,0,0
-CG283,Dartmouth,College,0,0,0,0,0,0,0
-CG78,Colorado,College,0,0,0,0,0,0,0
-CG72,North Dakota St.,College,0,0,0,0,0,0,0
-CG146,Villanova,College,0,0,0,0,0,0,0
-CG122,S.F. Austin,College,0,0,0,0,0,0,0
-CG120,New Mexico St.,College,0,0,0,0,0,0,0
-CG183,Miami (OH),College,0,0,0,0,0,0,0
-CG90,James Madison,College,0,0,0,0,0,0,0
-CG249,McNeese St.,College,0,0,0,0,0,0,0
-CG309,Livingstone,College,0,0,0,0,0,0,0
-CG123,Purdue,College,0,0,0,0,0,0,0
-CG214,Cornell,College,0,0,0,0,0,0,0
-CG106,South Carolina St.,College,0,0,0,0,0,0,0
-CG118,Kansas,College,0,0,0,0,0,0,0
-CG139,New Mexico,College,0,0,0,0,0,0,0
-CG252,Winston-Salem St.,College,0,0,0,0,0,0,0
-CG319,Robert Morris,College,0,0,0,0,0,0,0
-CG162,Tenn-Chattanooga,College,0,0,0,0,0,0,0
-CG322,Sonoma St.,College,0,0,0,0,0,0,0
-CG325,Central Oklahoma,College,0,0,0,0,0,0,0
-CG231,The Citadel,College,0,0,0,0,0,0,0
-CG208,Portland St.,College,0,0,0,0,0,0,0
-CG235,Alabama A&M,College,0,0,0,0,0,0,0
-CG82,La-Monroe,College,0,0,0,0,0,0,0
-CG197,Pittsburg St.,College,0,0,0,0,0,0,0
-CG141,Middle Tenn. St.,College,0,0,0,0,0,0,0
-CG333,Miss. Valley St.,College,0,0,0,0,0,0,0
-CG337,NE State (OK),College,0,0,0,0,0,0,0
-CG166,East. Kentucky,College,0,0,0,0,0,0,0
-CG340,Cal State-Fullerton,College,0,0,0,0,0,0,0
-CG343,Clark (GA),College,0,0,0,0,0,0,0
-CG281,North Texas,College,0,0,0,0,0,0,0
-CG150,Grambling St.,College,0,0,0,0,0,0,0
-CG347,Mississippi Col.,College,0,0,0,0,0,0,0
-CG178,William & Mary,College,0,0,0,0,0,0,0
-CG212,Ark-Pine Bluff,College,0,0,0,0,0,0,0
-CG221,Florida A&M,College,0,0,0,0,0,0,0
-CG358,Ferrum,College,0,0,0,0,0,0,0
-CG294,Texas A&M-Kingsville,College,0,0,0,0,0,0,0
-CG366,St. Cloud St.,College,0,0,0,0,0,0,0
-CG26,Central Michigan,College,0,0,0,0,0,0,0
-CG171,Princeton,College,0,0,0,0,0,0,0
-CG274,Northern Arizona,College,0,0,0,0,0,0,0
-CG253,Jackson St.,College,0,0,0,0,0,0,0
-CG245,Nicholls St.,College,0,0,0,0,0,0,0
-CG104,Nevada,College,0,0,0,0,0,0,0
-CG215,Tenn-Martin,College,0,0,0,0,0,0,0
-CG233,Slippery Rock,College,0,0,0,0,0,0,0
-CG16,Alabama St.,College,0,0,0,0,0,0,0
-CG184,Texas St.,College,0,0,0,0,0,0,0
-CG193,NW State (LA),College,0,0,0,0,0,0,0
-CG373,Puget Sound,College,0,0,0,0,0,0,0
-CG228,Hampton,College,0,0,0,0,0,0,0
-CG117,Western Kentucky,College,0,0,0,0,0,0,0
-CG269,Howard,College,0,0,0,0,0,0,0
-CG371,Holy Cross,College,0,0,0,0,0,0,0
-CG379,Colgate,College,0,0,0,0,0,0,0
-CG380,Azusa Pacific,College,0,0,0,0,0,0,0
-CG381,Benedictine,College,0,0,0,0,0,0,0
-CG327,Pacific,College,0,0,0,0,0,0,0
-CG386,Findlay,College,0,0,0,0,0,0,0
-CG279,Idaho St.,College,0,0,0,0,0,0,0
-CG210,Saginaw Valley St.,College,0,0,0,0,0,0,0
-CG368,Mesa,College,0,0,0,0,0,0,0
-CG107,SMU,College,0,0,0,0,0,0,0
-CG390,Occidental,College,0,0,0,0,0,0,0
-CG354,Henderson St.,College,0,0,0,0,0,0,0
-CG211,South Dakota,College,0,0,0,0,0,0,0
-CG398,West Virginia Tech,College,0,0,0,0,0,0,0
-CG37,Delaware,College,0,0,0,0,0,0,0
-CG389,Texas-Arlington,College,0,0,0,0,0,0,0
-CG202,Furman,College,0,0,0,0,0,0,0
-CG364,Boston Univ.,College,0,0,0,0,0,0,0
-CG401,Colorado State-Pueblo,College,0,0,0,0,0,0,0
-CG280,Sacramento St.,College,0,0,0,0,0,0,0
-CG81,Elon,College,0,0,0,0,0,0,0
-CG234,Tulsa,College,0,0,0,0,0,0,0
-CG119,Weber St.,College,0,0,0,0,0,0,0
-CG130,Central Arkansas,College,0,0,0,0,0,0,0
-CG270,Bethune-Cookman,College,0,0,0,0,0,0,0
-CG407,William Jewell,College,0,0,0,0,0,0,0
-CG306,Langston,College,0,0,0,0,0,0,0
-CG250,Norfolk St.,College,0,0,0,0,0,0,0
-CG408,Wilmington,College,0,0,0,0,0,0,0
-CG168,North Carolina Central,College,0,0,0,0,0,0,0
-CG287,Carson-Newman,College,0,0,0,0,0,0,0
-CG203,Arkansas St.,College,0,0,0,0,0,0,0
-CG108,Sam Houston St.,College,0,0,0,0,0,0,0
-CG129,Maine,College,0,0,0,0,0,0,0
-CG315,East Tennessee St.,College,0,0,0,0,0,0,0
-CG179,SE Louisiana,College,0,0,0,0,0,0,0
-CG275,Tuskegee,College,0,0,0,0,0,0,0
-CG244,Cal Poly-San Luis Obispo,College,0,0,0,0,0,0,0
-CG155,Kutztown Pennsylvania,College,0,0,0,0,0,0,0
-CG416,Millersville,College,0,0,0,0,0,0,0
-CG191,Rice,College,0,0,0,0,0,0,0
-CG361,Savannah St.,College,0,0,0,0,0,0,0
-CG201,Bloomsburg,College,0,0,0,0,0,0,0
-CG222,North Alabama,College,0,0,0,0,0,0,0
-CG303,Alcorn St.,College,0,0,0,0,0,0,0
-CG384,Bishop,College,0,0,0,0,0,0,0
-CG241,West Texas A&M,College,0,0,0,0,0,0,0
-CG310,Angelo State (TX),College,0,0,0,0,0,0,0
-CG423,Shepherd,College,0,0,0,0,0,0,0
-CG396,Truman St.,College,0,0,0,0,0,0,0
-CG393,Rhode Island,College,0,0,0,0,0,0,0
-CG50,West. Illinois,College,0,0,0,0,0,0,0
-CG151,Lamar,College,0,0,0,0,0,0,0
-CG360,Minnesota-Duluth,College,0,0,0,0,0,0,0
-CG346,Long Beach St.,College,0,0,0,0,0,0,0
-CG5,Duke,College,0,0,0,0,0,0,0
-CG198,Kent St.,College,0,0,0,0,0,0,0
-CG273,Michigan Tech,College,0,0,0,0,0,0,0
-CG266,North Dakota,College,0,0,0,0,0,0,0
-CG84,Bowling Green,College,0,0,0,0,0,0,0
-CG433,Fisk,College,0,0,0,0,0,0,0
-CG392,Salem,College,0,0,0,0,0,0,0
-CG353,Northern Michigan,College,0,0,0,0,0,0,0
-CG436,Valley City,College,0,0,0,0,0,0,0
-CG181,Montana St.,College,0,0,0,0,0,0,0
-CG438,Carthage,College,0,0,0,0,0,0,0
-CG442,Bluefield,College,0,0,0,0,0,0,0
-CG444,Macalester,College,0,0,0,0,0,0,0
-CG446,Fayetteville St.,College,0,0,0,0,0,0,0
-CG387,Nebraska-Kearney,College,0,0,0,0,0,0,0
-CG448,Tampa,College,0,0,0,0,0,0,0
-CG284,Southern,College,0,0,0,0,0,0,0
-CG357,John Carroll,College,0,0,0,0,0,0,0
-CG98,Morgan St.,College,0,0,0,0,0,0,0
-CG157,Drake,College,0,0,0,0,0,0,0
-CG186,Texas Southern,College,0,0,0,0,0,0,0
-CG57,Murray St.,College,0,0,0,0,0,0,0
-CG412,Albany St.,College,0,0,0,0,0,0,0
-CG323,Indiana St.,College,0,0,0,0,0,0,0
-CG124,Pennsylvania,College,0,0,0,0,0,0,0
-CG239,SW Missouri St.,College,0,0,0,0,0,0,0
-CG173,West Alabama,College,0,0,0,0,0,0,0
-CG88,South Dakota St.,College,0,0,0,0,0,0,0
-CG457,Peru St.,College,0,0,0,0,0,0,0
-CG453,Yankton,College,0,0,0,0,0,0,0
-CG460,Heidelberg,College,0,0,0,0,0,0,0
-CG462,Wisconsin–Milwaukee,College,0,0,0,0,0,0,0
-CG218,Harding,College,0,0,0,0,0,0,0
-CG180,East. Illinois,College,0,0,0,0,0,0,0
-CG429,St. Thomas,College,0,0,0,0,0,0,0
-CG109,Fort Hays St.,College,0,0,0,0,0,0,0
-NFL3,OAK,NFL Team,0,0,0,0,0,0,0
-NFL19,PHI,NFL Team,0,0,0,0,0,0,0
-NFL30,LAR,NFL Team,0,0,0,0,0,0,0
-NFL31,CHI,NFL Team,0,0,0,0,0,0,0
-NFL8,BUF,NFL Team,0,0,0,0,0,0,0
-NFL24,NWE,NFL Team,0,0,0,0,0,0,0
-NFL16,MIN,NFL Team,0,0,0,0,0,0,0
-NFL14,WAS,NFL Team,0,0,0,0,0,0,0
-NFL21,BAL,NFL Team,0,0,0,0,0,0,0
-NFL9,PIT,NFL Team,0,0,0,0,0,0,0
-NFL29,DAL,NFL Team,0,0,0,0,0,0,0
-NFL6,JAX,NFL Team,0,0,0,0,0,0,0
-NFL13,ATL,NFL Team,0,0,0,0,0,0,0
-NFL15,CAR,NFL Team,0,0,0,0,0,0,0
-NFL10,CIN,NFL Team,0,0,0,0,0,0,0
-NFL7,DET,NFL Team,0,0,0,0,0,0,0
-NFL11,GNB,NFL Team,0,0,0,0,0,0,0
-NFL23,SEA,NFL Team,0,0,0,0,0,0,0
-NFL28,KAN,NFL Team,0,0,0,0,0,0,0
-NFL20,HOU,NFL Team,0,0,0,0,0,0,0
-NFL12,MIA,NFL Team,0,0,0,0,0,0,0
-NFL5,NYG,NFL Team,0,0,0,0,0,0,0
-NFL26,CLE,NFL Team,0,0,0,0,0,0,0
-NFL4,TAM,NFL Team,0,0,0,0,0,0,0
-NFL18,DEN,NFL Team,0,0,0,0,0,0,0
-NFL25,IND,NFL Team,0,0,0,0,0,0,0
-NFL0,ARI,NFL Team,0,0,0,0,0,0,0
-NFL27,NOR,NFL Team,0,0,0,0,0,0,0
-NFL2,NYJ,NFL Team,0,0,0,0,0,0,0
-NFL22,LAC,NFL Team,0,0,0,0,0,0,0
-NFL1,SFO,NFL Team,0,0,0,0,0,0,0
-NFL17,TEN,NFL Team,0,0,0,0,0,0,0
+ID,Label,Node Type,All Pros,Pro Bowls,Draft Age,Year Drafted,Round Selected,Pick In Round,Position,College,NFLTeam
+PL23,Josh Jacobs,Player,0,0,21,2019,1,24,RB,Alabama,OAK
+PL52,Miles Sanders,Player,0,0,22,2019,2,53,RB,Penn St.,PHI
+PL69,Darrell Henderson,Player,0,0,22,2019,3,70,RB,Memphis,LAR
+PL72,David Montgomery,Player,0,0,22,2019,3,73,RB,Iowa St.,CHI
+PL73,Devin Singletary,Player,0,0,22,2019,3,74,RB,Florida Atlantic,BUF
+PL86,Damien Harris,Player,0,0,22,2019,3,87,RB,Alabama,NWE
+PL101,Alexander Mattison,Player,0,0,21,2019,3,102,RB,Boise St.,MIN
+PL111,Bryce Love,Player,0,0,22,2019,4,112,RB,Stanford,WAS
+PL112,Justice Hill,Player,0,0,21,2019,4,113,RB,Oklahoma St.,BAL
+PL121,Benny Snell,Player,0,0,21,2019,4,122,RB,Kentucky,PIT
+PL127,Tony Pollard,Player,0,0,22,2019,4,128,RB,Memphis,DAL
+PL139,Ryquell Armstead,Player,0,0,22,2019,5,140,RB,Temple,JAX
+PL151,Qadree Ollison,Player,0,0,22,2019,5,152,RB,Pittsburgh,ATL
+PL153,Jordan Scarlett,Player,0,0,23,2019,5,154,RB,Florida,CAR
+PL181,Trayveon Williams,Player,0,0,21,2019,6,182,RB,Texas A&M,CIN
+PL185,Ty Johnson,Player,0,0,21,2019,6,186,RB,Maryland,DET
+PL193,Dexter Williams,Player,0,0,22,2019,6,194,RB,Notre Dame,GNB
+PL203,Travis Homer,Player,0,0,21,2019,6,204,RB,Miami (FL),SEA
+PL210,Rodney Anderson,Player,0,0,22,2019,6,211,RB,Oklahoma,CIN
+PL213,Darwin Thompson,Player,0,0,23,2019,6,214,RB,Utah St.,KAN
+PL217,Mike Weber,Player,0,0,22,2019,7,218,RB,Ohio St.,DAL
+PL219,Cullen Gillaspia,Player,0,0,24,2019,7,220,RB,Texas A&M,HOU
+PL221,"Kerrith Whyte, Jr.",Player,0,0,22,2019,7,222,RB,Florida Atlantic,CHI
+PL232,Chandler Cox,Player,0,0,23,2019,7,233,RB,Auburn,MIA
+PL233,Myles Gaskin,Player,0,0,22,2019,7,234,RB,Washington,MIA
+PL254,Saquon Barkley,Player,0,1,21,2018,1,2,RB,Penn St.,NYG
+PL279,Rashaad Penny,Player,0,0,22,2018,1,27,RB,San Diego St.,SEA
+PL283,Sony Michel,Player,0,0,23,2018,1,31,RB,Georgia,NWE
+PL287,Nick Chubb,Player,0,0,22,2018,2,35,RB,Georgia,CLE
+PL290,Ronald Jones,Player,0,0,21,2018,2,38,RB,USC,TAM
+PL295,Kerryon Johnson,Player,0,0,21,2018,2,43,RB,Auburn,DET
+PL311,Derrius Guice,Player,0,0,21,2018,2,59,RB,LSU,WAS
+PL323,Royce Freeman,Player,0,0,22,2018,3,71,RB,Oregon,DEN
+PL356,Nyheim Hines,Player,0,0,21,2018,4,104,RB,North Carolina St.,IND
+PL364,Mark Walton,Player,0,0,21,2018,4,112,RB,Miami (FL),CIN
+PL378,Ito Smith,Player,0,0,22,2018,4,126,RB,Southern Miss,ATL
+PL383,Kalen Ballage,Player,0,0,22,2018,4,131,RB,Arizona St.,MIA
+PL386,Chase Edmonds,Player,0,0,22,2018,4,134,RB,Fordham,ARI
+PL421,Jordan Wilkins,Player,0,0,24,2018,5,169,RB,Mississippi,IND
+PL428,John Kelly,Player,0,0,21,2018,6,176,RB,Tennessee,LAR
+PL453,Boston Scott,Player,0,0,23,2018,6,201,RB,Louisiana Tech,NOR
+PL456,Trenton Cannon,Player,0,0,24,2018,6,204,RB,Virginia St.,NYJ
+PL478,David Williams,Player,0,0,24,2018,7,226,RB,Arkansas,DEN
+PL487,Bo Scarbrough,Player,0,0,21,2018,7,236,RB,Alabama,DAL
+PL488,Nick Bawden,Player,0,0,22,2018,7,237,RB,San Diego St.,DET
+PL501,Justin Jackson,Player,0,0,23,2018,7,251,RB,Northwestern,LAC
+PL510,Leonard Fournette,Player,0,0,22,2017,1,4,RB,LSU,JAX
+PL514,Christian McCaffrey,Player,0,0,21,2017,1,8,RB,Stanford,CAR
+PL547,Dalvin Cook,Player,0,0,22,2017,2,41,RB,Florida St.,MIN
+PL554,Joe Mixon,Player,0,0,21,2017,2,48,RB,Oklahoma,CIN
+PL573,Alvin Kamara,Player,0,2,22,2017,3,67,RB,Tennessee,NOR
+PL592,Kareem Hunt,Player,0,1,22,2017,3,86,RB,Toledo,KAN
+PL595,D'Onta Foreman,Player,0,0,21,2017,3,89,RB,Texas,HOU
+PL611,James Conner,Player,0,1,22,2017,3,105,RB,Pittsburgh,PIT
+PL620,Samaje Perine,Player,0,0,21,2017,4,114,RB,Oklahoma,WAS
+PL625,Tarik Cohen,Player,1,1,22,2017,4,119,RB,North Carolina A&T,CHI
+PL627,Joe Williams,Player,0,0,24,2017,4,121,RB,Utah,SFO
+PL638,Donnel Pumphrey,Player,0,0,22,2017,4,132,RB,San Diego St.,PHI
+PL640,Jamaal Williams,Player,0,0,22,2017,4,134,RB,BYU,GNB
+PL646,Wayne Gallman,Player,0,0,22,2017,4,140,RB,Clemson,NYG
+PL649,Marlon Mack,Player,0,0,21,2017,4,143,RB,South Florida,IND
+PL662,Brian Hill,Player,0,0,21,2017,5,156,RB,Wyoming,ATL
+PL668,Jeremy McNichols,Player,0,0,21,2017,5,162,RB,Boise St.,TAM
+PL685,T.J. Logan,Player,0,0,23,2017,5,179,RB,North Carolina,ARI
+PL688,Aaron Jones,Player,0,0,22,2017,5,182,RB,Texas-El Paso,GNB
+PL694,Elijah McGuire,Player,0,0,23,2017,6,188,RB,Louisiana,NYJ
+PL709,De'Angelo Henderson,Player,0,0,24,2017,6,203,RB,Coastal Carolina,DEN
+PL713,Brandon Wilson,Player,0,0,23,2017,6,207,RB,Houston,CIN
+PL743,Devante Mays,Player,0,0,23,2017,7,238,RB,Utah St.,GNB
+PL746,Khalfani Muhammad,Player,0,0,22,2017,7,241,RB,California,TEN
+PL747,Elijah Hood,Player,0,0,21,2017,7,242,RB,North Carolina,OAK
+PL754,Chris Carson,Player,0,0,22,2017,7,249,RB,Oklahoma St.,SEA
+PL757,Matthew Dayes,Player,0,0,23,2017,7,252,RB,North Carolina St.,CLE
+PL762,Ezekiel Elliott,Player,1,2,21,2016,1,4,RB,Ohio St.,DAL
+PL803,Derrick Henry,Player,0,0,22,2016,2,45,RB,Alabama,TEN
+PL831,Kenyan Drake,Player,0,0,22,2016,3,73,RB,Alabama,MIA
+PL848,C.J. Prosise,Player,0,0,22,2016,3,90,RB,Notre Dame,SEA
+PL877,Tyler Ervin,Player,0,0,22,2016,4,119,RB,San Jose St.,HOU
+PL892,Kenneth Dixon,Player,0,0,22,2016,4,134,RB,Louisiana Tech,BAL
+PL894,Devontae Booker,Player,0,0,24,2016,4,136,RB,Utah,DEN
+PL901,DeAndre Washington,Player,0,0,23,2016,5,143,RB,Texas Tech,OAK
+PL907,Paul Perkins,Player,0,0,21,2016,5,149,RB,UCLA,NYG
+PL908,Jordan Howard,Player,0,1,21,2016,5,150,RB,Indiana,CHI
+PL911,Wendell Smallwood,Player,0,0,22,2016,5,153,RB,West Virginia,PHI
+PL914,Jonathan Williams,Player,0,0,22,2016,5,156,RB,Arkansas,BUF
+PL929,Alex Collins,Player,0,0,22,2016,5,171,RB,Arkansas,SEA
+PL939,Keenan Reynolds,Player,0,0,22,2016,6,182,RB,Navy,BAL
+PL967,Kelvin Taylor,Player,0,0,22,2016,6,211,RB,Florida,SFO
+PL972,Darius Jackson,Player,0,0,22,2016,6,216,RB,East. Michigan,DAL
+PL992,Dwayne Washington,Player,0,0,22,2016,7,236,RB,Washington,DET
+PL993,Daniel Lasco,Player,0,0,23,2016,7,237,RB,California,NOR
+PL998,Keith Marshall,Player,0,0,22,2016,7,242,RB,Georgia,WAS
+PL1003,Zac Brooks,Player,0,0,23,2016,7,247,RB,Clemson,SEA
+PL1019,Todd Gurley,Player,2,3,21,2015,1,10,RB,Georgia,STL
+PL1024,Melvin Gordon,Player,0,2,22,2015,1,15,RB,Wisconsin,SDG
+PL1045,T.J. Yeldon,Player,0,0,21,2015,2,36,RB,Alabama,JAX
+PL1063,Ameer Abdullah,Player,0,0,22,2015,2,54,RB,Nebraska,DET
+PL1082,Tevin Coleman,Player,0,0,22,2015,3,73,RB,Indiana,ATL
+PL1086,Duke Johnson,Player,0,0,21,2015,3,77,RB,Miami (FL),CLE
+PL1095,David Johnson,Player,1,1,23,2015,3,86,RB,Northern Iowa,ARI
+PL1104,Matt Jones,Player,0,0,22,2015,3,95,RB,Florida,WAS
+PL1115,Jeremy Langford,Player,0,0,23,2015,4,106,RB,Michigan St.,CHI
+PL1134,Javorius Allen,Player,0,0,24,2015,4,125,RB,USC,BAL
+PL1135,Mike Davis,Player,0,0,22,2015,4,126,RB,South Carolina,SFO
+PL1147,David Cobb,Player,0,0,22,2015,5,138,RB,Minnesota,TEN
+PL1158,Jay Ajayi,Player,0,1,22,2015,5,149,RB,Boise St.,MIA
+PL1164,Karlos Williams,Player,0,0,22,2015,5,155,RB,Florida St.,BUF
+PL1182,Cameron Artis-Payne,Player,0,0,25,2015,5,174,RB,Auburn,CAR
+PL1213,Josh Robinson,Player,0,0,23,2015,6,205,RB,Mississippi St.,IND
+PL1238,Marcus Murphy,Player,0,0,24,2015,7,230,RB,Missouri,NOR
+PL1243,Kenny Hilliard,Player,0,0,23,2015,7,235,RB,LSU,HOU
+PL1318,Bishop Sankey,Player,0,0,21,2014,2,54,RB,Washington,TEN
+PL1319,Jeremy Hill,Player,0,0,21,2014,2,55,RB,LSU,CIN
+PL1321,Carlos Hyde,Player,0,0,23,2014,2,57,RB,Ohio St.,SFO
+PL1333,Charles Sims,Player,0,0,23,2014,3,69,RB,West Virginia,TAM
+PL1339,Tre Mason,Player,0,0,21,2014,3,75,RB,Auburn,STL
+PL1358,Terrance West,Player,0,0,23,2014,3,94,RB,Towson,CLE
+PL1360,Jerick McKinnon,Player,0,0,22,2014,3,96,RB,Georgia Southern,MIN
+PL1367,Devonta Freeman,Player,0,2,22,2014,4,103,RB,Florida St.,ATL
+PL1377,Andre Williams,Player,0,0,22,2014,4,113,RB,Boston Col.,NYG
+PL1381,Ka'Deem Carey,Player,0,0,21,2014,4,117,RB,Arizona,CHI
+PL1388,De'Anthony Thomas,Player,0,0,21,2014,4,124,RB,Oregon,KAN
+PL1394,James White,Player,0,0,22,2014,4,130,RB,Wisconsin,NWE
+PL1402,Lorenzo Taliaferro,Player,0,0,22,2014,4,138,RB,Coastal Carolina,BAL
+PL1445,Alfred Blue,Player,0,0,23,2014,6,181,RB,LSU,HOU
+PL1450,Lache Seastrunk,Player,0,0,23,2014,6,186,RB,Baylor,WAS
+PL1465,Marion Grice,Player,0,0,23,2014,6,201,RB,Arizona St.,SDG
+PL1468,Tyler Gaffney,Player,0,0,23,2014,6,204,RB,Stanford,CAR
+PL1486,Storm Johnson,Player,0,0,22,2014,7,222,RB,Central Florida,JAX
+PL1491,Kiero Small,Player,0,0,25,2014,7,227,RB,Arkansas,SEA
+PL1557,Giovani Bernard,Player,0,0,21,2013,2,37,RB,North Carolina,CIN
+PL1568,Le'Veon Bell,Player,2,3,21,2013,2,48,RB,Michigan St.,PIT
+PL1578,Montee Ball,Player,0,0,22,2013,2,58,RB,Wisconsin,DEN
+PL1581,Eddie Lacy,Player,0,1,23,2013,2,61,RB,Alabama,GNB
+PL1582,Christine Michael,Player,0,0,22,2013,2,62,RB,Texas A&M,SEA
+PL1616,Knile Davis,Player,0,0,21,2013,3,96,RB,Arkansas,KAN
+PL1645,Johnathan Franklin,Player,0,0,23,2013,4,125,RB,UCLA,GNB
+PL1650,Kyle Juszczyk,Player,0,3,22,2013,4,130,RB,Harvard,BAL
+PL1651,Marcus Lattimore,Player,0,0,21,2013,4,131,RB,South Carolina,SFO
+PL1660,Stepfan Taylor,Player,0,0,22,2013,5,140,RB,Stanford,ARI
+PL1671,Joseph Randle,Player,0,0,21,2013,5,151,RB,Oklahoma St.,DAL
+PL1674,Chris Thompson,Player,0,0,22,2013,5,154,RB,Florida St.,WAS
+PL1680,Zac Stacy,Player,0,0,22,2013,5,160,RB,Vanderbilt,STL
+PL1684,Mike Gillislee,Player,0,0,22,2013,5,164,RB,Florida,MIA
+PL1701,Latavius Murray,Player,0,1,23,2013,6,181,RB,Central Florida,OAK
+PL1702,Kenjon Barner,Player,0,0,23,2013,6,182,RB,Oregon,CAR
+PL1707,Andre Ellington,Player,0,0,24,2013,6,187,RB,Clemson,ARI
+PL1709,Mike James,Player,0,0,22,2013,6,189,RB,Miami (FL),TAM
+PL1710,Rex Burkhead,Player,0,0,23,2013,6,190,RB,Nebraska,CIN
+PL1714,Spencer Ware,Player,0,0,21,2013,6,194,RB,LSU,SEA
+PL1719,Theo Riddick,Player,0,0,22,2013,6,199,RB,Notre Dame,DET
+PL1734,Tommy Bohanon,Player,0,0,22,2013,7,215,RB,Wake Forest,NYJ
+PL1747,Jawan Jamison,Player,0,0,21,2013,7,228,RB,Rutgers,WAS
+PL1749,Kerwynn Williams,Player,0,0,22,2013,7,230,RB,Utah St.,IND
+PL1771,Michael Cox,Player,0,0,24,2013,7,253,RB,Massachusetts,NYG
+PL1775,Trent Richardson,Player,0,0,22,2012,1,3,RB,Alabama,CLE
+PL1803,Doug Martin,Player,1,2,23,2012,1,31,RB,Boise St.,TAM
+PL1804,David Wilson,Player,0,0,21,2012,1,32,RB,Virginia Tech,NYG
+PL1822,Isaiah Pead,Player,0,0,22,2012,2,50,RB,Cincinnati,STL
+PL1833,LaMichael James,Player,0,0,22,2012,2,61,RB,Oregon,SFO
+PL1839,Ronnie Hillman,Player,0,0,20,2012,3,67,RB,San Diego St.,DEN
+PL1856,Bernard Pierce,Player,0,0,21,2012,3,84,RB,Temple,BAL
+PL1867,Lamar Miller,Player,0,1,21,2012,4,97,RB,Miami (FL),MIA
+PL1876,Robert Turbin,Player,0,0,22,2012,4,106,RB,Utah St.,SEA
+PL1897,Rhett Ellison,Player,0,0,23,2012,4,128,RB,USC,MIN
+PL1926,Bradie Ewing,Player,0,0,22,2012,5,157,RB,Wisconsin,ATL
+PL1928,Chris Rainey,Player,0,0,24,2012,5,159,RB,Florida,PIT
+PL1938,Vick Ballard,Player,0,0,22,2012,5,170,RB,Mississippi St.,IND
+PL1940,Alfred Morris,Player,0,2,23,2012,6,173,RB,Florida Atlantic,WAS
+PL1949,Cyrus Gray,Player,0,0,22,2012,6,182,RB,Texas A&M,KAN
+PL1957,Dan Herron,Player,0,0,23,2012,6,191,RB,Ohio St.,CIN
+PL1967,Terrance Ganaway,Player,0,0,23,2012,6,202,RB,Baylor,NYJ
+PL1977,Michael Smith,Player,0,0,24,2012,7,212,RB,Utah St.,TAM
+PL1994,Bryce Brown,Player,0,0,21,2012,7,229,RB,Kansas St.,PHI
+PL2015,Edwin Baker,Player,0,0,21,2012,7,250,RB,Michigan St.,SDG
+PL2017,Daryl Richardson,Player,0,0,22,2012,7,252,RB,Abilene Christian,STL
+PL2046,Mark Ingram,Player,0,2,21,2011,1,28,RB,Alabama,NOR
+PL2056,Ryan Williams,Player,0,0,21,2011,2,38,RB,Virginia Tech,ARI
+PL2074,Shane Vereen,Player,0,0,22,2011,2,56,RB,California,NWE
+PL2075,Mikel Leshoure,Player,0,0,21,2011,2,57,RB,Illinois,DET
+PL2080,Daniel Thomas,Player,0,0,23,2011,2,62,RB,Kansas St.,MIA
+PL2089,DeMarco Murray,Player,1,3,23,2011,3,71,RB,Oklahoma,DAL
+PL2091,Stevan Ridley,Player,0,0,22,2011,3,73,RB,LSU,NWE
+PL2114,Alex Green,Player,0,0,23,2011,3,96,RB,Hawaii,GNB
+PL2123,Roy Helu,Player,0,0,22,2011,4,105,RB,Nebraska,WAS
+PL2133,Kendall Hunter,Player,0,0,22,2011,4,115,RB,Oklahoma St.,SFO
+PL2137,Delone Carter,Player,0,0,24,2011,4,119,RB,Syracuse,IND
+PL2142,Owen Marecic,Player,0,0,22,2011,4,124,RB,Stanford,CLE
+PL2143,Taiwan Jones,Player,0,0,23,2011,4,125,RB,East. Washington,OAK
+PL2144,Bilal Powell,Player,0,0,22,2011,4,126,RB,Louisville,NYJ
+PL2148,Jamie Harper,Player,0,0,21,2011,4,130,RB,Clemson,TEN
+PL2151,Johnny White,Player,0,0,23,2011,5,133,RB,North Carolina,BUF
+PL2154,Anthony Sherman,Player,0,1,22,2011,5,136,RB,Connecticut,ARI
+PL2163,Jacquizz Rodgers,Player,0,0,21,2011,5,145,RB,Oregon St.,ATL
+PL2167,Dion Lewis,Player,0,0,20,2011,5,149,RB,Pittsburgh,PHI
+PL2195,Evan Royster,Player,0,0,23,2011,6,177,RB,Penn St.,WAS
+PL2201,Jordan Todman,Player,0,0,21,2011,6,183,RB,Connecticut,SDG
+PL2205,Allen Bradford,Player,0,0,23,2011,6,187,RB,USC,TAM
+PL2238,Shaun Chapas,Player,0,0,23,2011,7,220,RB,Georgia,DAL
+PL2239,Da'Rel Scott,Player,0,0,23,2011,7,221,RB,Maryland,NYG
+PL2241,Shane Bannon,Player,0,0,22,2011,7,223,RB,Yale,KAN
+PL2243,Anthony Allen,Player,0,0,23,2011,7,225,RB,Georgia Tech,BAL
+PL2250,Baron Batch,Player,0,0,23,2011,7,232,RB,Texas Tech,PIT
+PL2258,Stanley Havili,Player,0,0,23,2011,7,240,RB,USC,PHI
+PL2263,Jay Finley,Player,0,0,23,2011,7,246,RB,Baylor,CIN
+PL2280,C.J. Spiller,Player,0,1,23,2010,1,9,RB,Clemson,BUF
+PL2283,Ryan Mathews,Player,0,1,22,2010,1,12,RB,Fresno St.,SDG
+PL2301,Jahvid Best,Player,0,0,21,2010,1,30,RB,California,DET
+PL2322,Toby Gerhart,Player,0,0,23,2010,2,51,RB,Stanford,MIN
+PL2329,Ben Tate,Player,0,0,22,2010,2,58,RB,Auburn,HOU
+PL2330,Montario Hardesty,Player,0,0,23,2010,2,59,RB,Tennessee,CLE
+PL2383,Joe McKnight,Player,0,0,22,2010,4,112,RB,USC,NYJ
+PL2410,John Conner,Player,0,0,23,2010,5,139,RB,Kentucky,NYJ
+PL2444,Anthony Dixon,Player,0,0,22,2010,6,173,RB,Mississippi St.,SFO
+PL2445,Dennis Morris,Player,0,0,,2010,6,174,RB,Louisiana Tech,WAS
+PL2451,Deji Karim,Player,0,0,23,2010,6,180,RB,Southern Illinois,JAX
+PL2459,Jonathan Dwyer,Player,0,0,21,2010,6,188,RB,Georgia Tech,PIT
+PL2464,James Starks,Player,0,0,24,2010,6,193,RB,Buffalo,GNB
+PL2471,Charles Scott,Player,0,0,,2010,6,200,RB,LSU,PHI
+PL2508,Ryan D'Imperio,Player,0,0,23,2010,7,237,RB,Rutgers,MIN
+PL2538,Knowshon Moreno,Player,0,0,22,2009,1,12,RB,Georgia,DEN
+PL2553,Donald Brown,Player,0,0,22,2009,1,27,RB,Connecticut,IND
+PL2557,Beanie Wells,Player,0,0,21,2009,1,31,RB,Ohio St.,ARI
+PL2579,LeSean McCoy,Player,2,6,21,2009,2,53,RB,Pittsburgh,PHI
+PL2591,Shonn Greene,Player,0,0,24,2009,3,65,RB,Iowa,NYJ
+PL2600,Glen Coffee,Player,0,0,22,2009,3,74,RB,Alabama,SFO
+PL2637,Mike Goodson,Player,0,0,22,2009,4,111,RB,Texas A&M,CAR
+PL2654,Tony Fiammetta,Player,0,0,23,2009,4,128,RB,Syracuse,CAR
+PL2655,Andre Brown,Player,0,0,22,2009,4,129,RB,North Carolina St.,NYG
+PL2660,Gartrell Johnson,Player,0,0,23,2009,4,134,RB,Colorado St.,SDG
+PL2671,Quinn Johnson,Player,0,0,22,2009,5,145,RB,LSU,GNB
+PL2695,Frank Summers,Player,0,0,24,2009,5,169,RB,UNLV,PIT
+PL2699,Javon Ringer,Player,0,0,22,2009,5,173,RB,Michigan St.,TEN
+PL2711,Cedric Peerman,Player,0,1,22,2009,6,185,RB,Virginia,BAL
+PL2718,Aaron Brown,Player,0,0,23,2009,6,192,RB,TCU,DET
+PL2721,James Davis,Player,0,0,23,2009,6,195,RB,Clemson,CLE
+PL2735,Bernard Scott,Player,0,0,25,2009,6,209,RB,Abilene Christian,CIN
+PL2737,Chris Ogbonnaya,Player,0,0,23,2009,7,211,RB,Texas,STL
+PL2738,Javarris Williams,Player,0,0,23,2009,7,212,RB,Tennessee St.,KAN
+PL2741,Fui Vakapuna,Player,0,0,25,2009,7,215,RB,BYU,CIN
+PL2747,Eddie Williams,Player,0,0,22,2009,7,221,RB,Idaho,WAS
+PL2766,LaRod Stephens-Howling,Player,0,0,22,2009,7,240,RB,Pittsburgh,ARI
+PL2776,Rashad Jennings,Player,0,0,24,2009,7,250,RB,Liberty,JAX
+PL2786,Darren McFadden,Player,0,0,21,2008,1,4,RB,Arkansas,OAK
+PL2795,Jonathan Stewart,Player,0,1,21,2008,1,13,RB,Oregon,CAR
+PL2804,Felix Jones,Player,0,0,21,2008,1,22,RB,Arkansas,DAL
+PL2805,Rashard Mendenhall,Player,0,0,21,2008,1,23,RB,Illinois,PIT
+PL2806,Chris Johnson,Player,1,3,22,2008,1,24,RB,East Carolina,TEN
+PL2826,Matt Forte,Player,0,2,22,2008,2,44,RB,Tulane,CHI
+PL2837,Ray Rice,Player,0,3,21,2008,2,55,RB,Rutgers,BAL
+PL2846,Kevin Smith,Player,0,0,21,2008,3,64,RB,Central Florida,DET
+PL2855,Jamaal Charles,Player,2,4,21,2008,3,73,RB,Texas,KAN
+PL2871,Steve Slaton,Player,0,0,22,2008,3,89,RB,West Virginia,HOU
+PL2904,Tashard Choice,Player,0,0,23,2008,4,122,RB,Georgia Tech,DAL
+PL2921,Ryan Torain,Player,0,0,22,2008,5,139,RB,Arizona St.,DEN
+PL2931,Tim Hightower,Player,0,0,22,2008,5,149,RB,Richmond,ARI
+PL2948,Marcus Thomas,Player,0,0,24,2008,5,166,RB,Texas-El Paso,SDG
+PL2954,Thomas Brown,Player,0,0,22,2008,6,172,RB,Georgia,ATL
+PL2958,Jalen Parmele,Player,0,0,22,2008,6,176,RB,Toledo,MIA
+PL2961,Xavier Omon,Player,0,0,23,2008,6,179,RB,NW Missouri St.,BUF
+PL2984,Mike Hart,Player,0,0,22,2008,6,202,RB,Michigan,IND
+PL2986,Lex Hilliard,Player,0,0,24,2008,6,204,RB,Montana,MIA
+PL2995,Chauncey Washington,Player,0,0,23,2008,7,213,RB,USC,JAX
+PL3015,Justin Forsett,Player,0,1,22,2008,7,233,RB,California,SEA
+PL3020,Cory Boyd,Player,0,0,23,2008,7,238,RB,South Carolina,TAM
+PL3022,Allen Patrick,Player,0,0,24,2008,7,240,RB,Oklahoma,BAL
+PL3041,Adrian Peterson,Player,4,7,22,2007,1,7,RB,Oklahoma,MIN
+PL3046,Marshawn Lynch,Player,1,5,21,2007,1,12,RB,California,BUF
+PL3083,Kenny Irons,Player,0,0,,2007,2,49,RB,Auburn,CIN
+PL3084,Chris Henry,Player,0,0,22,2007,2,50,RB,Arizona,TEN
+PL3086,Brian Leonard,Player,0,0,23,2007,2,52,RB,Rutgers,STL
+PL3097,Brandon Jackson,Player,0,0,21,2007,2,63,RB,Nebraska,GNB
+PL3105,Lorenzo Booker,Player,0,0,23,2007,3,71,RB,Florida St.,MIA
+PL3124,Tony Hunt,Player,0,0,21,2007,3,90,RB,Penn St.,PHI
+PL3127,Garrett Wolfe,Player,0,0,23,2007,3,93,RB,Northern Illinois,CHI
+PL3134,Michael Bush,Player,0,0,23,2007,4,100,RB,Louisville,OAK
+PL3141,Antonio Pittman,Player,0,0,21,2007,4,107,RB,Ohio St.,NOR
+PL3145,Dwayne Wright,Player,0,0,24,2007,4,111,RB,Fresno St.,BUF
+PL3171,Le'Ron McClain,Player,1,2,22,2007,4,137,RB,Alabama,BAL
+PL3182,Kolby Smith,Player,0,0,22,2007,5,148,RB,Louisville,KAN
+PL3215,Reagan Maui'a,Player,0,0,23,2007,6,181,RB,Hawaii,MIA
+PL3220,Thomas Clayton,Player,0,0,,2007,6,186,RB,Kansas St.,SFO
+PL3242,Justise Hairston,Player,0,0,,2007,6,208,RB,Central Connecticut St.,NWE
+PL3262,DeShawn Wynn,Player,0,0,23,2007,7,228,RB,Florida,GNB
+PL3270,Nate Ilaoa,Player,0,0,,2007,7,236,RB,Hawaii,PHI
+PL3278,Jason Snelling,Player,0,0,23,2007,7,244,RB,Virginia,ATL
+PL3280,Kenneth Darby,Player,0,0,24,2007,7,246,RB,Alabama,TAM
+PL3284,Ahmad Bradshaw,Player,0,0,21,2007,7,250,RB,Marshall,NYG
+PL3291,Reggie Bush,Player,0,0,21,2006,1,2,RB,USC,NOR
+PL3310,Laurence Maroney,Player,0,0,21,2006,1,21,RB,Minnesota,NWE
+PL3316,DeAngelo Williams,Player,0,1,23,2006,1,27,RB,Memphis,CAR
+PL3319,Joseph Addai,Player,0,1,23,2006,1,30,RB,LSU,IND
+PL3334,LenDale White,Player,0,0,21,2006,2,45,RB,USC,TEN
+PL3349,Maurice Jones-Drew,Player,1,3,21,2006,2,60,RB,UCLA,JAX
+PL3363,Brian Calhoun,Player,0,0,22,2006,3,74,RB,Wisconsin,DET
+PL3368,Jerious Norwood,Player,0,0,23,2006,3,79,RB,Mississippi St.,ATL
+PL3406,Leon Washington,Player,1,2,24,2006,4,117,RB,Florida St.,NYJ
+PL3421,P.J. Daniels,Player,0,0,23,2006,4,132,RB,Georgia Tech,BAL
+PL3434,Jerome Harrison,Player,0,0,23,2006,5,145,RB,Washington St.,CLE
+PL3452,David Kirtman,Player,0,0,23,2006,5,163,RB,USC,SEA
+PL3459,Wali Lundy,Player,0,0,22,2006,6,170,RB,Virginia,HOU
+PL3484,J.D. Runnels,Player,0,0,22,2006,6,195,RB,Oklahoma,CHI
+PL3511,Justin Hamilton,Player,0,0,23,2006,7,222,RB,Virginia Tech,CLE
+PL3529,Cedric Humes,Player,0,0,,2006,7,240,RB,Virginia Tech,PIT
+PL3535,Quinton Ganther,Player,0,0,22,2006,7,246,RB,Utah,TEN
+PL3546,Ronnie Brown,Player,0,1,23,2005,1,2,RB,Auburn,MIA
+PL3548,Cedric Benson,Player,0,0,22,2005,1,4,RB,Texas,CHI
+PL3549,Cadillac Williams,Player,0,0,23,2005,1,5,RB,Auburn,TAM
+PL3588,J.J. Arrington,Player,0,0,22,2005,2,44,RB,California,ARI
+PL3598,Eric Shelton,Player,0,0,22,2005,2,54,RB,Louisville,CAR
+PL3609,Frank Gore,Player,0,5,22,2005,3,65,RB,Miami (FL),SFO
+PL3617,Vernand Morency,Player,0,0,25,2005,3,73,RB,Oklahoma St.,HOU
+PL3621,Ryan Moats,Player,0,0,22,2005,3,77,RB,Louisiana Tech,PHI
+PL3645,Maurice Clarett,Player,0,0,,2005,3,101,RB,Ohio St.,DEN
+PL3653,Marion Barber,Player,0,1,22,2005,4,109,RB,Minnesota,DAL
+PL3654,Brandon Jacobs,Player,0,0,23,2005,4,110,RB,Southern Illinois,NYG
+PL3656,Ciatrick Fason,Player,0,0,22,2005,4,112,RB,Florida,MIN
+PL3664,Manuel White,Player,0,0,,2005,4,120,RB,UCLA,WAS
+PL3671,Alvin Pearman,Player,0,0,23,2005,4,127,RB,Virginia,JAX
+PL3674,Darren Sproles,Player,0,3,22,2005,4,130,RB,Kansas St.,SDG
+PL3686,Damien Nash,Player,0,0,23,2005,5,142,RB,Missouri,TEN
+PL3726,Cedric Houston,Player,0,0,23,2005,6,182,RB,Tennessee,NYJ
+PL3745,DeAndra Cobb,Player,0,0,24,2005,6,201,RB,Michigan St.,ATL
+PL3765,Rick Razzano,Player,0,0,,2005,7,221,RB,Mississippi,TAM
+PL3780,Lionel Gates,Player,0,0,23,2005,7,236,RB,Louisville,BUF
+PL3787,Anthony Davis,Player,0,0,,2005,7,243,RB,Wisconsin,IND
+PL3788,Noah Herron,Player,0,0,23,2005,7,244,RB,Northwestern,PIT
+PL3823,Steven Jackson,Player,0,3,21,2004,1,24,RB,Oregon St.,STL
+PL3825,Chris Perry,Player,0,0,22,2004,1,26,RB,Michigan,CIN
+PL3829,Kevin Jones,Player,0,0,22,2004,1,30,RB,Virginia Tech,DET
+PL3840,Tatum Bell,Player,0,0,23,2004,2,41,RB,Oklahoma St.,DEN
+PL3842,Julius Jones,Player,0,0,23,2004,2,43,RB,Notre Dame,DAL
+PL3854,Greg Jones,Player,0,0,23,2004,2,55,RB,Florida St.,JAX
+PL3918,Mewelde Moore,Player,0,0,22,2004,4,119,RB,Tulane,MIN
+PL3927,Cedric Cobbs,Player,0,0,23,2004,4,128,RB,Arkansas,NWE
+PL3953,Michael Turner,Player,1,2,22,2004,5,154,RB,Northern Illinois,SDG
+PL3990,Troy Fleming,Player,0,0,23,2004,6,191,RB,Tennessee,TEN
+PL4007,Adimchinobe Echemandu,Player,0,0,23,2004,7,208,RB,California,CLE
+PL4018,Quincy Wilson,Player,0,0,23,2004,7,219,RB,West Virginia,ATL
+PL4027,Casey Cramer,Player,0,0,22,2004,7,228,RB,Dartmouth,TAM
+PL4034,Derrick Ward,Player,0,0,24,2004,7,235,RB,Fresno St.,NYJ
+PL4041,Bruce Perry,Player,0,0,23,2004,7,242,RB,Maryland,PHI
+PL4046,Brandon Miree,Player,0,0,23,2004,7,247,RB,Pittsburgh,DEN
+PL4077,Willis McGahee,Player,0,2,21,2003,1,23,RB,Miami (FL),BUF
+PL4081,Larry Johnson,Player,1,2,23,2003,1,27,RB,Penn St.,KAN
+PL4131,Musa Smith,Player,0,0,21,2003,3,77,RB,Georgia,BAL
+PL4147,Chris Brown,Player,0,0,22,2003,3,93,RB,Colorado,TEN
+PL4153,Artose Pinner,Player,0,0,25,2003,4,99,RB,Kentucky,DET
+PL4155,Domanick Williams,Player,0,0,22,2003,4,101,RB,LSU,HOU
+PL4159,Onterrio Smith,Player,0,0,22,2003,4,105,RB,Oregon,MIN
+PL4162,Quentin Griffin,Player,0,0,22,2003,4,108,RB,Oklahoma,DEN
+PL4169,Lee Suggs,Player,0,0,23,2003,4,115,RB,Virginia Tech,CLE
+PL4186,LaBrandon Toefield,Player,0,0,22,2003,4,132,RB,LSU,JAX
+PL4260,Brock Forsey,Player,0,0,23,2003,6,206,RB,Boise St.,CHI
+PL4289,Ahmaad Galloway,Player,0,0,,2003,7,235,RB,Alabama,DEN
+PL4290,Brandon Drumm,Player,0,0,,2003,7,236,RB,Colorado,DET
+PL4296,J.T. Wall,Player,0,0,,2003,7,242,RB,Georgia,PIT
+PL4301,Casey Moore,Player,0,0,,2003,7,247,RB,Stanford,CAR
+PL4332,William Green,Player,0,0,22,2002,1,16,RB,Boston Col.,CLE
+PL4334,T.J. Duckett,Player,0,0,21,2002,1,18,RB,Michigan St.,ATL
+PL4350,DeShaun Foster,Player,0,0,22,2002,2,34,RB,UCLA,CAR
+PL4367,Clinton Portis,Player,0,2,21,2002,2,51,RB,Miami (FL),DEN
+PL4370,Maurice Morris,Player,0,0,22,2002,2,54,RB,Oregon,SEA
+PL4372,Ladell Betts,Player,0,0,23,2002,2,56,RB,Iowa,WAS
+PL4400,Lamar Gordon,Player,0,0,22,2002,3,84,RB,North Dakota St.,STL
+PL4407,Brian Westbrook,Player,1,2,23,2002,3,91,RB,Villanova,PHI
+PL4415,Jonathan Wells,Player,0,0,23,2002,4,99,RB,Ohio St.,HOU
+PL4435,Travis Stephens,Player,0,0,24,2002,4,119,RB,Tennessee,TAM
+PL4451,Najeh Davenport,Player,0,0,23,2002,4,135,RB,Miami (FL),GNB
+PL4461,Kyle Johnson,Player,0,0,23,2002,5,145,RB,Syracuse,CAR
+PL4482,Verron Haynes,Player,0,0,23,2002,5,166,RB,Georgia,PIT
+PL4501,Josh Scobey,Player,0,0,22,2002,6,185,RB,Kansas St.,ARI
+PL4513,Larry Ned,Player,0,0,24,2002,6,197,RB,San Diego St.,OAK
+PL4515,Adrian Peterson,Player,0,0,23,2002,6,199,RB,Georgia Southern,CHI
+PL4520,Brian Allen,Player,0,0,22,2002,6,204,RB,Stanford,IND
+PL4523,Chester Taylor,Player,0,0,22,2002,6,207,RB,Toledo,BAL
+PL4530,Luke Staley,Player,0,0,,2002,7,214,RB,BYU,DET
+PL4553,Antwoine Womack,Player,0,0,,2002,7,237,RB,Virginia,NWE
+PL4557,Leonard Henry,Player,0,0,24,2002,7,241,RB,East Carolina,MIA
+PL4559,Chris Massey,Player,0,0,23,2002,7,243,RB,Marshall,STL
+PL4567,Jarrett Ferguson,Player,0,0,,2002,7,251,RB,Virginia Tech,BUF
+PL4582,LaDainian Tomlinson HOF,Player,3,5,22,2001,1,5,RB,TCU,SDG
+PL4600,Deuce McAllister,Player,0,2,22,2001,1,23,RB,Mississippi,NOR
+PL4604,Michael Bennett,Player,0,1,23,2001,1,27,RB,Wisconsin,MIN
+PL4615,Anthony Thomas,Player,0,0,23,2001,2,38,RB,Michigan,CHI
+PL4626,LaMont Jordan,Player,0,0,22,2001,2,49,RB,Maryland,NYJ
+PL4635,Travis Henry,Player,0,1,22,2001,2,58,RB,Tennessee,BUF
+PL4642,James Jackson,Player,0,0,25,2001,3,65,RB,Miami (FL),CLE
+PL4657,Kevan Barlow,Player,0,0,22,2001,3,80,RB,Pittsburgh,SFO
+PL4662,Travis Minor,Player,0,0,22,2001,3,85,RB,Florida St.,MIA
+PL4677,Rudi Johnson,Player,0,1,21,2001,4,100,RB,Auburn,CIN
+PL4685,George Layne,Player,0,0,22,2001,4,108,RB,TCU,KAN
+PL4698,Correll Buckhalter,Player,0,0,22,2001,4,121,RB,Nebraska,PHI
+PL4727,Derrick Blaylock,Player,0,0,22,2001,5,150,RB,S.F. Austin,KAN
+PL4738,Chris Barnes,Player,0,0,,2001,5,161,RB,New Mexico St.,BAL
+PL4752,Dee Brown,Player,0,0,23,2001,6,175,RB,Syracuse,CAR
+PL4769,Dan Alexander,Player,0,0,23,2001,6,192,RB,Nebraska,TEN
+PL4828,Jamal Lewis,Player,1,1,21,2000,1,5,RB,Tennessee,BAL
+PL4830,Thomas Jones,Player,0,1,22,2000,1,7,RB,Virginia,ARI
+PL4834,Ron Dayne,Player,0,0,22,2000,1,11,RB,Wisconsin,NYG
+PL4842,Shaun Alexander,Player,1,3,23,2000,1,19,RB,Alabama,SEA
+PL4854,Trung Canidate,Player,0,0,23,2000,1,31,RB,Arizona,STL
+PL4886,Travis Prentice,Player,0,0,23,2000,3,63,RB,Miami (OH),CLE
+PL4899,J.R. Redmond,Player,0,0,22,2000,3,76,RB,Arizona St.,NWE
+PL4904,Reuben Droughns,Player,0,0,22,2000,3,81,RB,Oregon,DET
+PL4911,Doug Chapman,Player,0,0,23,2000,3,88,RB,Marshall,MIN
+PL4920,Curtis Keaton,Player,0,0,23,2000,4,97,RB,James Madison,CIN
+PL4938,Frank Moreau,Player,0,0,23,2000,4,115,RB,Louisville,KAN
+PL4955,Paul Smith,Player,0,0,22,2000,5,132,RB,Texas-El Paso,SFO
+PL4967,Michael Wiley,Player,0,0,22,2000,5,144,RB,Ohio St.,DAL
+PL4979,Sammy Morris,Player,0,0,23,2000,5,156,RB,Texas Tech,BUF
+PL4989,Chad Morton,Player,0,0,23,2000,5,166,RB,USC,NOR
+PL4994,Thomas Hamner,Player,0,0,,2000,6,171,RB,Minnesota,PHI
+PL5012,Mike Anderson,Player,0,0,26,2000,6,189,RB,Utah,DEN
+PL5036,Mike Green,Player,0,0,23,2000,7,213,RB,Houston,TEN
+PL5066,Shyrone Stith,Player,0,0,22,2000,7,243,RB,Virginia Tech,JAX
+PL5075,Rondell Mealey,Player,0,0,23,2000,7,252,RB,LSU,GNB
+PL5081,Edgerrin James,Player,1,4,21,1999,1,4,RB,Miami (FL),IND
+PL5082,Ricky Williams,Player,1,1,22,1999,1,5,RB,Texas,NOR
+PL5116,J.J. Johnson,Player,0,0,25,1999,2,39,RB,Mississippi St.,MIA
+PL5123,Kevin Faulk,Player,0,0,23,1999,2,46,RB,LSU,NWE
+PL5126,Joe Montgomery,Player,0,0,23,1999,2,49,RB,Ohio St.,NYG
+PL5131,Mike Cloud,Player,0,0,24,1999,2,54,RB,Boston Col.,KAN
+PL5137,Jermaine Fazande,Player,0,0,24,1999,2,60,RB,Oklahoma,SDG
+PL5163,Shawn Bryson,Player,0,0,22,1999,3,86,RB,Tennessee,BUF
+PL5172,Amos Zereoue,Player,0,0,22,1999,3,95,RB,West Virginia,PIT
+PL5180,Sedrick Irvin,Player,0,0,21,1999,4,103,RB,Michigan St.,DET
+PL5189,Sean Bennett,Player,0,0,23,1999,4,112,RB,Northwestern,NYG
+PL5204,Olandis Gary,Player,0,0,24,1999,4,127,RB,Georgia,DEN
+PL5211,Cecil Collins,Player,0,0,22,1999,5,134,RB,McNeese St.,MIA
+PL5229,Charlie Rogers,Player,0,0,23,1999,5,152,RB,Georgia Tech,SEA
+PL5236,De'Mond Parker,Player,0,0,22,1999,5,159,RB,Oklahoma,GNB
+PL5271,Lamarr Glenn,Player,0,0,,1999,6,195,RB,Florida St.,TAM
+PL5283,Madre Hill,Player,0,0,23,1999,7,207,RB,Arkansas,CLE
+PL5309,Autry Denson,Player,0,0,22,1999,7,233,RB,Notre Dame,TAM
+PL5334,Curtis Enis,Player,0,0,22,1998,1,5,RB,Penn St.,CHI
+PL5338,Fred Taylor,Player,0,1,22,1998,1,9,RB,Florida,JAX
+PL5347,Robert Edwards,Player,0,0,23,1998,1,18,RB,Georgia,NWE
+PL5358,John Avery,Player,0,0,22,1998,1,29,RB,Mississippi,MIA
+PL5366,Robert Holcombe,Player,0,0,22,1998,2,37,RB,Illinois,STL
+PL5398,Skip Hicks,Player,0,0,23,1998,3,69,RB,UCLA,WAS
+PL5405,Ahman Green,Player,0,4,21,1998,3,76,RB,Nebraska,SEA
+PL5410,Chris Floyd,Player,0,0,23,1998,3,81,RB,Michigan,NWE
+PL5417,Rashaan Shehee,Player,0,0,23,1998,3,88,RB,Washington,KAN
+PL5424,Michael Pittman,Player,0,0,23,1998,4,95,RB,Fresno St.,ARI
+PL5430,Tavian Banks,Player,0,0,24,1998,4,101,RB,Iowa,JAX
+PL5451,Curtis Alexander,Player,0,0,,1998,4,122,RB,Alabama,DEN
+PL5452,Carlos King,Player,0,0,24,1998,4,123,RB,North Carolina St.,PIT
+PL5458,Raymond Priester,Player,0,0,,1998,5,129,RB,Clemson,STL
+PL5460,Jonathan Linton,Player,0,0,23,1998,5,131,RB,North Carolina,BUF
+PL5461,Wilmont Perry,Player,0,0,23,1998,5,132,RB,Livingstone,NOR
+PL5482,Chris Howard,Player,0,0,23,1998,5,153,RB,Michigan,DEN
+PL5505,Harold Shaw,Player,0,0,24,1998,6,176,RB,Southern Miss,NWE
+PL5507,Chris Fuamatu-Ma'afala,Player,0,0,21,1998,6,178,RB,Utah,PIT
+PL5530,Ken Oxendine,Player,0,0,22,1998,7,201,RB,Virginia Tech,ATL
+PL5531,Marcus Parker,Player,0,0,,1998,7,202,RB,Virginia Tech,CIN
+PL5547,Eddie Watson,Player,0,0,21,1998,7,218,RB,Purdue,GNB
+PL5552,Tarik Smith,Player,0,0,,1998,7,223,RB,California,DAL
+PL5553,Ernest Blackwell,Player,0,0,,1998,7,224,RB,Missouri,KAN
+PL5562,Ron Janes,Player,0,0,,1998,7,233,RB,Missouri,ARI
+PL5582,Warrick Dunn,Player,0,3,22,1997,1,12,RB,Florida St.,TAM
+PL5593,Antowain Smith,Player,0,0,25,1997,1,23,RB,Houston,BUF
+PL5606,Tiki Barber,Player,1,3,22,1997,2,36,RB,Virginia,NYG
+PL5611,Byron Hanspard,Player,0,0,21,1997,2,41,RB,Texas Tech,ATL
+PL5613,Corey Dillon,Player,0,4,22,1997,2,43,RB,Washington,CIN
+PL5631,Sedrick Shaw,Player,0,0,23,1997,3,61,RB,Iowa,NWE
+PL5632,Troy Davis,Player,0,0,21,1997,3,62,RB,Iowa St.,NOR
+PL5634,Jay Graham,Player,0,0,22,1997,3,64,RB,Tennessee,BAL
+PL5641,Duce Staley,Player,0,0,22,1997,3,71,RB,South Carolina,PHI
+PL5674,Leon Johnson,Player,0,0,23,1997,4,104,RB,North Carolina,NYJ
+PL5675,Darnell Autry,Player,0,0,21,1997,4,105,RB,Northwestern,CHI
+PL5693,Chad Levitt,Player,0,0,21,1997,4,123,RB,Cornell,OAK
+PL5699,Nicky Sualua,Player,0,0,22,1997,4,129,RB,Ohio St.,DAL
+PL5708,Kenny Bynum,Player,0,0,23,1997,5,138,RB,South Carolina St.,SDG
+PL5724,George Jones,Player,0,0,23,1997,5,154,RB,San Diego St.,PIT
+PL5733,June Henley,Player,0,0,22,1997,5,163,RB,Kansas,KAN
+PL5737,Steve Lee,Player,0,0,,1997,6,167,RB,Indiana,BAL
+PL5745,Rod Brown,Player,0,0,,1997,6,175,RB,North Carolina St.,ARI
+PL5776,Terry Battle,Player,0,0,,1997,7,206,RB,Arizona St.,DET
+PL5816,Lawrence Phillips,Player,0,0,21,1996,1,6,RB,Nebraska,STL
+PL5818,Tim Biakabutuka,Player,0,0,22,1996,1,8,RB,Michigan,CAR
+PL5824,Eddie George,Player,1,4,22,1996,1,14,RB,Ohio St.,HOU
+PL5842,Leeland McElroy,Player,0,0,22,1996,2,32,RB,Texas A&M,ARI
+PL5845,Mike Alstott,Player,3,6,22,1996,2,35,RB,Purdue,TAM
+PL5875,Detron Smith,Player,0,1,22,1996,3,65,RB,Texas A&M,DEN
+PL5883,Winslow Oliver,Player,0,0,23,1996,3,73,RB,New Mexico,CAR
+PL5885,Moe Williams,Player,0,0,22,1996,3,75,RB,Kentucky,MIN
+PL5890,Karim Abdul-Jabbar,Player,0,0,22,1996,3,80,RB,UCLA,MIA
+PL5893,Jerald Moore,Player,0,0,21,1996,3,83,RB,Oklahoma,STL
+PL5901,Reggie Brown,Player,0,0,23,1996,3,91,RB,Fresno St.,SEA
+PL5902,Jon Witman,Player,0,0,24,1996,3,92,RB,Penn St.,PIT
+PL5912,Stephen Davis,Player,0,3,22,1996,4,102,RB,Auburn,WAS
+PL5913,Ricky Whittle,Player,0,0,24,1996,4,103,RB,Oregon,NOR
+PL5925,Brian Milne,Player,0,0,23,1996,4,115,RB,Penn St.,IND
+PL5927,Richard Huntley,Player,0,0,23,1996,4,117,RB,Winston-Salem St.,ATL
+PL5934,Kantroy Barber,Player,0,0,22,1996,4,124,RB,West Virginia,NWE
+PL5944,Jerris McPhail,Player,0,0,24,1996,5,134,RB,East Carolina,MIA
+PL5952,Marquette Smith,Player,0,0,,1996,5,142,RB,Central Florida,CAR
+PL5985,Derrick Harris,Player,0,0,23,1996,6,175,RB,Miami (FL),STL
+PL5993,Tim Hall,Player,0,0,22,1996,6,183,RB,Robert Morris,OAK
+PL6003,Scott Greene,Player,0,0,24,1996,6,193,RB,Michigan St.,CAR
+PL6005,Marrio Grier,Player,0,0,24,1996,6,195,RB,Tenn-Chattanooga,NWE
+PL6006,Leon Neal,Player,0,0,23,1996,6,196,RB,Washington,BUF
+PL6008,Stephen Pitts,Player,0,0,,1996,6,198,RB,Penn St.,SFO
+PL6028,Mike Archie,Player,0,0,23,1996,7,218,RB,Penn St.,HOU
+PL6041,Freddie Bradley,Player,0,0,26,1996,7,231,RB,Sonoma St.,SDG
+PL6045,L.T. Levine,Player,0,0,,1996,7,235,RB,Kansas,DEN
+PL6052,Ryan Wood,Player,0,0,,1996,7,243,RB,Arizona St.,DAL
+PL6062,Michael Hicks,Player,0,0,23,1996,7,253,RB,South Carolina St.,CHI
+PL6064,Ki-Jana Carter,Player,0,0,21,1995,1,1,RB,Penn St.,CIN
+PL6080,Tyrone Wheatley,Player,0,0,23,1995,1,17,RB,Michigan,NYG
+PL6081,Napoleon Kaufman,Player,0,0,22,1995,1,18,RB,Washington,OAK
+PL6082,James Stewart,Player,0,0,23,1995,1,19,RB,Tennessee,JAX
+PL6084,Rashaan Salaam,Player,0,0,20,1995,1,21,RB,Colorado,CHI
+PL6107,Ray Zellars,Player,0,0,22,1995,2,44,RB,Notre Dame,NOR
+PL6109,Sherman Williams,Player,0,0,22,1995,2,46,RB,Alabama,DAL
+PL6114,Terrell Fletcher,Player,0,0,21,1995,2,51,RB,Wisconsin,SDG
+PL6137,Curtis Martin HOF,Player,1,5,22,1995,3,74,RB,Pittsburgh,NWE
+PL6149,Joe Aska,Player,0,0,23,1995,3,86,RB,Central Oklahoma,OAK
+PL6152,Rodney Thomas,Player,0,0,22,1995,3,89,RB,Texas A&M,HOU
+PL6166,Larry Jones,Player,0,0,,1995,4,103,RB,Miami (FL),WAS
+PL6167,Aaron Hayden,Player,0,0,22,1995,4,104,RB,Tennessee,SDG
+PL6220,James Stewart,Player,0,0,23,1995,5,157,RB,Miami (FL),MIN
+PL6232,Ryan Christopherson,Player,0,0,23,1995,5,169,RB,Wyoming,JAX
+PL6233,Travis Jervey,Player,0,1,23,1995,5,170,RB,The Citadel,GNB
+PL6258,Dino Philyaw,Player,0,0,24,1995,6,195,RB,Oregon,NWE
+PL6259,Terrell Davis HOF,Player,3,3,22,1995,6,196,RB,Georgia,DEN
+PL6269,Charles Way,Player,0,0,22,1995,6,206,RB,Virginia,NYG
+PL6273,Kevin Bouie,Player,0,0,24,1995,7,210,RB,Mississippi St.,PHI
+PL6306,Darick Holmes,Player,0,0,24,1995,7,244,RB,Portland St.,BUF
+PL6313,Marshall Faulk HOF,Player,3,7,21,1994,1,2,RB,San Diego St.,IND
+PL6336,Greg Hill,Player,0,0,22,1994,1,25,RB,Texas A&M,KAN
+PL6345,Errict Rhett,Player,0,0,23,1994,2,34,RB,Florida,TAM
+PL6349,Chuck Levy,Player,0,0,22,1994,2,38,RB,Arizona,ARI
+PL6353,Charlie Garner,Player,0,1,22,1994,2,42,RB,Tennessee,PHI
+PL6355,Mario Bates,Player,0,0,21,1994,2,44,RB,Arizona St.,NOR
+PL6369,Donnell Bennett,Player,0,0,21,1994,2,58,RB,Miami (FL),KAN
+PL6384,Lamar Smith,Player,0,0,23,1994,3,73,RB,Houston,SEA
+PL6391,Calvin Jones,Player,0,0,23,1994,3,80,RB,Nebraska,RAI
+PL6394,James Bostic,Player,0,0,22,1994,3,83,RB,Auburn,RAM
+PL6395,LeShon Johnson,Player,0,0,23,1994,3,84,RB,Northern Illinois,GNB
+PL6402,Bam Morris,Player,0,0,22,1994,3,91,RB,Texas Tech,PIT
+PL6406,Gary Downs,Player,0,0,22,1994,3,95,RB,North Carolina St.,NYG
+PL6425,Raymont Harris,Player,0,0,23,1994,4,114,RB,Ohio St.,CHI
+PL6440,Sean Jackson,Player,0,0,,1994,4,129,RB,Florida St.,HOU
+PL6460,Dorsey Levens,Player,0,1,24,1994,5,149,RB,Georgia Tech,GNB
+PL6471,Tony Vinson,Player,0,0,23,1994,5,160,RB,Towson,SDG
+PL6475,Lamont Warren,Player,0,0,21,1994,6,164,RB,Colorado,IND
+PL6482,Robert Strait,Player,0,0,,1994,6,171,RB,Baylor,CLE
+PL6484,Fred Lester,Player,0,0,,1994,6,173,RB,Alabama A&M,NYJ
+PL6496,Anthony Daigle,Player,0,0,24,1994,6,185,RB,Fresno St.,KAN
+PL6511,Jamal Anderson,Player,1,1,21,1994,7,201,RB,Utah,ATL
+PL6514,Frank Harvey,Player,0,0,23,1994,7,204,RB,Georgia,ARI
+PL6516,Mark Montgomery,Player,0,0,,1994,7,206,RB,Wisconsin,PHI
+PL6519,Brice Abrams,Player,0,0,,1994,7,209,RB,Michigan St.,PIT
+PL6522,Butler By'not'e,Player,0,0,21,1994,7,212,RB,Ohio St.,DEN
+PL6535,Garrison Hearst,Player,0,2,22,1993,1,3,RB,Georgia,PHO
+PL6542,Jerome Bettis HOF,Player,2,6,21,1993,1,10,RB,Notre Dame,RAM
+PL6553,Robert Smith,Player,0,2,21,1993,1,21,RB,Ohio St.,MIN
+PL6573,Natrone Means,Player,0,1,21,1993,2,41,RB,North Carolina,SDG
+PL6575,Glyn Milburn,Player,1,2,22,1993,2,43,RB,Stanford,DEN
+PL6577,Reggie Brooks,Player,0,0,22,1993,2,45,RB,Notre Dame,WAS
+PL6581,Roosevelt Potts,Player,0,0,22,1993,2,49,RB,La-Monroe,IND
+PL6605,Russell White,Player,0,0,22,1993,3,73,RB,California,RAM
+PL6610,Terry Kirby,Player,0,0,23,1993,3,78,RB,Virginia,MIA
+PL6619,Ronald Moore,Player,0,0,23,1993,4,87,RB,Pittsburg St.,PHO
+PL6623,Rudy Harris,Player,0,0,21,1993,4,91,RB,Clemson,TAM
+PL6626,Derrick Lassic,Player,0,0,23,1993,4,94,RB,Alabama,DAL
+PL6641,Derek Brown,Player,0,0,22,1993,4,109,RB,Nebraska,NOR
+PL6652,Adrian Murrell,Player,0,0,22,1993,5,120,RB,West Virginia,NYJ
+PL6658,Kevin Williams,Player,0,0,23,1993,5,126,RB,UCLA,DEN
+PL6691,Darius Turner,Player,0,0,,1993,6,159,RB,Washington,KAN
+PL6706,Ty Hallock,Player,0,0,22,1993,7,174,RB,Michigan St.,DET
+PL6716,Lance Lewis,Player,0,0,,1993,7,184,RB,Nebraska,IND
+PL6740,Greg Robinson,Player,0,0,24,1993,8,208,RB,La-Monroe,RAI
+PL6765,Tommy Vardell,Player,0,0,23,1992,1,9,RB,Stanford,CLE
+PL6775,Tony Smith,Player,0,0,22,1992,1,19,RB,Southern Miss,ATL
+PL6777,Vaughn Dunbar,Player,0,0,24,1992,1,21,RB,Indiana,NOR
+PL6801,Amp Lee,Player,0,0,20,1992,2,45,RB,Florida St.,SFO
+PL6804,Siran Stacy,Player,0,0,24,1992,2,48,RB,Alabama,PHI
+PL6841,Rodney Culver,Player,0,0,22,1992,4,85,RB,Notre Dame,IND
+PL6847,Tony Brooks,Player,0,0,23,1992,4,92,RB,Notre Dame,PHI
+PL6858,Edgar Bennett,Player,0,0,23,1992,4,103,RB,Florida St.,GNB
+PL6868,Maury Toy,Player,0,0,,1992,5,113,RB,UCLA,IND
+PL6899,Joe Campbell,Player,0,0,,1992,6,144,RB,Middle Tenn. St.,RAM
+PL6905,Michael Bates,Player,1,5,22,1992,6,150,RB,Arizona,SEA
+PL6907,Mike Gaddis,Player,0,0,,1992,6,152,RB,Oklahoma,MIN
+PL6943,Scottie Graham,Player,0,0,23,1992,7,188,RB,Ohio St.,PIT
+PL6955,Anthony McDowell,Player,0,0,23,1992,8,200,RB,Texas Tech,TAM
+PL6959,Scott Lockwood,Player,0,0,24,1992,8,204,RB,USC,NWE
+PL6962,Muhammad Shamsid-Deen,Player,0,0,,1992,8,207,RB,Tenn-Chattanooga,SEA
+PL6967,Ronald Humphrey,Player,0,0,23,1992,8,212,RB,Miss. Valley St.,IND
+PL6971,Derrick Moore,Player,0,0,24,1992,8,216,RB,NE State (OK),ATL
+PL6981,Ostell Miles,Player,0,0,22,1992,9,226,RB,Houston,CIN
+PL7010,Tim Lester,Player,0,0,24,1992,10,255,RB,East. Kentucky,RAM
+PL7014,Reggie Yarbrough,Player,0,0,,1992,10,259,RB,Cal State-Fullerton,PHO
+PL7017,Mike Saunders,Player,0,0,,1992,10,262,RB,Iowa,PIT
+PL7022,Raoul Spears,Player,0,0,,1992,10,267,RB,USC,MIA
+PL7028,Nikki Fisher,Player,0,0,,1992,10,273,RB,Virginia,CHI
+PL7039,Mazio Royster,Player,0,0,22,1992,11,284,RB,USC,TAM
+PL7040,Keith McAfee,Player,0,0,,1992,11,285,RB,Texas A&M,SDG
+PL7050,Charles Evans,Player,0,0,25,1992,11,295,RB,Clark (GA),MIN
+PL7083,Kameno Bell,Player,0,0,,1992,12,328,RB,Illinois,MIA
+PL7105,Leonard Russell,Player,0,0,21,1991,1,14,RB,Arizona St.,NWE
+PL7112,Harvey Williams,Player,0,0,24,1991,1,21,RB,LSU,KAN
+PL7130,Eric Bieniemy,Player,0,0,22,1991,2,39,RB,Colorado,SDG
+PL7134,Nick Bell,Player,0,0,23,1991,2,43,RB,Iowa,RAI
+PL7136,Ricky Watters,Player,0,5,22,1991,2,45,RB,Notre Dame,SFO
+PL7151,Aaron Craver,Player,0,0,22,1991,3,60,RB,Fresno St.,MIA
+PL7167,Ricky Ervins,Player,0,0,22,1991,3,76,RB,USC,WAS
+PL7171,Robert Wilson,Player,0,0,22,1991,3,80,RB,Texas A&M,TAM
+PL7183,Randy Baldwin,Player,0,0,24,1991,4,92,RB,Mississippi,MIN
+PL7188,Curvin Richards,Player,0,0,22,1991,4,97,RB,Pittsburgh,DAL
+PL7203,Jon Vaughn,Player,0,0,21,1991,5,112,RB,Michigan,NWE
+PL7206,Greg Lewis,Player,0,0,22,1991,5,115,RB,Washington,DEN
+PL7236,Erric Pegram,Player,0,0,22,1991,6,145,RB,North Texas,ATL
+PL7239,Blaise Bryant,Player,0,0,,1991,6,148,RB,Iowa St.,NYJ
+PL7240,Walter Dean,Player,0,0,23,1991,6,149,RB,Grambling St.,GNB
+PL7245,Fred McAfee,Player,0,1,23,1991,6,154,RB,Mississippi Col.,NOR
+PL7249,Leroy Thompson,Player,0,0,22,1991,6,158,RB,Penn St.,PIT
+PL7252,Darren Lewis,Player,0,0,22,1991,6,161,RB,Texas A&M,CHI
+PL7260,Tyrone Shelton,Player,0,0,,1991,7,170,RB,William & Mary,RAM
+PL7261,Ivory Lee Brown,Player,0,0,22,1991,7,171,RB,Ark-Pine Bluff,PHO
+PL7277,James Joseph,Player,0,0,23,1991,7,187,RB,Auburn,PHI
+PL7283,Sheldon Canley,Player,0,0,23,1991,7,193,RB,San Jose St.,SFO
+PL7284,Amir Rasul,Player,0,0,,1991,7,194,RB,Florida A&M,BUF
+PL7288,Greg Amsler,Player,0,0,,1991,8,198,RB,Tennessee,PHO
+PL7295,Cedric Jackson,Player,0,0,23,1991,8,205,RB,TCU,DET
+PL7301,Mike Dingle,Player,0,0,22,1991,8,211,RB,South Carolina,CIN
+PL7304,Gary Brown,Player,0,0,22,1991,8,214,RB,Penn St.,HOU
+PL7322,Gerald Hudson,Player,0,0,,1991,9,232,RB,Oklahoma St.,MIN
+PL7326,Howard Griffith,Player,0,0,23,1991,9,236,RB,Illinois,IND
+PL7327,Anthony Wallace,Player,0,0,,1991,9,237,RB,California,NOR
+PL7332,Chuck Weatherspoon,Player,0,0,23,1991,9,242,RB,Houston,PHI
+PL7344,Ronald Poles,Player,0,0,,1991,10,254,RB,Tennessee,SDG
+PL7351,Al Baker,Player,0,0,,1991,10,261,RB,Kentucky,NYJ
+PL7355,Hyland Hickson,Player,0,0,,1991,10,265,RB,Michigan St.,TAM
+PL7380,Tony Boles,Player,0,0,,1991,11,291,RB,Michigan,DAL
+PL7386,Tony Stewart,Player,0,0,,1991,11,297,RB,Iowa,SEA
+PL7399,Bob Christian,Player,0,0,22,1991,12,310,RB,Northwestern,ATL
+PL7401,Ernie Thompson,Player,0,0,21,1991,12,312,RB,Indiana,RAM
+PL7406,Chris Samuels,Player,0,0,22,1991,12,317,RB,Texas,SDG
+PL7425,Blair Thomas,Player,0,0,22,1990,1,2,RB,Penn St.,NYJ
+PL7440,Emmitt Smith HOF,Player,4,8,21,1990,1,17,RB,Florida,DAL
+PL7442,Darrell Thompson,Player,0,0,22,1990,1,19,RB,Minnesota,GNB
+PL7443,Steve Broussard,Player,0,0,23,1990,1,20,RB,Washington St.,ATL
+PL7447,Rodney Hampton,Player,0,2,21,1990,1,24,RB,Georgia,NYG
+PL7448,Dexter Carter,Player,0,0,22,1990,1,25,RB,Florida St.,SFO
+PL7453,Reggie Cobb,Player,0,0,22,1990,2,30,RB,Tennessee,TAM
+PL7454,Anthony Thompson,Player,0,0,23,1990,2,31,RB,Indiana,PHO
+PL7459,Anthony Johnson,Player,0,0,22,1990,2,36,RB,Notre Dame,IND
+PL7461,Harold Green,Player,0,1,22,1990,2,38,RB,South Carolina,CIN
+PL7468,Leroy Hoard,Player,0,1,22,1990,2,45,RB,Michigan,CLE
+PL7512,Chris Warren,Player,0,3,22,1990,4,89,RB,Ferrum,SEA
+PL7523,Eddie Fuller,Player,0,0,22,1990,4,100,RB,LSU,BUF
+PL7540,Pat Chaffey,Player,0,0,23,1990,5,117,RB,Oregon St.,CHI
+PL7543,James Gray,Player,0,0,,1990,5,120,RB,Texas Tech,NWE
+PL7551,Barry Foster,Player,1,2,21,1990,5,128,RB,Arkansas,PIT
+PL7553,Brian Mitchell,Player,1,1,22,1990,5,130,RB,Louisiana,WAS
+PL7560,Leroy Holt,Player,0,0,,1990,5,137,RB,USC,MIA
+PL7562,Mike Pringle,Player,0,0,22,1990,6,139,RB,Cal State-Fullerton,ATL
+PL7564,Derrick Douglas,Player,0,0,22,1990,6,141,RB,Louisiana Tech,TAM
+PL7572,Marcus Wilson,Player,0,0,22,1990,6,149,RB,Virginia,RAI
+PL7592,Johnny Johnson,Player,0,1,22,1990,7,169,RB,San Jose St.,PHO
+PL7607,Andy Murray,Player,0,0,,1990,7,184,RB,Kentucky,HOU
+PL7614,Aaron Emanuel,Player,0,0,,1990,7,191,RB,USC,NYG
+PL7623,James Rouse,Player,0,0,23,1990,8,200,RB,Arkansas,CHI
+PL7624,J.J. Flannigan,Player,0,0,,1990,8,201,RB,Colorado,SDG
+PL7651,Johnny Bailey,Player,0,1,23,1990,9,228,RB,Texas A&M-Kingsville,CHI
+PL7653,Leon Perry,Player,0,0,,1990,9,230,RB,Oklahoma,RAI
+PL7656,Broderick Graves,Player,0,0,,1990,9,233,RB,Winston-Salem St.,NOR
+PL7658,Michael Owens,Player,0,0,,1990,9,235,RB,Syracuse,KAN
+PL7664,Terry Allen,Player,0,1,22,1990,9,241,RB,Clemson,MIN
+PL7676,Anthony Landry,Player,0,0,,1990,10,253,RB,S.F. Austin,NWE
+PL7708,Reginald Warnsley,Player,0,0,,1990,11,285,RB,Southern Miss,DET
+PL7714,Ernest Thompson,Player,0,0,,1990,11,291,RB,Georgia Southern,KAN
+PL7722,Harry Jackson,Player,0,0,,1990,11,299,RB,St. Cloud St.,GNB
+PL7731,Donnie Riley,Player,0,0,,1990,12,308,RB,Central Michigan,PHO
+PL7742,Richard Bell,Player,0,0,23,1990,12,319,RB,Nebraska,PIT
+PL7750,Judd Garrett,Player,0,0,,1990,12,327,RB,Princeton,PHI
+PL7751,David Lang,Player,0,0,22,1990,12,328,RB,Northern Arizona,RAM
+PL7757,Barry Sanders HOF,Player,6,10,21,1989,1,3,RB,Oklahoma St.,DET
+PL7761,Tim Worley,Player,0,0,22,1989,1,7,RB,Georgia,PIT
+PL7763,Sammie Smith,Player,0,0,22,1989,1,9,RB,Florida St.,MIA
+PL7767,Eric Metcalf,Player,2,3,21,1989,1,13,RB,Texas,CLE
+PL7780,Cleveland Gary,Player,0,0,23,1989,1,26,RB,Miami (FL),RAM
+PL7789,Eric Ball,Player,0,0,23,1989,2,35,RB,UCLA,CIN
+PL7793,Daryl Johnston,Player,0,2,23,1989,2,39,RB,Syracuse,DAL
+PL7816,Keith Jones,Player,0,0,23,1989,3,62,RB,Illinois,ATL
+PL7825,Elroy Harris,Player,0,0,23,1989,3,71,RB,East. Kentucky,SEA
+PL7830,Robert Drummond,Player,0,0,22,1989,3,76,RB,Syracuse,PHI
+PL7838,Keith Henderson,Player,0,0,23,1989,3,84,RB,Georgia,SFO
+PL7847,Lewis Tillman,Player,0,0,23,1989,4,93,RB,Jackson St.,NYG
+PL7871,Jamie Lawson,Player,0,0,23,1989,5,117,RB,Nicholls St.,TAM
+PL7881,Vince Workman,Player,0,0,21,1989,5,127,RB,Ohio St.,GNB
+PL7884,Mark Green,Player,0,0,22,1989,5,130,RB,Notre Dame,CHI
+PL7886,Dave Meggett,Player,0,2,23,1989,5,132,RB,Towson,NYG
+PL7910,Doug Lloyd,Player,0,0,24,1989,6,156,RB,North Dakota St.,RAI
+PL7916,Heath Sherman,Player,0,0,22,1989,6,162,RB,Texas A&M-Kingsville,PHI
+PL7918,Sean Doctor,Player,0,0,,1989,6,164,RB,Marshall,BUF
+PL7919,Eric Mitchel,Player,0,0,,1989,6,165,RB,Oklahoma,NWE
+PL7920,Craig Taylor,Player,0,0,23,1989,6,166,RB,West Virginia,CIN
+PL7926,Undra Johnson,Player,0,0,23,1989,7,172,RB,West Virginia,ATL
+PL7934,Mel Bratton,Player,0,0,24,1989,7,180,RB,Miami (FL),DEN
+PL7936,Ivy Joe Hunter,Player,0,0,22,1989,7,182,RB,Kentucky,IND
+PL7937,Marion Butts,Player,0,2,23,1989,7,183,RB,Florida St.,SDG
+PL7950,Charvez Foger,Player,0,0,,1989,8,196,RB,Nevada,DAL
+PL7953,Bryan Tobey,Player,0,0,,1989,8,199,RB,Grambling St.,KAN
+PL7959,Derrick Gainer,Player,0,0,23,1989,8,205,RB,Florida A&M,RAI
+PL7961,John Burch,Player,0,0,,1989,8,207,RB,Tenn-Martin,PHO
+PL7963,A.B. Brown,Player,0,0,23,1989,8,209,RB,West Virginia,NYJ
+PL7974,Todd McNair,Player,0,0,23,1989,8,220,RB,Temple,KAN
+PL7984,Patrick Egu,Player,0,0,22,1989,9,230,RB,Nevada,TAM
+PL7994,Darron Norris,Player,0,0,,1989,9,240,RB,Texas,NWE
+PL7995,Wayne Williams,Player,0,0,,1989,9,241,RB,Florida,DEN
+PL8002,Byron Sanders,Player,0,0,,1989,9,248,RB,Northwestern,CHI
+PL8022,Derrick Fenner,Player,0,0,22,1989,10,268,RB,North Carolina,SEA
+PL8025,Tracy Johnson,Player,0,0,22,1989,10,271,RB,Clemson,HOU
+PL8027,Joe Henderson,Player,0,0,,1989,10,273,RB,Iowa St.,NOR
+PL8040,Greg Paterra,Player,0,0,22,1989,11,286,RB,Slippery Rock,ATL
+PL8041,Victor Floyd,Player,0,0,23,1989,11,287,RB,Florida St.,SDG
+PL8043,Jim Bell,Player,0,0,,1989,11,289,RB,Boston Col.,SFO
+PL8048,Tony Hinz,Player,0,0,,1989,11,294,RB,Harvard,NWE
+PL8057,Brad Baxter,Player,0,0,22,1989,11,303,RB,Alabama St.,MIN
+PL8065,Bill Jones,Player,0,0,22,1989,12,311,RB,Texas St.,KAN
+PL8068,William DuBose,Player,0,0,,1989,12,314,RB,South Carolina St.,IND
+PL8071,Joe Mickles,Player,0,0,23,1989,12,317,RB,Mississippi,WAS
+PL8103,Gaston Green,Player,0,1,22,1988,1,14,RB,UCLA,RAM
+PL8106,John Stephens,Player,0,1,22,1988,1,17,RB,NW State (LA),NWE
+PL8111,Lorenzo White,Player,0,1,22,1988,1,22,RB,Michigan St.,HOU
+PL8112,Brad Muster,Player,0,0,23,1988,1,23,RB,Stanford,CHI
+PL8113,Craig Heyward,Player,0,1,21,1988,1,24,RB,Pittsburgh,NOR
+PL8120,Ickey Woods,Player,0,0,22,1988,2,31,RB,UNLV,CIN
+PL8127,Tony Jeffery,Player,0,0,24,1988,2,38,RB,TCU,PHO
+PL8129,Thurman Thomas HOF,Player,2,5,22,1988,2,40,RB,Oklahoma St.,BUF
+PL8142,Lars Tate,Player,0,0,22,1988,2,53,RB,Georgia,TAM
+PL8150,Keith Woodside,Player,0,0,24,1988,3,61,RB,Texas A&M,GNB
+PL8155,Mike Oliphant,Player,0,0,25,1988,3,66,RB,Puget Sound,WAS
+PL8190,Kevin Harmon,Player,0,0,21,1988,4,101,RB,Iowa,SEA
+PL8195,Lydell Carr,Player,0,0,23,1988,4,106,RB,Oklahoma,NOR
+PL8198,Jamie Morris,Player,0,0,23,1988,4,109,RB,Michigan,WAS
+PL8202,William Howard,Player,0,0,24,1988,5,113,RB,Tennessee,TAM
+PL8206,Robert Delpino,Player,0,0,22,1988,5,117,RB,Missouri,RAM
+PL8221,Tony Jordan,Player,0,0,23,1988,5,132,RB,Kansas St.,PHO
+PL8231,Carl Painter,Player,0,0,24,1988,6,142,RB,Hampton,DET
+PL8236,Keith Jones,Player,0,0,22,1988,6,147,RB,Nebraska,RAM
+PL8242,Melvin Bratton,Player,0,0,,1988,6,153,RB,Miami (FL),MIA
+PL8244,Warren Williams,Player,0,0,23,1988,6,155,RB,Miami (FL),PIT
+PL8245,George Cooper,Player,0,0,,1988,6,156,RB,Ohio St.,MIA
+PL8256,Kerry Goode,Player,0,0,23,1988,7,167,RB,Alabama,TAM
+PL8261,Gary Patton,Player,0,0,,1988,7,172,RB,East. Michigan,NYJ
+PL8273,Bo Wright,Player,0,0,,1988,7,184,RB,Alabama,BUF
+PL8287,Anthony Simpson,Player,0,0,,1988,8,198,RB,East Carolina,TAM
+PL8289,Patrick Collins,Player,0,0,22,1988,8,200,RB,Oklahoma,GNB
+PL8294,Mark Higgs,Player,0,0,22,1988,8,205,RB,Kentucky,DAL
+PL8296,David Smith,Player,0,0,,1988,8,207,RB,Western Kentucky,PHI
+PL8306,Harvey Reed,Player,0,0,,1988,8,217,RB,Howard,CHI
+PL8310,Darryl McGill,Player,0,0,,1988,8,221,RB,Wake Forest,WAS
+PL8311,James Primus,Player,0,0,24,1988,9,222,RB,UCLA,ATL
+PL8316,Reggie Ware,Player,0,0,,1988,9,227,RB,Auburn,RAI
+PL8325,Gordie Lockbaum,Player,0,0,,1988,9,236,RB,Holy Cross,PIT
+PL8337,Mel Farr,Player,0,0,22,1988,9,248,RB,UCLA,DEN
+PL8340,Kenny Gamble,Player,0,0,23,1988,10,251,RB,Colgate,KAN
+PL8357,Channing Williams,Player,0,0,,1988,10,268,RB,Arizona St.,DEN
+PL8380,Tom Kelleher,Player,0,0,,1988,11,292,RB,Holy Cross,MIA
+PL8382,Marvin Allen,Player,0,0,22,1988,11,294,RB,Tulane,NWE
+PL8392,Richard Calvin,Player,0,0,,1988,11,304,RB,Washington St.,DEN
+PL8424,Alonzo Highsmith,Player,0,0,22,1987,1,3,RB,Miami (FL),HOU
+PL8425,Brent Fullwood,Player,0,1,23,1987,1,4,RB,Auburn,GNB
+PL8435,D.J. Dozier,Player,0,0,21,1987,1,14,RB,Penn St.,MIN
+PL8440,Paul Palmer,Player,0,0,22,1987,1,19,RB,Temple,KAN
+PL8442,Roger Vick,Player,0,0,23,1987,1,21,RB,Texas A&M,NYJ
+PL8445,Rod Bernstine,Player,0,0,22,1987,1,24,RB,Texas A&M,SDG
+PL8446,Terrence Flagler,Player,0,0,22,1987,1,25,RB,Clemson,SFO
+PL8452,Kenny Flowers,Player,0,0,23,1987,2,31,RB,Clemson,ATL
+PL8456,Christian Okoye,Player,1,2,26,1987,2,35,RB,Azusa Pacific,KAN
+PL8472,Don Smith,Player,0,0,23,1987,2,51,RB,Mississippi St.,TAM
+PL8499,Jamie Mueller,Player,0,0,22,1987,3,78,RB,Benedictine,BUF
+PL8500,Bob Perryman,Player,0,0,22,1987,3,79,RB,Michigan,NWE
+PL8501,Tim Manoa,Player,0,0,22,1987,3,80,RB,Penn St.,CLE
+PL8502,Steve Smith,Player,0,0,23,1987,3,81,RB,Penn St.,RAI
+PL8520,Troy Stradford,Player,0,0,22,1987,4,99,RB,Boston Col.,MIA
+PL8538,Timmy Smith,Player,0,0,23,1987,5,117,RB,Texas Tech,WAS
+PL8539,George Swarn,Player,0,0,23,1987,5,118,RB,Miami (OH),STL
+PL8540,Tommie Agee,Player,0,0,23,1987,5,119,RB,Auburn,SEA
+PL8551,Marc Logan,Player,0,0,22,1987,5,130,RB,Kentucky,CIN
+PL8554,Spencer Tillman,Player,0,0,23,1987,5,133,RB,Oklahoma,HOU
+PL8564,Steve Bartalo,Player,0,0,23,1987,6,143,RB,Colorado St.,TAM
+PL8581,Tim Richardson,Player,0,0,,1987,6,160,RB,Pacific,NYG
+PL8588,Warren Marshall,Player,0,0,23,1987,6,167,RB,James Madison,DEN
+PL8592,Kerry Porter,Player,0,0,22,1987,7,171,RB,Washington St.,BUF
+PL8603,Tom Brown,Player,0,0,22,1987,7,182,RB,Pittsburgh,MIA
+PL8616,Eddie Hunter,Player,0,0,22,1987,8,196,RB,Virginia Tech,NYJ
+PL8631,Rick Fenney,Player,0,0,22,1987,8,211,RB,Washington,MIN
+PL8638,Michael Clemons,Player,0,0,22,1987,8,218,RB,William & Mary,KAN
+PL8644,Joe Armentrout,Player,0,0,,1987,9,224,RB,Wisconsin,TAM
+PL8646,Thomas Wilcher,Player,0,0,,1987,9,226,RB,Michigan,SDG
+PL8650,Rick Calhoun,Player,0,0,24,1987,9,230,RB,Cal State-Fullerton,DET
+PL8655,Alvin Blount,Player,0,0,22,1987,9,235,RB,Maryland,DAL
+PL8660,Tracy Ham,Player,0,0,,1987,9,240,RB,Georgia Southern,RAM
+PL8668,Alfred Jenkins,Player,0,0,,1987,9,248,RB,Arizona,WAS
+PL8669,Lakei Heimuli,Player,0,0,22,1987,9,249,RB,BYU,CHI
+PL8671,Dana Wright,Player,0,0,24,1987,9,251,RB,Findlay,NYG
+PL8681,Merril Hoge,Player,0,0,22,1987,10,261,RB,Idaho St.,PIT
+PL8689,David McCluskey,Player,0,0,23,1987,10,269,RB,Georgia,CIN
+PL8691,James Evans,Player,0,0,24,1987,10,271,RB,Saginaw Valley St.,KAN
+PL8700,Reggie Taylor,Player,0,0,,1987,11,280,RB,Cincinnati,TAM
+PL8708,Chris McLemore,Player,0,0,23,1987,11,288,RB,Arizona,RAI
+PL8717,Darryl Oliver,Player,0,0,23,1987,11,297,RB,Miami (FL),SEA
+PL8725,Tim Jessie,Player,0,0,24,1987,11,305,RB,Auburn,CHI
+PL8726,Tommy Neal,Player,0,0,,1987,11,306,RB,Maryland,DEN
+PL8729,David Adams,Player,0,0,23,1987,12,309,RB,Arizona,IND
+PL8730,Marcus Greenwood,Player,0,0,,1987,12,310,RB,UCLA,SDG
+PL8734,Ira Valentine,Player,0,0,24,1987,12,314,RB,Texas A&M,HOU
+PL8736,Bobby Morse,Player,0,0,21,1987,12,316,RB,Michigan St.,PHI
+PL8740,Larry Emery,Player,0,0,23,1987,12,320,RB,Wisconsin,ATL
+PL8744,Tony Burse,Player,0,0,22,1987,12,324,RB,Middle Tenn. St.,SEA
+PL8746,Alonzo Williams,Player,0,0,24,1987,12,326,RB,Mesa,RAM
+PL8748,John Holifield,Player,0,0,23,1987,12,328,RB,West Virginia,CIN
+PL8749,Chad Stark,Player,0,0,22,1987,12,329,RB,North Dakota St.,NYG
+PL8750,Elgin Davis,Player,0,0,21,1987,12,330,RB,Central Florida,NWE
+PL8756,Bo Jackson,Player,0,1,23,1986,1,1,RB,Auburn,TAM
+PL8765,Keith Byars,Player,0,1,22,1986,1,10,RB,Ohio St.,PHI
+PL8771,Ronnie Harmon,Player,0,1,22,1986,1,16,RB,Iowa,BUF
+PL8781,Reggie Dupard,Player,0,0,22,1986,1,26,RB,SMU,NWE
+PL8782,Neal Anderson,Player,0,4,22,1986,1,27,RB,Florida,CHI
+PL8784,Garry James,Player,0,0,23,1986,2,29,RB,LSU,DET
+PL8786,Dalton Hilliard,Player,0,1,22,1986,2,31,RB,LSU,NOR
+PL8788,Darryl Clack,Player,0,0,22,1986,2,33,RB,Arizona St.,DAL
+PL8792,Anthony Toney,Player,0,0,23,1986,2,37,RB,Texas A&M,PHI
+PL8796,Kenneth Davis,Player,0,0,24,1986,2,41,RB,TCU,GNB
+PL8811,Tom Rathman,Player,0,0,23,1986,3,56,RB,Nebraska,SFO
+PL8812,Rueben Mayes,Player,0,2,23,1986,3,57,RB,Washington St.,NOR
+PL8816,Allen Pinkett,Player,0,0,22,1986,3,61,RB,Notre Dame,HOU
+PL8817,Barry Word,Player,0,0,23,1986,3,62,RB,Virginia,NOR
+PL8858,Vance Mueller,Player,0,0,22,1986,4,103,RB,Occidental,RAI
+PL8863,Napoleon McCallum,Player,0,0,22,1986,4,108,RB,Navy,RAI
+PL8866,Carl Byrum,Player,0,0,23,1986,5,111,RB,Miss. Valley St.,BUF
+PL8874,Oscar Smith,Player,0,0,23,1986,5,119,RB,Nicholls St.,DET
+PL8881,Bobby Joe Edmonds,Player,1,1,21,1986,5,126,RB,Arkansas,SEA
+PL8896,Kent Hagood,Player,0,0,,1986,6,141,RB,South Carolina,KAN
+PL8900,Ray Wallace,Player,0,0,22,1986,6,145,RB,Purdue,HOU
+PL8902,Thomas Rooks,Player,0,0,,1986,6,147,RB,Illinois,MIN
+PL8915,Lynn Williams,Player,0,0,,1986,6,160,RB,Kansas,RAM
+PL8921,Jeff Powell,Player,0,0,23,1986,6,166,RB,Tennessee,CHI
+PL8928,Gill Fenerty,Player,0,0,23,1986,7,173,RB,Holy Cross,NOR
+PL8930,Rodney Carter,Player,0,0,21,1986,7,175,RB,Purdue,PIT
+PL8932,Pat Franklin,Player,0,0,23,1986,7,177,RB,Houston,CIN
+PL8936,Paul Miles,Player,0,0,,1986,7,181,RB,Nebraska,SEA
+PL8939,Jon Francis,Player,0,0,22,1986,7,184,RB,Boise St.,NYG
+PL8941,Rick Badanjek,Player,0,0,24,1986,7,186,RB,Maryland,WAS
+PL8967,Topper Clemons,Player,0,0,22,1986,8,212,RB,Wake Forest,DAL
+PL8995,Tony Cherry,Player,0,0,23,1986,9,240,RB,Oregon,SFO
+PL9000,Nuu Faaola,Player,0,0,22,1986,9,245,RB,Hawaii,NYJ
+PL9007,Tony Baker,Player,0,0,22,1986,10,252,RB,East Carolina,ATL
+PL9009,Vai Sikahema,Player,1,2,24,1986,10,254,RB,BYU,STL
+PL9016,Junior Tautalatasi,Player,0,0,24,1986,10,261,RB,Washington St.,PHI
+PL9031,Cletis Jones,Player,0,0,,1986,10,276,RB,Florida St.,NWE
+PL9048,Chuck Sanders,Player,0,0,22,1986,11,293,RB,Slippery Rock,SDG
+PL9052,Kenny Fells,Player,0,0,,1986,11,297,RB,Henderson St.,WAS
+PL9054,Vince Amoia,Player,0,0,,1986,11,299,RB,Arizona St.,NYJ
+PL9055,Chul Schwanke,Player,0,0,,1986,11,300,RB,South Dakota,RAM
+PL9056,Thomas Dendy,Player,0,0,,1986,11,301,RB,South Carolina,DEN
+PL9065,Chuck Banks,Player,0,0,22,1986,12,310,RB,West Virginia Tech,HOU
+PL9079,Mike Crawford,Player,0,0,22,1986,12,324,RB,Arizona St.,TAM
+PL9080,Bobby Howard,Player,0,0,22,1986,12,325,RB,Indiana,PHI
+PL9082,Marcus Dupree,Player,0,0,22,1986,12,327,RB,Southern Miss,RAM
+PL9084,Rickey Isom,Player,0,0,22,1986,12,329,RB,North Carolina St.,MIA
+PL9107,George Adams,Player,0,0,22,1985,1,19,RB,Kentucky,NYG
+PL9114,Steve Sewell,Player,0,0,22,1985,1,26,RB,Oklahoma,DEN
+PL9115,Lorenzo Hampton,Player,0,0,23,1985,1,27,RB,Florida,MIA
+PL9123,Greg Allen,Player,0,0,22,1985,2,35,RB,Florida St.,CLE
+PL9141,Owen Gill,Player,0,0,23,1985,2,53,RB,Iowa,SEA
+PL9163,Ricky Moore,Player,0,0,22,1985,3,75,RB,Alabama,SFO
+PL9191,Robert Lavette,Player,0,0,21,1985,4,103,RB,Georgia Tech,DAL
+PL9192,Ron Wolfley,Player,0,4,22,1985,4,104,RB,West Virginia,STL
+PL9202,Herschel Walker,Player,0,2,23,1985,5,114,RB,Georgia,DAL
+PL9206,Joe McIntosh,Player,0,0,22,1985,5,118,RB,North Carolina St.,DET
+PL9214,Bruce King,Player,0,0,22,1985,5,126,RB,Purdue,KAN
+PL9223,Dan Reeder,Player,0,0,24,1985,5,135,RB,Delaware,RAI
+PL9225,Johnnie Jones,Player,0,0,,1985,5,137,RB,Tennessee,SEA
+PL9255,Ron Davenport,Player,0,0,22,1985,6,167,RB,Louisville,MIA
+PL9260,Kim Locklin,Player,0,0,,1985,7,172,RB,New Mexico St.,CIN
+PL9269,Gary Ellerson,Player,0,0,22,1985,7,182,RB,Wisconsin,GNB
+PL9272,Lionel Vital,Player,0,0,22,1985,7,185,RB,Nicholls St.,WAS
+PL9276,Danny Bradley,Player,0,0,22,1985,7,189,RB,Oklahoma,RAM
+PL9289,Scott Caldwell,Player,0,0,22,1985,8,202,RB,Texas-Arlington,DET
+PL9294,Curtis Adams,Player,0,0,23,1985,8,207,RB,Central Michigan,SDG
+PL9300,Lee Rouson,Player,0,0,22,1985,8,213,RB,Colorado,NYG
+PL9305,Marlon McIntyre,Player,0,0,,1985,8,218,RB,Pittsburgh,RAM
+PL9314,Jaime Covington,Player,0,0,22,1985,9,227,RB,Syracuse,MIN
+PL9331,Scott Williams,Player,0,0,23,1985,9,244,RB,Georgia,STL
+PL9337,Thomas Sanders,Player,0,0,23,1985,9,250,RB,Texas A&M,CHI
+PL9354,Jeff Smith,Player,0,0,23,1985,10,267,RB,Nebraska,KAN
+PL9358,Dennis Williams,Player,0,0,,1985,10,271,RB,Furman,STL
+PL9375,James Williams,Player,0,0,,1985,11,288,RB,Memphis,TAM
+PL9376,Herman Hunter,Player,0,0,24,1985,11,289,RB,Tennessee St.,PHI
+PL9382,Paul Lewis,Player,0,0,,1985,11,295,RB,Boston Univ.,NWE
+PL9390,Steve Strachan,Player,0,0,22,1985,11,303,RB,Boston Col.,RAI
+PL9394,Mike Jones,Player,0,0,,1985,11,307,RB,Tulane,MIA
+PL9415,Tony Mumford,Player,0,0,22,1985,12,328,RB,Penn St.,NWE
+PL9449,Greg Bell,Player,0,1,22,1984,1,26,RB,Notre Dame,BUF
+PL9484,Herman Heard,Player,0,0,22,1984,3,61,RB,Colorado State-Pueblo,KAN
+PL9488,Stanford Jennings,Player,0,0,22,1984,3,65,RB,Furman,CIN
+PL9490,Alfred Anderson,Player,0,0,23,1984,3,67,RB,Baylor,MIN
+PL9492,Tyrone Anthony,Player,0,0,22,1984,3,69,RB,North Carolina,NOR
+PL9493,Jon Williams,Player,0,0,23,1984,3,70,RB,Penn St.,NWE
+PL9497,Ernest Anderson,Player,0,0,,1984,3,74,RB,Oklahoma St.,DET
+PL9505,Speedy Neal,Player,0,0,22,1984,3,82,RB,Miami (FL),BUF
+PL9507,Joe McCall,Player,0,0,22,1984,3,84,RB,Pittsburgh,RAI
+PL9515,John Farley,Player,0,0,23,1984,4,92,RB,Sacramento St.,CIN
+PL9525,Jimmy Smith,Player,0,0,23,1984,4,102,RB,Elon,WAS
+PL9526,George Wonsley,Player,0,0,23,1984,4,103,RB,Mississippi St.,IND
+PL9529,Dave D'Addio,Player,0,0,23,1984,4,106,RB,Maryland,DET
+PL9530,Michael Gunter,Player,0,0,23,1984,4,107,RB,Tulsa,TAM
+PL9532,Joe Carter,Player,0,0,22,1984,4,109,RB,Alabama,MIA
+PL9539,Andre Hardy,Player,0,0,22,1984,5,116,RB,Weber St.,PHI
+PL9541,Lionel James,Player,0,0,22,1984,5,118,RB,Auburn,SDG
+PL9560,Norm Granger,Player,0,0,22,1984,5,137,RB,Iowa,DAL
+PL9563,Allen Rice,Player,0,0,22,1984,5,140,RB,Baylor,MIN
+PL9570,Dwight Beverly,Player,0,0,22,1984,6,147,RB,Illinois,IND
+PL9572,Tony Paige,Player,0,0,21,1984,6,149,RB,Virginia Tech,NYJ
+PL9593,Willie Joyner,Player,0,0,22,1984,7,170,RB,Maryland,HOU
+PL9595,Joe Hayes,Player,0,0,23,1984,7,172,RB,Central Oklahoma,PHI
+PL9602,Nakita Robertson,Player,0,0,,1984,7,179,RB,Central Arkansas,CHI
+PL9608,Quentin Walker,Player,0,0,23,1984,7,185,RB,Virginia,STL
+PL9633,Clemon Terrell,Player,0,0,,1984,8,210,RB,Southern Miss,NOR
+PL9642,Bob Craighead,Player,0,0,,1984,8,219,RB,La-Monroe,SDG
+PL9644,Ronnie Landry,Player,0,0,,1984,8,221,RB,McNeese St.,MIA
+PL9645,Mike Revell,Player,0,0,,1984,8,222,RB,Bethune-Cookman,DAL
+PL9664,John Walker,Player,0,0,,1984,9,241,RB,Texas,STL
+PL9668,Chris Brewer,Player,0,0,22,1984,9,245,RB,Arizona,DEN
+PL9670,Rich Erenberg,Player,0,0,22,1984,9,247,RB,Colgate,PIT
+PL9671,Derrick Harmon,Player,0,0,21,1984,9,248,RB,Cornell,SFO
+PL9684,Ronny Cone,Player,0,0,,1984,10,261,RB,Georgia Tech,NYJ
+PL9688,Brent Ziegler,Player,0,0,,1984,10,265,RB,Syracuse,CIN
+PL9693,Randall Morris,Player,0,0,23,1984,10,270,RB,Tennessee,SEA
+PL9702,Keith Griffin,Player,0,0,22,1984,10,279,RB,Miami (FL),WAS
+PL9703,Earnest Byner,Player,0,2,21,1984,10,280,RB,East Carolina,CLE
+PL9706,Frank Cephous,Player,0,0,23,1984,11,283,RB,UCLA,NYG
+PL9708,Bobby Johnson,Player,0,0,,1984,11,285,RB,San Jose St.,KAN
+PL9709,Buford McGee,Player,0,0,24,1984,11,286,RB,Mississippi,SDG
+PL9712,Steve McKeaver,Player,0,0,,1984,11,289,RB,Central Oklahoma,CIN
+PL9721,Gene Lang,Player,0,0,22,1984,11,298,RB,LSU,DEN
+PL9724,Dwayne Love,Player,0,0,,1984,11,301,RB,Houston,RAM
+PL9726,Elton Veals,Player,0,0,23,1984,11,303,RB,Tulane,PIT
+PL9744,Mike Jones,Player,0,0,,1984,12,321,RB,North Carolina A&T,MIN
+PL9753,Donald Jordan,Player,0,0,22,1984,12,330,RB,Houston,CHI
+PL9755,Scoop Gillespie,Player,0,0,22,1984,12,332,RB,William Jewell,PIT
+PL9761,Eric Dickerson HOF,Player,5,6,23,1983,1,2,RB,SMU,RAM
+PL9762,Curt Warner,Player,0,3,22,1983,1,3,RB,Penn St.,SEA
+PL9767,Michael Haddix,Player,0,0,21,1983,1,8,RB,Mississippi St.,PHI
+PL9779,Gary Anderson,Player,0,1,22,1983,1,20,RB,Arkansas,SDG
+PL9808,Roger Craig,Player,1,4,23,1983,2,49,RB,Nebraska,SFO
+PL9810,Johnny Hector,Player,0,0,22,1983,2,51,RB,Texas A&M,NYJ
+PL9815,Richard Williams,Player,0,0,23,1983,2,56,RB,Memphis,WAS
+PL9825,Cliff Austin,Player,0,0,23,1983,3,66,RB,Clemson,NOR
+PL9848,Michael Williams,Player,0,0,22,1983,4,89,RB,Mississippi Col.,PHI
+PL9859,Mark Rush,Player,0,0,,1983,4,100,RB,Miami (FL),MIN
+PL9873,Larry Moriarty,Player,0,0,25,1983,5,114,RB,Notre Dame,HOU
+PL9891,Bryan Thomas,Player,0,0,,1983,5,132,RB,Pittsburgh,GNB
+PL9894,Chuck McSwain,Player,0,0,22,1983,5,135,RB,Clemson,DAL
+PL9909,Reginald Gipson,Player,0,0,,1983,6,150,RB,Alabama A&M,SEA
+PL9922,Vincent White,Player,0,0,,1983,6,163,RB,Stanford,NYJ
+PL9924,Larry Kinnebrew,Player,0,0,24,1983,6,165,RB,Tennessee St.,CIN
+PL9928,Alvin Moore,Player,0,0,24,1983,7,169,RB,Arizona St.,BAL
+PL9932,Ken Thomas,Player,0,0,23,1983,7,173,RB,San Jose St.,KAN
+PL9933,Anthony Edgar,Player,0,0,,1983,7,174,RB,Hawaii,PHI
+PL9938,Daryl Posey,Player,0,0,,1983,7,179,RB,Mississippi Col.,KAN
+PL9944,Weldon Ledbetter,Player,0,0,,1983,7,185,RB,Oklahoma,TAM
+PL9946,Craig James,Player,0,1,22,1983,7,187,RB,SMU,NWE
+PL9947,Jessie Clark,Player,0,0,23,1983,7,188,RB,Louisiana Tech,GNB
+PL9953,Jeff McCall,Player,0,0,,1983,7,194,RB,Clemson,RAI
+PL9955,Kelvin Bryant,Player,0,0,22,1983,7,196,RB,North Carolina,WAS
+PL9958,Henry Odom,Player,0,0,24,1983,8,199,RB,South Carolina St.,PIT
+PL9961,Earnest Jackson,Player,0,2,23,1983,8,202,RB,Texas A&M,SDG
+PL9979,Lawrence Ricks,Player,0,0,22,1983,8,220,RB,Michigan,DAL
+PL9981,Mike Dotterer,Player,0,0,,1983,8,222,RB,Stanford,RAI
+PL9992,Ricky Williams,Player,0,0,23,1983,9,233,RB,Langston,NWE
+PL9993,George Parker,Player,0,0,,1983,9,234,RB,Norfolk St.,BUF
+PL10001,Otis Brown,Player,0,0,,1983,9,242,RB,Jackson St.,STL
+PL10007,Stanley Wilson,Player,0,0,22,1983,9,248,RB,Oklahoma,CIN
+PL10009,Marcus Gilbert,Player,0,0,,1983,9,251,RB,TCU,WAS
+PL10014,Anthony Hutchison,Player,0,0,22,1983,10,256,RB,Texas Tech,CHI
+PL10036,Anthony Reed,Player,0,0,,1983,10,278,RB,South Carolina St.,MIA
+PL10044,Gary Worthy,Player,0,0,,1983,11,286,RB,Wilmington,CHI
+PL10045,Ben Tate,Player,0,0,,1983,11,287,RB,North Carolina Central,DET
+PL10046,Boyce Green,Player,0,0,23,1983,11,288,RB,Carson-Newman,CLE
+PL10065,Tim Spencer,Player,0,0,22,1983,11,307,RB,Ohio St.,SDG
+PL10077,Waddell Kelly,Player,0,0,,1983,12,319,RB,Arkansas St.,NWE
+PL10083,Maurice Turner,Player,0,0,22,1983,12,325,RB,Utah St.,MIN
+PL10088,Roger Wiley,Player,0,0,,1983,12,330,RB,Sam Houston St.,PIT
+PL10089,Lorenzo Bouier,Player,0,0,,1983,12,331,RB,Maine,DAL
+PL10093,John Tuggle,Player,0,0,22,1983,12,335,RB,California,NYG
+PL10100,Darrin Nelson,Player,0,0,23,1982,1,7,RB,Stanford,MIN
+PL10102,Gerald Riggs,Player,0,3,21,1982,1,9,RB,Arizona St.,ATL
+PL10103,Marcus Allen HOF,Player,2,6,22,1982,1,10,RB,USC,RAI
+PL10105,Walter Abercrombie,Player,0,0,22,1982,1,12,RB,Baylor,PIT
+PL10107,Barry Redden,Player,0,0,22,1982,1,14,RB,Richmond,RAM
+PL10111,Butch Woolfolk,Player,0,0,22,1982,1,18,RB,Michigan,NYG
+PL10114,Gerald Willhite,Player,0,0,23,1982,1,21,RB,San Jose St.,DEN
+PL10133,Robert Weathers,Player,0,0,21,1982,2,40,RB,Arizona St.,NWE
+PL10138,Joe Morris,Player,1,2,21,1982,2,45,RB,Syracuse,NYG
+PL10164,Del Rodgers,Player,0,0,22,1982,3,71,RB,Utah,GNB
+PL10165,Stan Edwards,Player,0,0,22,1982,3,72,RB,Michigan,HOU
+PL10172,Dwayne Crutchfield,Player,0,0,22,1982,3,79,RB,Iowa St.,NYJ
+PL10180,Dwight Walker,Player,0,0,23,1982,4,87,RB,Nicholls St.,CLE
+PL10186,Van Williams,Player,0,0,23,1982,4,93,RB,Carson-Newman,BUF
+PL10188,Reggie Brown,Player,0,0,22,1982,4,95,RB,Oregon,ATL
+PL10196,Dave Barrett,Player,0,0,22,1982,4,103,RB,Houston,TAM
+PL10203,Rodney Tate,Player,0,0,23,1982,4,110,RB,Texas,CIN
+PL10218,Earl Ferrell,Player,0,0,24,1982,5,125,RB,East Tennessee St.,STL
+PL10219,Mike Meade,Player,0,0,22,1982,5,126,RB,Penn St.,GNB
+PL10223,Del Thompson,Player,0,0,24,1982,5,130,RB,Texas-El Paso,KAN
+PL10224,Sammy Winder,Player,0,2,23,1982,5,131,RB,Southern Miss,DEN
+PL10229,Rich Diana,Player,0,0,22,1982,5,136,RB,Yale,MIA
+PL10232,Newton Williams,Player,0,0,23,1982,5,139,RB,Arizona St.,SFO
+PL10235,Marvin Lewis,Player,0,0,22,1982,6,142,RB,Tulane,NOR
+PL10241,Gary Allen,Player,0,0,22,1982,6,148,RB,Hawaii,HOU
+PL10244,Vince Williams,Player,0,0,22,1982,6,151,RB,Oregon,SFO
+PL10268,Phil Bates,Player,0,0,,1982,7,175,RB,Nebraska,DET
+PL10269,David Toloumu,Player,0,0,,1982,7,176,RB,Hawaii,ATL
+PL10285,Larry Cowan,Player,0,0,22,1982,7,192,RB,Jackson St.,MIA
+PL10295,A.J. Jones,Player,0,0,23,1982,8,202,RB,Texas,RAM
+PL10309,George Peoples,Player,0,0,22,1982,8,216,RB,Auburn,DAL
+PL10312,Lawrence Texada,Player,0,0,,1982,8,219,RB,Henderson St.,NYJ
+PL10314,Dwight Sullivan,Player,0,0,,1982,8,221,RB,North Carolina St.,DAL
+PL10341,Mack Boatner,Player,0,0,23,1982,9,248,RB,SE Louisiana,MIA
+PL10347,Ricky Floyd,Player,0,0,,1982,10,255,RB,Southern Miss,CLE
+PL10396,Mike Whiting,Player,0,0,,1982,11,304,RB,Florida St.,DAL
+PL10397,Russell Davis,Player,0,0,,1982,11,305,RB,Idaho,CIN
+PL10399,Johnnie Wright,Player,0,0,23,1982,12,307,RB,South Carolina,BAL
+PL10400,Greg Taylor,Player,0,0,23,1982,12,308,RB,Virginia,NWE
+PL10406,Donnie Craft,Player,0,0,22,1982,12,314,RB,Louisville,HOU
+PL10410,Hobson Milner,Player,0,0,,1982,12,318,RB,Cincinnati,MIN
+PL10411,Ricky Porter,Player,0,0,22,1982,12,319,RB,Slippery Rock,DET
+PL10417,Michael Morton,Player,0,0,22,1982,12,325,RB,UNLV,TAM
+PL10427,George Rogers,Player,1,2,22,1981,1,1,RB,South Carolina,NOR
+PL10429,Freeman McNeil,Player,1,3,22,1981,1,3,RB,UCLA,NYJ
+PL10438,Randy McMillan,Player,0,0,22,1981,1,12,RB,Pittsburgh,BAL
+PL10439,David Overstreet,Player,0,0,22,1981,1,13,RB,Oklahoma,MIA
+PL10450,James Brooks,Player,0,4,22,1981,1,24,RB,Auburn,SDG
+PL10454,Booker Moore,Player,0,0,22,1981,1,28,RB,Penn St.,BUF
+PL10456,Marion Barber,Player,0,0,21,1981,2,30,RB,Minnesota,NYJ
+PL10457,David Hughes,Player,0,0,22,1981,2,31,RB,Boise St.,SEA
+PL10460,James Wilder,Player,0,1,23,1981,2,34,RB,Missouri,TAM
+PL10467,Joe Delaney,Player,0,1,22,1981,2,41,RB,NW State (LA),KAN
+PL10473,Tony Collins,Player,0,1,22,1981,2,47,RB,East Carolina,NWE
+PL10478,Jarvis Redwine,Player,0,0,24,1981,2,52,RB,Nebraska,MIN
+PL10482,Andra Franklin,Player,0,1,22,1981,2,56,RB,Nebraska,MIA
+PL10511,Cliff Chatman,Player,0,0,22,1981,4,85,RB,Central Oklahoma,NYG
+PL10529,Amos Lawrence,Player,0,0,23,1981,4,103,RB,North Carolina,SDG
+PL10536,Calvin Murray,Player,0,0,22,1981,4,110,RB,Ohio St.,PHI
+PL10548,Arrington Jones,Player,0,0,21,1981,5,122,RB,Winston-Salem St.,SFO
+PL10564,Tommy Vigorito,Player,0,0,21,1981,5,138,RB,Virginia,MIA
+PL10577,Alvin Lewis,Player,0,0,,1981,6,151,RB,Colorado St.,DEN
+PL10591,Edward O'Neal,Player,0,0,,1981,6,165,RB,Tuskegee,NYG
+PL10594,Louis Jackson,Player,0,0,23,1981,7,168,RB,Cal Poly-San Luis Obispo,NYG
+PL10606,Billy Jackson,Player,0,0,21,1981,7,180,RB,Alabama,KAN
+PL10610,Don Shaver,Player,0,0,,1981,7,184,RB,Kutztown Pennsylvania,MIN
+PL10622,Eric Lane,Player,0,0,22,1981,8,196,RB,BYU,SEA
+PL10629,Garry White,Player,0,0,,1981,8,203,RB,Minnesota,SFO
+PL10648,Toussaint Tyler,Player,0,0,22,1981,9,222,RB,Washington,NOR
+PL10649,Jim Stone,Player,0,0,,1981,9,223,RB,Notre Dame,SEA
+PL10652,Stump Mitchell,Player,0,0,22,1981,9,226,RB,The Citadel,STL
+PL10656,Samoa Samoa,Player,0,0,,1981,9,230,RB,Washington St.,CIN
+PL10667,Robb Riddick,Player,0,0,24,1981,9,241,RB,Millersville,BUF
+PL10671,Calvin Fance,Player,0,0,,1981,9,245,RB,Rice,ATL
+PL10675,Hokie Gajan,Player,0,0,22,1981,10,249,RB,LSU,NOR
+PL10678,Ken Dawson,Player,0,0,,1981,10,252,RB,Savannah St.,SEA
+PL10684,Hubert Simpson,Player,0,0,,1981,10,258,RB,Tennessee,CIN
+PL10694,Robert Parham,Player,0,0,,1981,10,268,RB,Grambling St.,SDG
+PL10695,Robert Alexander,Player,0,0,23,1981,10,269,RB,West Virginia,RAM
+PL10696,Larry Jones,Player,0,0,,1981,10,270,RB,Colorado St.,HOU
+PL10701,Hubie Oliver,Player,0,0,23,1981,10,275,RB,Arizona,PHI
+PL10702,Frank Hawkins,Player,0,0,22,1981,10,276,RB,Nevada,OAK
+PL10705,Lance Olander,Player,0,0,,1981,11,279,RB,Colorado,SEA
+PL10713,Lonnie Johnson,Player,0,0,,1981,11,287,RB,Indiana,CHI
+PL10730,Chester Willis,Player,0,0,23,1981,11,304,RB,Auburn,OAK
+PL10739,Major Ogilvie,Player,0,0,,1981,12,313,RB,Alabama,SFO
+PL10747,Mandel Robinson,Player,0,0,,1981,12,321,RB,Wyoming,DEN
+PL10754,Jairo Penaranda,Player,0,0,23,1981,12,328,RB,UCLA,RAM
+PL10759,Billy Sims,Player,0,3,24,1980,1,1,RB,Oklahoma,DET
+PL10763,Curtis Dickey,Player,0,0,23,1980,1,5,RB,Texas A&M,BAL
+PL10771,Earl Cooper,Player,0,0,22,1980,1,13,RB,Rice,SFO
+PL10783,Vagas Ferguson,Player,0,0,23,1980,1,25,RB,Notre Dame,NWE
+PL10785,Charles White,Player,1,1,22,1980,1,27,RB,USC,CLE
+PL10787,Joe Cribbs,Player,0,3,22,1980,2,29,RB,Auburn,BUF
+PL10804,Matt Suhey,Player,0,0,22,1980,2,46,RB,Penn St.,CHI
+PL10811,Perry Harrington,Player,0,0,22,1980,2,53,RB,Jackson St.,PHI
+PL10816,Jewerl Thomas,Player,0,0,22,1980,3,58,RB,San Jose St.,RAM
+PL10824,James Hadnot,Player,0,0,23,1980,3,66,RB,Texas Tech,KAN
+PL10838,James Jones,Player,0,0,21,1980,3,80,RB,Mississippi St.,DAL
+PL10862,I.M. Hipp,Player,0,0,24,1980,4,104,RB,Nebraska,ATL
+PL10865,Rick Parros,Player,0,0,22,1980,4,107,RB,Utah St.,DEN
+PL10879,Doug Paschal,Player,0,0,22,1980,5,121,RB,North Carolina,MIN
+PL10880,Paul Jones,Player,0,0,,1980,5,122,RB,California,MIN
+PL10883,Kenny Lewis,Player,0,0,22,1980,5,125,RB,Virginia Tech,OAK
+PL10885,Joe Steele,Player,0,0,,1980,5,127,RB,Washington,SEA
+PL10893,Nate Rivers,Player,0,0,25,1980,5,135,RB,South Carolina St.,PHI
+PL10909,LaRue Harrington,Player,0,0,23,1980,6,151,RB,Norfolk St.,SDG
+PL10912,Mike Guman,Player,0,0,22,1980,6,154,RB,Penn St.,RAM
+PL10920,Timmy Newsome,Player,0,0,22,1980,6,162,RB,Winston-Salem St.,DAL
+PL10922,Larry Heater,Player,0,0,22,1980,6,164,RB,Arizona,KAN
+PL10935,Mike Morucci,Player,0,0,,1980,7,177,RB,Bloomsburg,NOR
+PL10936,Bobby Batton,Player,0,0,23,1980,7,178,RB,UNLV,NYJ
+PL10947,Lester Brown,Player,0,0,,1980,7,189,RB,Clemson,DAL
+PL10948,Bennie Leverett,Player,0,0,,1980,7,190,RB,Bethune-Cookman,NYJ
+PL10950,Gerry Ellis,Player,0,0,22,1980,7,192,RB,Missouri,RAM
+PL10954,Mark Lyles,Player,0,0,,1980,8,196,RB,Florida St.,CIN
+PL10958,Ken Harris,Player,0,0,,1980,8,200,RB,Alabama,NYG
+PL10977,Curtis Sirmones,Player,0,0,,1980,8,219,RB,North Alabama,SDG
+PL10985,Mark Bright,Player,0,0,,1980,9,227,RB,Temple,BAL
+PL10987,Otis Wonsley,Player,0,0,23,1980,9,229,RB,Alcorn St.,NYG
+PL10990,Dennis Mosley,Player,0,0,,1980,9,232,RB,Iowa,MIN
+PL10991,Frank Mordica,Player,0,0,,1980,9,233,RB,Vanderbilt,NOR
+PL10994,Roy De Walt,Player,0,0,,1980,9,236,RB,Texas-Arlington,CLE
+PL11002,Ed Harris,Player,0,0,,1980,9,244,RB,Bishop,HOU
+PL11005,Steve Whitman,Player,0,0,,1980,9,247,RB,Alabama,SDG
+PL11026,Lewis Walker,Player,0,0,,1980,10,268,RB,Utah,WAS
+PL11033,Brett Davis,Player,0,0,,1980,10,275,RB,UNLV,TAM
+PL11046,Sam Harrell,Player,0,0,23,1980,11,288,RB,East Carolina,MIN
+PL11047,George Woodard,Player,0,0,,1980,11,289,RB,Texas A&M,NOR
+PL11050,Tali Ena,Player,0,0,,1980,11,292,RB,Washington St.,SEA
+PL11052,Roland Sales,Player,0,0,,1980,11,294,RB,Arkansas,CLE
+PL11063,Frank Pollard,Player,0,0,23,1980,11,305,RB,Baylor,PIT
+PL11065,Ray Williams,Player,0,0,21,1980,12,307,RB,Washington St.,DET
+PL11071,Quinn Jones,Player,0,0,,1980,12,313,RB,Tulsa,ATL
+PL11099,Ottis Anderson,Player,1,2,22,1979,1,8,RB,Miami (FL),STL
+PL11103,Charles Alexander,Player,0,0,22,1979,1,12,RB,LSU,CIN
+PL11106,Eddie Lee Ivery,Player,0,0,22,1979,1,15,RB,Georgia Tech,GNB
+PL11107,Ted Brown,Player,0,0,22,1979,1,16,RB,North Carolina St.,MIN
+PL11119,Greg Hawthorne,Player,0,0,23,1979,1,28,RB,Baylor,PIT
+PL11120,James Owens,Player,0,0,24,1979,2,29,RB,UCLA,SFO
+PL11126,Theotis Brown,Player,0,0,22,1979,2,35,RB,UCLA,STL
+PL11135,Steve Atkins,Player,0,0,23,1979,2,44,RB,Maryland,GNB
+PL11145,Eddie Hill,Player,0,0,22,1979,2,54,RB,Memphis,RAM
+PL11151,Jerry Eckwood,Player,0,0,24,1979,3,60,RB,Arkansas,TAM
+PL11152,Tony Nathan,Player,1,0,22,1979,3,61,RB,Alabama,MIA
+PL11157,Willie McClendon,Player,0,0,21,1979,3,66,RB,Georgia,CHI
+PL11158,Bo Robinson,Player,0,0,23,1979,3,67,RB,West Texas A&M,DET
+PL11163,Kenny King,Player,0,1,22,1979,3,72,RB,Oklahoma,HOU
+PL11166,James Mayberry,Player,0,0,21,1979,3,75,RB,Colorado,ATL
+PL11170,William Andrews,Player,0,4,23,1979,3,79,RB,Auburn,ATL
+PL11171,Rick Berns,Player,0,0,23,1979,3,80,RB,Nebraska,TAM
+PL11177,Russell Davis,Player,0,0,22,1979,4,86,RB,Michigan,PIT
+PL11185,Ben Cowins,Player,0,0,,1979,4,94,RB,Arkansas,PHI
+PL11191,Lynn Cain,Player,0,0,23,1979,4,100,RB,USC,ATL
+PL11203,Earl Gant,Player,0,0,22,1979,5,112,RB,Missouri,KAN
+PL11210,Jerry Aldridge,Player,0,0,23,1979,5,119,RB,Angelo State (TX),SFO
+PL11211,Harlan Huckleby,Player,0,0,21,1979,5,120,RB,Michigan,NOR
+PL11227,Ron Springs,Player,0,0,22,1979,5,136,RB,Ohio St.,DAL
+PL11233,Ira Matthews,Player,0,0,22,1979,6,142,RB,Wisconsin,OAK
+PL11235,Thomas Lott,Player,0,0,22,1979,6,144,RB,Oklahoma,STL
+PL11236,Bob Torrey,Player,0,0,22,1979,6,145,RB,Penn St.,NYG
+PL11249,Eddie Hicks,Player,0,0,24,1979,6,158,RB,East Carolina,NYG
+PL11257,Phil Francis,Player,0,0,22,1979,7,166,RB,Stanford,SFO
+PL11270,Emmett King,Player,0,0,,1979,7,179,RB,Houston,NYJ
+PL11300,Robert Hawkins,Player,0,0,,1979,8,209,RB,Kentucky,OAK
+PL11301,Wilbert Haslip,Player,0,0,22,1979,8,210,RB,Hawaii,SDG
+PL11307,Randy Love,Player,0,0,22,1979,8,216,RB,Houston,NWE
+PL11321,Jerome Heavens,Player,0,0,,1979,9,230,RB,Notre Dame,CHI
+PL11323,Gordy Sprattler,Player,0,0,,1979,9,232,RB,North Dakota St.,NYJ
+PL11331,Ezra Tate,Player,0,0,,1979,9,240,RB,Mississippi Col.,SEA
+PL11334,Rich Ellender,Player,0,0,22,1979,9,243,RB,McNeese St.,HOU
+PL11341,Nathan Poole,Player,0,0,22,1979,10,250,RB,Louisville,CIN
+PL11362,Allan Clark,Player,0,0,22,1979,10,271,RB,Northern Arizona,NWE
+PL11375,Ken Johnson,Player,0,0,22,1979,11,284,RB,Miami (FL),NYG
+PL11387,Zachary Dixon,Player,0,0,23,1979,11,297,RB,Temple,DEN
+PL11395,Michael Forrest,Player,0,0,,1979,12,305,RB,Arkansas,KAN
+PL11398,Mike Harris,Player,0,0,,1979,12,308,RB,Arizona St.,BUF
+PL11401,Kelsey Finch,Player,0,0,,1979,12,311,RB,Tennessee,NOR
+PL11409,Jeff Moore,Player,0,0,23,1979,12,319,RB,Jackson St.,SEA
+PL11414,Wayne Wilson,Player,0,0,22,1979,12,324,RB,Shepherd,HOU
+PL11420,Earl Campbell HOF,Player,3,5,23,1978,1,1,RB,Texas,HOU
+PL11424,Terry Miller,Player,0,0,22,1978,1,5,RB,Oklahoma St.,BUF
+PL11439,Elvis Peacock,Player,0,0,21,1978,1,20,RB,Oklahoma,RAM
+PL11449,Johnny Davis,Player,0,0,22,1978,2,30,RB,Alabama,TAM
+PL11464,Deacon Turner,Player,0,0,23,1978,2,45,RB,San Diego St.,CIN
+PL11476,Derrick Jensen,Player,0,0,22,1978,3,57,RB,Texas-Arlington,OAK
+PL11478,Dennis Johnson,Player,0,0,22,1978,3,59,RB,Mississippi St.,BUF
+PL11486,Larry Collins,Player,0,0,23,1978,3,67,RB,Texas A&M-Kingsville,CLE
+PL11490,Rickey Anderson,Player,0,0,25,1978,3,71,RB,South Carolina St.,SDG
+PL11507,Dodie Donnell,Player,0,0,,1978,4,88,RB,Nebraska,NYJ
+PL11509,Billy Taylor,Player,0,0,22,1978,4,90,RB,Texas Tech,NYG
+PL11529,Alois Blackwell,Player,0,0,23,1978,4,110,RB,Houston,DAL
+PL11543,Earl Carr,Player,0,0,23,1978,5,124,RB,Florida,STL
+PL11547,Willie Wilder,Player,0,0,,1978,5,128,RB,Florida,GNB
+PL11549,Norris Banks,Player,0,0,,1978,5,130,RB,Kansas,PHI
+PL11558,John Skibinski,Player,0,0,23,1978,6,139,RB,Purdue,CHI
+PL11567,Elliott Walker,Player,0,0,21,1978,6,148,RB,Pittsburgh,SFO
+PL11574,Steve Geise,Player,0,0,,1978,6,155,RB,Penn St.,CIN
+PL11578,Tony Green,Player,0,1,21,1978,6,159,RB,Florida,WAS
+PL11580,Ben Garry,Player,0,0,22,1978,6,161,RB,Southern Miss,BAL
+PL11589,Jim Earley,Player,0,0,22,1978,7,170,RB,Michigan St.,NYJ
+PL11593,Dan Doornink,Player,0,0,22,1978,7,174,RB,Washington St.,NYG
+PL11595,Arthur Whittington,Player,0,0,23,1978,7,176,RB,SMU,OAK
+PL11596,Bruce Gibson,Player,0,0,,1978,7,177,RB,Pacific,DET
+PL11602,Steve Powell,Player,0,0,22,1978,7,183,RB,Truman St.,BUF
+PL11610,Jeff Logan,Player,0,0,,1978,7,191,RB,Ohio St.,BAL
+PL11614,John Henry White,Player,0,0,,1978,8,195,RB,Louisiana Tech,KAN
+PL11627,Rick Moser,Player,0,0,21,1978,8,208,RB,Rhode Island,PIT
+PL11634,Mosi Tatupu,Player,0,1,23,1978,8,215,RB,USC,NWE
+PL11637,Monte Anthony,Player,0,0,,1978,8,218,RB,Nebraska,BAL
+PL11674,Larry Key,Player,0,0,,1978,10,256,RB,Florida St.,GNB
+PL11675,Ricky Patton,Player,0,0,24,1978,10,257,RB,Jackson St.,ATL
+PL11681,Ray Strong,Player,0,0,22,1978,10,263,RB,UNLV,ATL
+PL11690,Hughie Shaw,Player,0,0,,1978,10,272,RB,Texas A&M-Kingsville,MIN
+PL11703,Dave Riley,Player,0,0,,1978,11,285,RB,West Virginia,NOR
+PL11706,Billy Campfield,Player,0,0,22,1978,11,288,RB,Kansas,PHI
+PL11710,Calvin Prince,Player,0,0,,1978,11,292,RB,Louisville,CIN
+PL11717,Ron Harris,Player,0,0,,1978,11,299,RB,Colorado St.,MIN
+PL11725,Kevin McLee,Player,0,0,,1978,12,307,RB,Georgia,TAM
+PL11726,Richard Crump,Player,0,0,,1978,12,308,RB,NE State (OK),BUF
+PL11731,Greg Lawson,Player,0,0,,1978,12,313,RB,West. Illinois,NYG
+PL11734,Jeff Bergeron,Player,0,0,,1978,12,316,RB,Lamar,SEA
+PL11749,Mike Moore,Player,0,0,,1978,12,331,RB,Middle Tenn. St.,MIA
+PL11753,Ricky Bell,Player,0,0,22,1977,1,1,RB,USC,TAM
+PL11754,Tony Dorsett HOF,Player,1,4,23,1977,1,2,RB,Pittsburgh,DAL
+PL11789,Tony Reed,Player,0,0,22,1977,2,37,RB,Colorado,KAN
+PL11796,Horace Ivory,Player,0,0,23,1977,2,44,RB,Oklahoma,NWE
+PL11797,Rob Lytle,Player,0,0,22,1977,2,45,RB,Michigan,DEN
+PL11799,George Franklin,Player,0,0,23,1977,2,47,RB,Texas A&M-Kingsville,STL
+PL11800,Sidney Thornton,Player,0,0,23,1977,2,48,RB,NW State (LA),PIT
+PL11801,Pete Johnson,Player,0,1,23,1977,2,49,RB,Ohio St.,CIN
+PL11809,Ted McKnight,Player,0,0,23,1977,2,57,RB,Minnesota-Duluth,OAK
+PL11811,Curtis Brown,Player,0,0,22,1977,3,59,RB,Missouri,BUF
+PL11821,Rick Kane,Player,0,0,22,1977,3,69,RB,San Jose St.,DET
+PL11828,Mike Voight,Player,0,0,23,1977,3,76,RB,North Carolina,CIN
+PL11831,Wendell Tyler,Player,0,1,22,1977,3,79,RB,UCLA,RAM
+PL11832,Terdell Middleton,Player,0,1,22,1977,3,80,RB,Memphis,STL
+PL11836,Rob Carpenter,Player,0,0,22,1977,3,84,RB,Miami (OH),HOU
+PL11842,Scott Dierking,Player,0,0,22,1977,4,90,RB,Purdue,NYJ
+PL11844,Mark Bailey,Player,0,0,22,1977,4,92,RB,Long Beach St.,KAN
+PL11851,Laverne Smith,Player,0,0,22,1977,4,99,RB,Kansas,PIT
+PL11874,Nate Simpson,Player,0,0,22,1977,5,122,RB,Tennessee St.,GNB
+PL11875,Leroy Harris,Player,0,0,23,1977,5,123,RB,Arkansas St.,MIA
+PL11876,Clarence Williams,Player,0,0,22,1977,5,124,RB,South Carolina,SDG
+PL11894,Tony Benjamin,Player,0,0,21,1977,6,142,RB,Duke,SEA
+PL11903,Larry Barnes,Player,0,0,23,1977,6,151,RB,Tennessee St.,SDG
+PL11906,Wilbert Montgomery,Player,0,2,22,1977,6,154,RB,Abilene Christian,PHI
+PL11908,Art Best,Player,0,0,24,1977,6,156,RB,Kent St.,RAM
+PL11919,Andre Herrera,Player,0,0,,1977,6,167,RB,Southern Illinois,KAN
+PL11920,Charlie White,Player,0,0,24,1977,7,168,RB,Bethune-Cookman,NYJ
+PL11921,David Sims,Player,0,0,21,1977,7,169,RB,Georgia Tech,SEA
+PL11926,Greg Boykin,Player,0,0,23,1977,7,174,RB,Northwestern,NOR
+PL11935,Jim Van Wagner,Player,0,0,22,1977,7,183,RB,Michigan Tech,SFO
+PL11947,Kevin Long,Player,0,0,22,1977,7,195,RB,South Carolina,NYJ
+PL11954,Cleveland Franklin,Player,0,0,22,1977,8,202,RB,Baylor,PHI
+PL11964,Calvin Culliver,Player,0,0,,1977,8,212,RB,Alabama,DEN
+PL11973,Fred Williams,Player,0,0,,1977,8,221,RB,Arizona St.,DAL
+PL11975,Terry Robiskie,Player,0,0,22,1977,8,223,RB,LSU,OAK
+PL11989,Robert Turner,Player,0,0,23,1977,9,237,RB,Oklahoma St.,MIA
+PL11997,Mike Northington,Player,0,0,,1977,9,246,RB,Purdue,WAS
+PL11998,Glen Capriola,Player,0,0,,1977,9,247,RB,Boston Col.,BAL
+PL12003,Robert Morgan,Player,0,0,,1977,10,252,RB,Florida,TAM
+PL12011,Jim Culbreath,Player,0,0,24,1977,10,260,RB,Oklahoma,GNB
+PL12024,James Sykes,Player,0,0,,1977,10,273,RB,Rice,WAS
+PL12033,Nate Jackson,Player,0,0,,1977,11,282,RB,Tennessee St.,BUF
+PL12038,Dave Farmer,Player,0,0,23,1977,11,287,RB,USC,ATL
+PL12062,Elmo Simmons,Player,0,0,,1977,12,311,RB,Texas-Arlington,NYG
+PL12063,Phil Gargis,Player,0,0,,1977,12,312,RB,Auburn,NYJ
+PL12082,Bill Deutsch,Player,0,0,,1977,12,331,RB,North Dakota,BAL
+PL12084,Dave Preston,Player,0,0,22,1977,12,333,RB,Bowling Green,NWE
+PL12086,Jim Kelleher,Player,0,0,,1977,12,335,RB,Colorado,MIN
+PL12089,Chuck Muncie,Player,0,3,23,1976,1,3,RB,California,NOR
+PL12090,Joe Washington,Player,0,1,22,1976,1,4,RB,Oklahoma,SDG
+PL12093,Mike Pruitt,Player,0,2,22,1976,1,7,RB,Purdue,CLE
+PL12095,Bubba Bean,Player,0,0,22,1976,1,9,RB,Texas A&M,ATL
+PL12102,Lawrence Gaines,Player,0,0,22,1976,1,16,RB,Wyoming,DET
+PL12110,Archie Griffin,Player,0,0,22,1976,1,24,RB,Ohio St.,CIN
+PL12116,Jimmy DuBose,Player,0,0,21,1976,2,30,RB,Florida,TAM
+PL12118,Tony Galbreath,Player,0,0,22,1976,2,32,RB,Missouri,NOR
+PL12121,Ike Forte,Player,0,0,22,1976,2,35,RB,Arkansas,NWE
+PL12122,Sonny Collins,Player,0,0,23,1976,2,36,RB,Kentucky,ATL
+PL12126,Jim Jensen,Player,0,0,22,1976,2,40,RB,Iowa,DAL
+PL12144,Sherman Smith,Player,0,0,21,1976,2,58,RB,Miami (OH),SEA
+PL12161,John Smith,Player,0,0,,1976,3,75,RB,Boise St.,DAL
+PL12176,Ron Lee,Player,0,0,22,1976,3,90,RB,West Virginia,BAL
+PL12190,Gordon Bell,Player,0,0,22,1976,4,104,RB,Michigan,NYG
+PL12192,Tony Davis,Player,0,0,23,1976,4,106,RB,Nebraska,CIN
+PL12209,Andy Bolton,Player,0,0,22,1976,4,123,RB,Fisk,SEA
+PL12224,Willie Shelby,Player,0,0,23,1976,5,138,RB,Alabama,CIN
+PL12225,Lonnie Perrin,Player,0,0,24,1976,5,139,RB,Illinois,DEN
+PL12227,Wayne Morris,Player,0,0,22,1976,5,141,RB,SMU,STL
+PL12236,Keith Barnette,Player,0,0,,1976,5,150,RB,Boston Col.,MIN
+PL12242,Larry Bates,Player,0,0,,1976,5,156,RB,Miami (FL),SEA
+PL12260,Gary Davis,Player,0,0,22,1976,6,174,RB,Cal Poly-San Luis Obispo,MIA
+PL12261,Darnell Powell,Player,0,0,22,1976,6,175,RB,Tenn-Chattanooga,BUF
+PL12268,Jack Deloplaine,Player,0,0,22,1976,6,182,RB,Salem,PIT
+PL12282,Rod Wellington,Player,0,0,,1976,7,196,RB,Iowa,KAN
+PL12285,James Richards,Player,0,0,,1976,7,199,RB,Florida,NYJ
+PL12289,Phil Rogers,Player,0,0,,1976,7,203,RB,Virginia Tech,STL
+PL12294,Dave Williams,Player,0,0,22,1976,7,208,RB,Colorado,DAL
+PL12300,Louie Giammona,Player,0,0,23,1976,8,214,RB,Utah St.,NYJ
+PL12310,James Betterson,Player,0,0,22,1976,8,224,RB,North Carolina,DEN
+PL12312,Bobby Joe Easter,Player,0,0,,1976,8,226,RB,Middle Tenn. St.,BUF
+PL12317,Terry Kunz,Player,0,0,23,1976,8,231,RB,Colorado,OAK
+PL12321,Stu Betts,Player,0,0,,1976,8,235,RB,Northern Michigan,NWE
+PL12328,James Reed,Player,0,0,,1976,9,242,RB,Mississippi,CLE
+PL12333,Mike Hogan,Player,0,0,21,1976,9,247,RB,Tenn-Chattanooga,PHI
+PL12337,Glynn Harrison,Player,0,0,22,1976,9,251,RB,Georgia,SDG
+PL12359,Herb Lusk,Player,0,0,23,1976,10,273,RB,Long Beach St.,PHI
+PL12362,John Thomas,Player,0,0,,1976,10,276,RB,Valley City,NYG
+PL12368,Don Testerman,Player,0,0,23,1976,10,282,RB,Clemson,MIA
+PL12371,Randy Walker,Player,0,0,,1976,10,285,RB,Bethune-Cookman,STL
+PL12391,Paul Hofer,Player,0,0,24,1976,11,305,RB,Mississippi,SFO
+PL12397,Skip Walker,Player,0,0,,1976,11,311,RB,Texas A&M,HOU
+PL12398,Dexter Pride,Player,0,0,,1976,11,312,RB,Minnesota,MIA
+PL12399,Rick Jennings,Player,0,0,23,1976,11,313,RB,Maryland,OAK
+PL12404,Steve Kracher,Player,0,0,,1976,11,318,RB,Montana St.,MIN
+PL12405,Rolland Fuchs,Player,0,0,,1976,11,319,RB,Arkansas,PIT
+PL12407,George Ragsdale,Player,0,0,23,1976,12,321,RB,North Carolina A&T,TAM
+PL12416,John O'Leary,Player,0,0,,1976,12,330,RB,Nebraska,CHI
+PL12422,Joe Lowery,Player,0,0,,1976,12,336,RB,Jackson St.,BUF
+PL12430,Jim Jodat,Player,0,0,22,1976,12,344,RB,Carthage,RAM
+PL12435,Andy Reid,Player,0,0,22,1976,13,349,RB,Georgia,SEA
+PL12443,Dale Kasowski,Player,0,0,,1976,13,357,RB,North Dakota,CHI
+PL12447,Donnie McGraw,Player,0,0,,1976,13,362,RB,Houston,DEN
+PL12456,Randy Walker,Player,0,0,,1976,13,371,RB,Miami (OH),CIN
+PL12468,Ron Cuie,Player,0,0,,1976,14,384,RB,Oregon St.,CHI
+PL12470,John Henson,Player,0,0,,1976,14,386,RB,Cal Poly-San Luis Obispo,GNB
+PL12481,Calvin Young,Player,0,0,,1976,14,397,RB,Fresno St.,OAK
+PL12507,Ron Holmes,Player,0,0,,1976,15,423,RB,Utah St.,MIA
+PL12509,John Monroe,Player,0,0,,1976,15,426,RB,Bluefield,WAS
+PL12511,Ron Groce,Player,0,0,22,1976,15,428,RB,Macalester,MIN
+PL12520,James Godwin,Player,0,0,,1976,16,437,RB,Fayetteville St.,NYJ
+PL12522,Steve Campassi,Player,0,0,,1976,16,439,RB,Kentucky,PHI
+PL12542,Randy Butts,Player,0,0,,1976,16,459,RB,Nebraska-Kearney,PIT
+PL12555,Pat McNeil,Player,0,0,22,1976,17,472,RB,Baylor,KAN
+PL12556,Darryl Jenkins,Player,0,0,,1976,17,473,RB,San Jose St.,SFO
+PL12564,Nate Beasley,Player,0,0,,1976,17,481,RB,Delaware,OAK
+PL12574,Walter Payton HOF,Player,5,9,21,1975,1,4,RB,Jackson St.,CHI
+PL12585,Don Hardeman,Player,0,0,22,1975,1,15,RB,Texas A&M-Kingsville,HOU
+PL12607,Anthony Davis,Player,0,0,22,1975,2,37,RB,USC,NYJ
+PL12616,Jim Germany,Player,0,0,,1975,2,46,RB,New Mexico St.,STL
+PL12619,Stan Winfrey,Player,0,0,22,1975,2,49,RB,Arkansas St.,MIA
+PL12624,Mike Franckowiak,Player,0,0,22,1975,3,54,RB,Central Michigan,DEN
+PL12628,Willard Harrell,Player,0,0,22,1975,3,58,RB,Pacific,GNB
+PL12630,Andrew Jones,Player,0,0,23,1975,3,60,RB,Washington St.,NOR
+PL12635,Woody Thompson,Player,0,0,23,1975,3,65,RB,Miami (FL),ATL
+PL12646,Louis Carter,Player,0,0,22,1975,3,76,RB,Maryland,OAK
+PL12656,Allen Carter,Player,0,0,22,1975,4,86,RB,USC,NWE
+PL12659,Champ Henson,Player,0,0,22,1975,4,89,RB,Ohio St.,MIN
+PL12667,Stan Fritts,Player,0,0,22,1975,4,97,RB,North Carolina St.,CIN
+PL12672,Tom Donchez,Player,0,0,23,1975,4,102,RB,Penn St.,BUF
+PL12675,Roosevelt Leaks,Player,0,0,22,1975,5,105,RB,Texas,BAL
+PL12678,Mike Thomas,Player,0,1,22,1975,5,108,RB,UNLV,WAS
+PL12684,Wayne Bullock,Player,0,0,,1975,5,114,RB,Notre Dame,SFO
+PL12699,Robert Miller,Player,0,0,22,1975,5,129,RB,Kansas,MIN
+PL12707,Morris LaGrand,Player,0,0,22,1975,6,137,RB,Tampa,KAN
+PL12711,Horace King,Player,0,0,22,1975,6,141,RB,Georgia,DET
+PL12724,Henry Hynoski,Player,0,0,22,1975,6,154,RB,Temple,CLE
+PL12727,Kim Jones,Player,0,0,23,1975,7,157,RB,Colorado St.,BAL
+PL12729,Mike Esposito,Player,0,0,22,1975,7,159,RB,Boston Col.,ATL
+PL12733,Steve Rogers,Player,0,0,22,1975,7,163,RB,LSU,NOR
+PL12734,Rickey Young,Player,0,0,21,1975,7,164,RB,Jackson St.,SDG
+PL12744,Reggie Cherry,Player,0,0,,1975,7,174,RB,Houston,BUF
+PL12747,Steve Beaird,Player,0,0,,1975,7,177,RB,Baylor,STL
+PL12749,Phillip Kent,Player,0,0,,1975,7,179,RB,Baylor,MIA
+PL12751,Henry Greene,Player,0,0,,1975,7,181,RB,Southern,MIN
+PL12780,Brad Davis,Player,0,0,22,1975,9,211,RB,LSU,ATL
+PL12782,Larry Poole,Player,0,0,23,1975,9,213,RB,Kent St.,CLE
+PL12785,Mike Strachan,Player,0,0,22,1975,9,216,RB,Iowa St.,NOR
+PL12786,Jay Lynn Hodgin,Player,0,0,,1975,9,217,RB,South Carolina,GNB
+PL12802,Bruce Reimer,Player,0,0,,1975,9,234,RB,North Dakota St.,PIT
+PL12807,Clyde Russell,Player,0,0,,1975,10,239,RB,Oklahoma,MIA
+PL12809,Chuck Heater,Player,0,0,,1975,10,241,RB,Michigan,NOR
+PL12811,Donnie Layton,Player,0,0,,1975,10,243,RB,South Carolina St.,SFO
+PL12820,Dennis Booker,Player,0,0,,1975,10,252,RB,Millersville,DAL
+PL12821,Roland Hooks,Player,0,0,22,1975,10,253,RB,North Carolina St.,BUF
+PL12847,Jerry Latin,Player,0,0,22,1975,11,280,RB,Northern Illinois,STL
+PL12848,Howard Strickland,Player,0,0,,1975,11,281,RB,California,RAM
+PL12851,Ike Spencer,Player,0,0,,1975,11,285,RB,Utah,MIN
+PL12853,Marsh White,Player,0,0,22,1975,12,287,RB,Arkansas,NYG
+PL12859,James Rackley,Player,0,0,,1975,12,293,RB,Florida A&M,KAN
+PL12864,Dick Pawlewicz,Player,0,0,,1975,12,298,RB,William & Mary,PHI
+PL12881,Charles McDaniel,Player,0,0,,1975,13,316,RB,Louisiana Tech,CHI
+PL12884,Jim Upchurch,Player,0,0,,1975,13,319,RB,Arizona,NOR
+PL12890,Jim Smith,Player,0,0,,1975,13,325,RB,North Carolina Central,DET
+PL12894,Eric Penick,Player,0,0,,1975,13,329,RB,Notre Dame,DEN
+PL12900,Glen Printers,Player,0,0,,1975,13,335,RB,Colorado State-Pueblo,SDG
+PL12906,Tim Barrett,Player,0,0,,1975,14,341,RB,John Carroll,CLE
+PL12907,Walter Hartfield,Player,0,0,,1975,14,342,RB,Texas St.,CHI
+PL12921,Scott Laidlaw,Player,0,0,22,1975,14,356,RB,Stanford,DAL
+PL12927,Mike Strickland,Player,0,0,,1975,14,363,RB,East. Michigan,MIN
+PL12928,Mike Collier,Player,0,0,21,1975,14,364,RB,Morgan St.,PIT
+PL12929,John Goodie,Player,0,0,,1975,15,365,RB,Langston,BAL
+PL12930,Jim O'Connor,Player,0,0,,1975,15,366,RB,Drake,NYG
+PL12936,Grant Burget,Player,0,0,,1975,15,372,RB,Oklahoma,NOR
+PL12939,Rudy Green,Player,0,0,,1975,15,375,RB,Yale,DET
+PL12941,Jack Holmes,Player,0,0,22,1975,15,377,RB,Texas Southern,HOU
+PL12942,Don Clayton,Player,0,0,,1975,15,378,RB,Murray St.,NWE
+PL12945,Willie Hamilton,Player,0,0,,1975,15,382,RB,Arizona,DAL
+PL12950,Skip Johns,Player,0,0,,1975,15,387,RB,Carson-Newman,MIA
+PL12952,Paul Careathers,Player,0,0,,1975,15,389,RB,Tennessee,OAK
+PL12966,Kerry Marbury,Player,0,0,,1975,16,403,RB,West Virginia,NWE
+PL12973,Francis Reynolds,Player,0,0,,1975,16,410,RB,Alcorn St.,RAM
+PL12983,Roland Harper,Player,0,0,22,1975,17,420,RB,Louisiana Tech,CHI
+PL12995,Lester Sherman,Player,0,0,,1975,17,433,RB,Albany St.,DEN
+PL12998,Ken Monroe,Player,0,0,,1975,17,436,RB,Indiana St.,STL
+PL13001,Dwaine Copeland,Player,0,0,,1975,17,439,RB,Middle Tenn. St.,MIA
+PL13003,Adolph Bellizeare,Player,0,0,,1975,17,441,RB,Pennsylvania,MIN
+PL13006,Bo Matthews,Player,0,0,22,1974,1,2,RB,Colorado,SDG
+PL13013,Wilbur Jackson,Player,0,0,22,1974,1,9,RB,Alabama,SFO
+PL13015,John Cappelletti,Player,0,0,22,1974,1,11,RB,Penn St.,RAM
+PL13016,Barty Smith,Player,0,0,22,1974,1,12,RB,Richmond,GNB
+PL13020,Woody Green,Player,0,0,23,1974,1,16,RB,Arizona St.,KAN
+PL13026,Charley Young,Player,0,0,21,1974,1,22,RB,North Carolina St.,DAL
+PL13041,Ed Shuttlesworth,Player,0,0,,1974,2,37,RB,Michigan,BAL
+PL13051,Benny Malone,Player,0,0,22,1974,2,47,RB,Arizona St.,MIA
+PL13052,Charlie Davis,Player,0,0,22,1974,2,48,RB,Colorado,CIN
+PL13053,Delvin Williams,Player,1,2,23,1974,2,49,RB,Kansas,SFO
+PL13063,Bill Rudder,Player,0,0,,1974,3,59,RB,Tennessee,SDG
+PL13066,Cliff Taylor,Player,0,0,22,1974,3,62,RB,Memphis,CHI
+PL13069,Dexter Bussey,Player,0,0,22,1974,3,65,RB,Texas-Arlington,DET
+PL13079,Mark van Eeghen,Player,0,0,22,1974,3,75,RB,Colgate,OAK
+PL13092,Rod McNeill,Player,0,0,23,1974,4,88,RB,USC,NOR
+PL13094,Sammy Johnson,Player,0,0,21,1974,4,90,RB,North Carolina,SFO
+PL13099,Carlester Crumpler,Player,0,0,,1974,4,95,RB,East Carolina,BUF
+PL13100,Vince Kendrick,Player,0,0,22,1974,4,96,RB,Florida,ATL
+PL13105,Andy Andrade,Player,0,0,,1974,4,101,RB,Northern Michigan,DAL
+PL13110,Gary Hayman,Player,0,0,22,1974,5,106,RB,Penn St.,BUF
+PL13116,Andy Johnson,Player,0,0,21,1974,5,112,RB,Georgia,NWE
+PL13118,Haskel Stanback,Player,0,0,22,1974,5,114,RB,Tennessee,CIN
+PL13132,Monroe Eley,Player,0,0,25,1974,5,128,RB,Arizona St.,ATL
+PL13135,Jay Washington,Player,0,0,,1974,6,131,RB,Clemson,KAN
+PL13138,Don Woods,Player,0,0,23,1974,6,134,RB,New Mexico,GNB
+PL13141,Wayne Jones,Player,0,0,,1974,6,137,RB,Mississippi St.,NYJ
+PL13143,Willie Burden,Player,0,0,,1974,6,139,RB,North Carolina St.,DET
+PL13148,Jon Keyworth,Player,0,0,23,1974,6,144,RB,Colorado,WAS
+PL13150,Billy Pritchett,Player,0,0,23,1974,6,146,RB,West Texas A&M,CLE
+PL13151,Doyle Orange,Player,0,0,,1974,6,147,RB,Southern Miss,ATL
+PL13152,James McAlister,Player,0,0,23,1974,6,148,RB,UCLA,OAK
+PL13159,Mark Kellar,Player,0,0,22,1974,6,155,RB,Northern Illinois,MIN
+PL13162,John Harvey,Player,0,0,,1974,7,158,RB,Texas-Arlington,RAM
+PL13170,Kermit Johnson,Player,0,0,22,1974,7,166,RB,UCLA,SFO
+PL13185,Fred Tabron,Player,0,0,,1974,7,181,RB,SW Missouri St.,MIN
+PL13194,Ken Grandberry,Player,0,0,22,1974,8,190,RB,Washington St.,CHI
+PL13196,Larry Lightfoot,Player,0,0,,1974,8,192,RB,West Alabama,NYJ
+PL13200,Darwin Robinson,Player,0,0,,1974,8,196,RB,South Dakota St.,WAS
+PL13202,Paul Miles,Player,0,0,,1974,8,198,RB,Bowling Green,BAL
+PL13205,Alvin Maxson,Player,0,0,22,1974,8,201,RB,SMU,NOR
+PL13215,Jim Rathje,Player,0,0,,1974,9,211,RB,Northern Michigan,NYG
+PL13218,Robert Burns,Player,0,0,22,1974,9,214,RB,Georgia,NYJ
+PL13219,Reggie Harrison,Player,0,0,23,1974,9,215,RB,Cincinnati,STL
+PL13220,Manfred Moore,Player,0,0,23,1974,9,216,RB,USC,SFO
+PL13226,Jim Jennings,Player,0,0,,1974,9,222,RB,Rutgers,KAN
+PL13227,Tommy Reamon,Player,0,0,22,1974,9,223,RB,Missouri,PIT
+PL13249,Phil Polak,Player,0,0,,1974,10,245,RB,Bowling Green,PHI
+PL13251,David Wooley,Player,0,0,,1974,10,247,RB,Central Oklahoma,DET
+PL13253,Don Calhoun,Player,0,0,22,1974,10,249,RB,Kansas St.,BUF
+PL13259,Dennis Morgan,Player,0,0,22,1974,10,255,RB,West. Illinois,DAL
+PL13263,Barry Reed,Player,0,0,,1974,10,259,RB,Peru St.,MIN
+PL13272,Archie Gibson,Player,0,0,,1974,11,268,RB,Utah St.,NWE
+PL13276,Eric Torkelson,Player,0,0,22,1974,11,272,RB,Connecticut,GNB
+PL13280,Steve Buchanan,Player,0,0,,1974,11,276,RB,Holy Cross,DEN
+PL13283,Harold Hart,Player,0,0,22,1974,11,279,RB,Texas Southern,OAK
+PL13287,Dickie Morton,Player,0,0,,1974,11,283,RB,Arkansas,PIT
+PL13309,Noe Gonzalez,Player,0,0,23,1974,12,305,RB,Texas St.,OAK
+PL13322,Jimmy Poulos,Player,0,0,,1974,13,319,RB,Georgia,STL
+PL13324,Phil Bennett,Player,0,0,,1974,13,321,RB,Boston Col.,NWE
+PL13332,Ralph Powell,Player,0,0,,1974,13,329,RB,Nebraska,ATL
+PL13341,Clayton Heath,Player,0,0,23,1974,13,338,RB,Wake Forest,MIA
+PL13348,Charles Smith,Player,0,0,,1974,14,345,RB,Yankton,STL
+PL13349,Cecil Bowens,Player,0,0,,1974,14,346,RB,Kentucky,NWE
+PL13355,Bob Hunt,Player,0,0,23,1974,14,352,RB,Heidelberg,CLE
+PL13360,Don Willingham,Player,0,0,,1974,14,357,RB,Wisconsin–Milwaukee,OAK
+PL13366,Alan Dixon,Player,0,0,,1974,14,363,RB,Harding,MIN
+PL13388,Isaac Jackson,Player,0,0,,1974,15,385,RB,Kansas St.,CIN
+PL13393,Mathew Williams,Player,0,0,,1974,16,391,RB,La-Monroe,HOU
+PL13397,Jazz Jackson,Player,0,0,22,1974,16,395,RB,Western Kentucky,NYJ
+PL13399,Alonzo Emery,Player,0,0,,1974,16,397,RB,Arizona St.,STL
+PL13410,Molly McGee,Player,0,0,22,1974,16,408,RB,Rhode Island,ATL
+PL13413,Nate Anderson,Player,0,0,,1974,16,411,RB,East. Illinois,WAS
+PL13417,John Goebel,Player,0,0,,1974,16,415,RB,St. Thomas,MIN
+PL13421,Steve Crosby,Player,0,0,24,1974,17,419,RB,Fort Hays St.,NYG
+PL13429,Cliff Brown,Player,0,0,,1974,17,427,RB,Notre Dame,PHI
+PL13441,Jim Smith,Player,0,0,,1974,17,439,RB,North Carolina Central,CIN
+CG2,Alabama,College,0,0,0,0,0,0,0,0,0,0,0
+CG33,Penn St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG43,Memphis,College,0,0,0,0,0,0,0,0,0,0,0
+CG44,Iowa St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG45,Florida Atlantic,College,0,0,0,0,0,0,0,0,0,0,0
+CG59,Boise St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG35,Stanford,College,0,0,0,0,0,0,0,0,0,0,0
+CG61,Oklahoma St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG6,Kentucky,College,0,0,0,0,0,0,0,0,0,0,0
+CG22,Temple,College,0,0,0,0,0,0,0,0,0,0,0
+CG68,Pittsburgh,College,0,0,0,0,0,0,0,0,0,0,0
+CG23,Florida,College,0,0,0,0,0,0,0,0,0,0,0
+CG32,Texas A&M,College,0,0,0,0,0,0,0,0,0,0,0
+CG14,Maryland,College,0,0,0,0,0,0,0,0,0,0,0
+CG17,Notre Dame,College,0,0,0,0,0,0,0,0,0,0,0
+CG63,Miami (FL),College,0,0,0,0,0,0,0,0,0,0,0
+CG0,Oklahoma,College,0,0,0,0,0,0,0,0,0,0,0
+CG85,Utah St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG1,Ohio St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG55,Auburn,College,0,0,0,0,0,0,0,0,0,0,0
+CG20,Washington,College,0,0,0,0,0,0,0,0,0,0,0
+CG52,San Diego St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG19,Georgia,College,0,0,0,0,0,0,0,0,0,0,0
+CG54,USC,College,0,0,0,0,0,0,0,0,0,0,0
+CG4,LSU,College,0,0,0,0,0,0,0,0,0,0,0
+CG66,Oregon,College,0,0,0,0,0,0,0,0,0,0,0
+CG12,North Carolina St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG115,Southern Miss,College,0,0,0,0,0,0,0,0,0,0,0
+CG21,Arizona St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG121,Fordham,College,0,0,0,0,0,0,0,0,0,0,0
+CG25,Mississippi,College,0,0,0,0,0,0,0,0,0,0,0
+CG111,Tennessee,College,0,0,0,0,0,0,0,0,0,0,0
+CG51,Louisiana Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG133,Virginia St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG62,Arkansas,College,0,0,0,0,0,0,0,0,0,0,0
+CG73,Northwestern,College,0,0,0,0,0,0,0,0,0,0,0
+CG11,Florida St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG40,Toledo,College,0,0,0,0,0,0,0,0,0,0,0
+CG70,Texas,College,0,0,0,0,0,0,0,0,0,0,0
+CG89,North Carolina A&T,College,0,0,0,0,0,0,0,0,0,0,0
+CG31,Utah,College,0,0,0,0,0,0,0,0,0,0,0
+CG47,BYU,College,0,0,0,0,0,0,0,0,0,0,0
+CG3,Clemson,College,0,0,0,0,0,0,0,0,0,0,0
+CG112,South Florida,College,0,0,0,0,0,0,0,0,0,0,0
+CG80,Wyoming,College,0,0,0,0,0,0,0,0,0,0,0
+CG74,North Carolina,College,0,0,0,0,0,0,0,0,0,0,0
+CG105,Texas-El Paso,College,0,0,0,0,0,0,0,0,0,0,0
+CG110,Louisiana,College,0,0,0,0,0,0,0,0,0,0,0
+CG160,Coastal Carolina,College,0,0,0,0,0,0,0,0,0,0,0
+CG8,Houston,College,0,0,0,0,0,0,0,0,0,0,0
+CG137,California,College,0,0,0,0,0,0,0,0,0,0,0
+CG42,San Jose St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG99,Texas Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG100,UCLA,College,0,0,0,0,0,0,0,0,0,0,0
+CG65,Indiana,College,0,0,0,0,0,0,0,0,0,0,0
+CG58,West Virginia,College,0,0,0,0,0,0,0,0,0,0,0
+CG177,Navy,College,0,0,0,0,0,0,0,0,0,0,0
+CG60,East. Michigan,College,0,0,0,0,0,0,0,0,0,0,0
+CG46,Wisconsin,College,0,0,0,0,0,0,0,0,0,0,0
+CG132,Nebraska,College,0,0,0,0,0,0,0,0,0,0,0
+CG127,Northern Iowa,College,0,0,0,0,0,0,0,0,0,0,0
+CG49,Michigan St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG24,South Carolina,College,0,0,0,0,0,0,0,0,0,0,0
+CG69,Minnesota,College,0,0,0,0,0,0,0,0,0,0,0
+CG13,Mississippi St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG28,Missouri,College,0,0,0,0,0,0,0,0,0,0,0
+CG189,Towson,College,0,0,0,0,0,0,0,0,0,0,0
+CG159,Georgia Southern,College,0,0,0,0,0,0,0,0,0,0,0
+CG10,Boston Col.,College,0,0,0,0,0,0,0,0,0,0,0
+CG91,Arizona,College,0,0,0,0,0,0,0,0,0,0,0
+CG41,Baylor,College,0,0,0,0,0,0,0,0,0,0,0
+CG36,Central Florida,College,0,0,0,0,0,0,0,0,0,0,0
+CG175,Harvard,College,0,0,0,0,0,0,0,0,0,0,0
+CG30,Vanderbilt,College,0,0,0,0,0,0,0,0,0,0,0
+CG64,Wake Forest,College,0,0,0,0,0,0,0,0,0,0,0
+CG76,Rutgers,College,0,0,0,0,0,0,0,0,0,0,0
+CG38,Massachusetts,College,0,0,0,0,0,0,0,0,0,0,0
+CG102,Virginia Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG94,Cincinnati,College,0,0,0,0,0,0,0,0,0,0,0
+CG27,Kansas St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG226,Abilene Christian,College,0,0,0,0,0,0,0,0,0,0,0
+CG86,Illinois,College,0,0,0,0,0,0,0,0,0,0,0
+CG29,Hawaii,College,0,0,0,0,0,0,0,0,0,0,0
+CG96,Syracuse,College,0,0,0,0,0,0,0,0,0,0,0
+CG147,East. Washington,College,0,0,0,0,0,0,0,0,0,0,0
+CG103,Louisville,College,0,0,0,0,0,0,0,0,0,0,0
+CG128,Connecticut,College,0,0,0,0,0,0,0,0,0,0,0
+CG153,Oregon St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG131,Yale,College,0,0,0,0,0,0,0,0,0,0,0
+CG164,Georgia Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG75,Fresno St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG187,Southern Illinois,College,0,0,0,0,0,0,0,0,0,0,0
+CG165,Buffalo,College,0,0,0,0,0,0,0,0,0,0,0
+CG7,Iowa,College,0,0,0,0,0,0,0,0,0,0,0
+CG97,Colorado St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG238,UNLV,College,0,0,0,0,0,0,0,0,0,0,0
+CG39,Virginia,College,0,0,0,0,0,0,0,0,0,0,0
+CG18,TCU,College,0,0,0,0,0,0,0,0,0,0,0
+CG190,Tennessee St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG95,Idaho,College,0,0,0,0,0,0,0,0,0,0,0
+CG199,Liberty,College,0,0,0,0,0,0,0,0,0,0,0
+CG143,East Carolina,College,0,0,0,0,0,0,0,0,0,0,0
+CG87,Tulane,College,0,0,0,0,0,0,0,0,0,0,0
+CG116,Richmond,College,0,0,0,0,0,0,0,0,0,0,0
+CG205,NW Missouri St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG9,Michigan,College,0,0,0,0,0,0,0,0,0,0,0
+CG176,Montana,College,0,0,0,0,0,0,0,0,0,0,0
+CG34,Northern Illinois,College,0,0,0,0,0,0,0,0,0,0,0
+CG232,Central Connecticut St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG195,Marshall,College,0,0,0,0,0,0,0,0,0,0,0
+CG15,Washington St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG283,Dartmouth,College,0,0,0,0,0,0,0,0,0,0,0
+CG78,Colorado,College,0,0,0,0,0,0,0,0,0,0,0
+CG72,North Dakota St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG146,Villanova,College,0,0,0,0,0,0,0,0,0,0,0
+CG122,S.F. Austin,College,0,0,0,0,0,0,0,0,0,0,0
+CG120,New Mexico St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG183,Miami (OH),College,0,0,0,0,0,0,0,0,0,0,0
+CG90,James Madison,College,0,0,0,0,0,0,0,0,0,0,0
+CG249,McNeese St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG309,Livingstone,College,0,0,0,0,0,0,0,0,0,0,0
+CG123,Purdue,College,0,0,0,0,0,0,0,0,0,0,0
+CG214,Cornell,College,0,0,0,0,0,0,0,0,0,0,0
+CG106,South Carolina St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG118,Kansas,College,0,0,0,0,0,0,0,0,0,0,0
+CG139,New Mexico,College,0,0,0,0,0,0,0,0,0,0,0
+CG252,Winston-Salem St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG319,Robert Morris,College,0,0,0,0,0,0,0,0,0,0,0
+CG162,Tenn-Chattanooga,College,0,0,0,0,0,0,0,0,0,0,0
+CG322,Sonoma St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG325,Central Oklahoma,College,0,0,0,0,0,0,0,0,0,0,0
+CG231,The Citadel,College,0,0,0,0,0,0,0,0,0,0,0
+CG208,Portland St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG235,Alabama A&M,College,0,0,0,0,0,0,0,0,0,0,0
+CG82,La-Monroe,College,0,0,0,0,0,0,0,0,0,0,0
+CG197,Pittsburg St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG141,Middle Tenn. St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG333,Miss. Valley St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG337,NE State (OK),College,0,0,0,0,0,0,0,0,0,0,0
+CG166,East. Kentucky,College,0,0,0,0,0,0,0,0,0,0,0
+CG340,Cal State-Fullerton,College,0,0,0,0,0,0,0,0,0,0,0
+CG343,Clark (GA),College,0,0,0,0,0,0,0,0,0,0,0
+CG281,North Texas,College,0,0,0,0,0,0,0,0,0,0,0
+CG150,Grambling St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG347,Mississippi Col.,College,0,0,0,0,0,0,0,0,0,0,0
+CG178,William & Mary,College,0,0,0,0,0,0,0,0,0,0,0
+CG212,Ark-Pine Bluff,College,0,0,0,0,0,0,0,0,0,0,0
+CG221,Florida A&M,College,0,0,0,0,0,0,0,0,0,0,0
+CG358,Ferrum,College,0,0,0,0,0,0,0,0,0,0,0
+CG294,Texas A&M-Kingsville,College,0,0,0,0,0,0,0,0,0,0,0
+CG366,St. Cloud St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG26,Central Michigan,College,0,0,0,0,0,0,0,0,0,0,0
+CG171,Princeton,College,0,0,0,0,0,0,0,0,0,0,0
+CG274,Northern Arizona,College,0,0,0,0,0,0,0,0,0,0,0
+CG253,Jackson St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG245,Nicholls St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG104,Nevada,College,0,0,0,0,0,0,0,0,0,0,0
+CG215,Tenn-Martin,College,0,0,0,0,0,0,0,0,0,0,0
+CG233,Slippery Rock,College,0,0,0,0,0,0,0,0,0,0,0
+CG16,Alabama St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG184,Texas St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG193,NW State (LA),College,0,0,0,0,0,0,0,0,0,0,0
+CG373,Puget Sound,College,0,0,0,0,0,0,0,0,0,0,0
+CG228,Hampton,College,0,0,0,0,0,0,0,0,0,0,0
+CG117,Western Kentucky,College,0,0,0,0,0,0,0,0,0,0,0
+CG269,Howard,College,0,0,0,0,0,0,0,0,0,0,0
+CG371,Holy Cross,College,0,0,0,0,0,0,0,0,0,0,0
+CG379,Colgate,College,0,0,0,0,0,0,0,0,0,0,0
+CG380,Azusa Pacific,College,0,0,0,0,0,0,0,0,0,0,0
+CG381,Benedictine,College,0,0,0,0,0,0,0,0,0,0,0
+CG327,Pacific,College,0,0,0,0,0,0,0,0,0,0,0
+CG386,Findlay,College,0,0,0,0,0,0,0,0,0,0,0
+CG279,Idaho St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG210,Saginaw Valley St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG368,Mesa,College,0,0,0,0,0,0,0,0,0,0,0
+CG107,SMU,College,0,0,0,0,0,0,0,0,0,0,0
+CG390,Occidental,College,0,0,0,0,0,0,0,0,0,0,0
+CG354,Henderson St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG211,South Dakota,College,0,0,0,0,0,0,0,0,0,0,0
+CG398,West Virginia Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG37,Delaware,College,0,0,0,0,0,0,0,0,0,0,0
+CG389,Texas-Arlington,College,0,0,0,0,0,0,0,0,0,0,0
+CG202,Furman,College,0,0,0,0,0,0,0,0,0,0,0
+CG364,Boston Univ.,College,0,0,0,0,0,0,0,0,0,0,0
+CG401,Colorado State-Pueblo,College,0,0,0,0,0,0,0,0,0,0,0
+CG280,Sacramento St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG81,Elon,College,0,0,0,0,0,0,0,0,0,0,0
+CG234,Tulsa,College,0,0,0,0,0,0,0,0,0,0,0
+CG119,Weber St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG130,Central Arkansas,College,0,0,0,0,0,0,0,0,0,0,0
+CG270,Bethune-Cookman,College,0,0,0,0,0,0,0,0,0,0,0
+CG407,William Jewell,College,0,0,0,0,0,0,0,0,0,0,0
+CG306,Langston,College,0,0,0,0,0,0,0,0,0,0,0
+CG250,Norfolk St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG408,Wilmington,College,0,0,0,0,0,0,0,0,0,0,0
+CG168,North Carolina Central,College,0,0,0,0,0,0,0,0,0,0,0
+CG287,Carson-Newman,College,0,0,0,0,0,0,0,0,0,0,0
+CG203,Arkansas St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG108,Sam Houston St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG129,Maine,College,0,0,0,0,0,0,0,0,0,0,0
+CG315,East Tennessee St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG179,SE Louisiana,College,0,0,0,0,0,0,0,0,0,0,0
+CG275,Tuskegee,College,0,0,0,0,0,0,0,0,0,0,0
+CG244,Cal Poly-San Luis Obispo,College,0,0,0,0,0,0,0,0,0,0,0
+CG155,Kutztown Pennsylvania,College,0,0,0,0,0,0,0,0,0,0,0
+CG416,Millersville,College,0,0,0,0,0,0,0,0,0,0,0
+CG191,Rice,College,0,0,0,0,0,0,0,0,0,0,0
+CG361,Savannah St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG201,Bloomsburg,College,0,0,0,0,0,0,0,0,0,0,0
+CG222,North Alabama,College,0,0,0,0,0,0,0,0,0,0,0
+CG303,Alcorn St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG384,Bishop,College,0,0,0,0,0,0,0,0,0,0,0
+CG241,West Texas A&M,College,0,0,0,0,0,0,0,0,0,0,0
+CG310,Angelo State (TX),College,0,0,0,0,0,0,0,0,0,0,0
+CG423,Shepherd,College,0,0,0,0,0,0,0,0,0,0,0
+CG396,Truman St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG393,Rhode Island,College,0,0,0,0,0,0,0,0,0,0,0
+CG50,West. Illinois,College,0,0,0,0,0,0,0,0,0,0,0
+CG151,Lamar,College,0,0,0,0,0,0,0,0,0,0,0
+CG360,Minnesota-Duluth,College,0,0,0,0,0,0,0,0,0,0,0
+CG346,Long Beach St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG5,Duke,College,0,0,0,0,0,0,0,0,0,0,0
+CG198,Kent St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG273,Michigan Tech,College,0,0,0,0,0,0,0,0,0,0,0
+CG266,North Dakota,College,0,0,0,0,0,0,0,0,0,0,0
+CG84,Bowling Green,College,0,0,0,0,0,0,0,0,0,0,0
+CG433,Fisk,College,0,0,0,0,0,0,0,0,0,0,0
+CG392,Salem,College,0,0,0,0,0,0,0,0,0,0,0
+CG353,Northern Michigan,College,0,0,0,0,0,0,0,0,0,0,0
+CG436,Valley City,College,0,0,0,0,0,0,0,0,0,0,0
+CG181,Montana St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG438,Carthage,College,0,0,0,0,0,0,0,0,0,0,0
+CG442,Bluefield,College,0,0,0,0,0,0,0,0,0,0,0
+CG444,Macalester,College,0,0,0,0,0,0,0,0,0,0,0
+CG446,Fayetteville St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG387,Nebraska-Kearney,College,0,0,0,0,0,0,0,0,0,0,0
+CG448,Tampa,College,0,0,0,0,0,0,0,0,0,0,0
+CG284,Southern,College,0,0,0,0,0,0,0,0,0,0,0
+CG357,John Carroll,College,0,0,0,0,0,0,0,0,0,0,0
+CG98,Morgan St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG157,Drake,College,0,0,0,0,0,0,0,0,0,0,0
+CG186,Texas Southern,College,0,0,0,0,0,0,0,0,0,0,0
+CG57,Murray St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG412,Albany St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG323,Indiana St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG124,Pennsylvania,College,0,0,0,0,0,0,0,0,0,0,0
+CG239,SW Missouri St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG173,West Alabama,College,0,0,0,0,0,0,0,0,0,0,0
+CG88,South Dakota St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG457,Peru St.,College,0,0,0,0,0,0,0,0,0,0,0
+CG453,Yankton,College,0,0,0,0,0,0,0,0,0,0,0
+CG460,Heidelberg,College,0,0,0,0,0,0,0,0,0,0,0
+CG462,Wisconsin–Milwaukee,College,0,0,0,0,0,0,0,0,0,0,0
+CG218,Harding,College,0,0,0,0,0,0,0,0,0,0,0
+CG180,East. Illinois,College,0,0,0,0,0,0,0,0,0,0,0
+CG429,St. Thomas,College,0,0,0,0,0,0,0,0,0,0,0
+CG109,Fort Hays St.,College,0,0,0,0,0,0,0,0,0,0,0
+NFL3,OAK,NFL Team,0,0,0,0,0,0,0,0,0
+NFL19,PHI,NFL Team,0,0,0,0,0,0,0,0,0
+NFL30,LAR,NFL Team,0,0,0,0,0,0,0,0,0
+NFL31,CHI,NFL Team,0,0,0,0,0,0,0,0,0
+NFL8,BUF,NFL Team,0,0,0,0,0,0,0,0,0
+NFL24,NWE,NFL Team,0,0,0,0,0,0,0,0,0
+NFL16,MIN,NFL Team,0,0,0,0,0,0,0,0,0
+NFL14,WAS,NFL Team,0,0,0,0,0,0,0,0,0
+NFL21,BAL,NFL Team,0,0,0,0,0,0,0,0,0
+NFL9,PIT,NFL Team,0,0,0,0,0,0,0,0,0
+NFL29,DAL,NFL Team,0,0,0,0,0,0,0,0,0
+NFL6,JAX,NFL Team,0,0,0,0,0,0,0,0,0
+NFL13,ATL,NFL Team,0,0,0,0,0,0,0,0,0
+NFL15,CAR,NFL Team,0,0,0,0,0,0,0,0,0
+NFL10,CIN,NFL Team,0,0,0,0,0,0,0,0,0
+NFL7,DET,NFL Team,0,0,0,0,0,0,0,0,0
+NFL11,GNB,NFL Team,0,0,0,0,0,0,0,0,0
+NFL23,SEA,NFL Team,0,0,0,0,0,0,0,0,0
+NFL28,KAN,NFL Team,0,0,0,0,0,0,0,0,0
+NFL20,HOU,NFL Team,0,0,0,0,0,0,0,0,0
+NFL12,MIA,NFL Team,0,0,0,0,0,0,0,0,0
+NFL5,NYG,NFL Team,0,0,0,0,0,0,0,0,0
+NFL26,CLE,NFL Team,0,0,0,0,0,0,0,0,0
+NFL4,TAM,NFL Team,0,0,0,0,0,0,0,0,0
+NFL18,DEN,NFL Team,0,0,0,0,0,0,0,0,0
+NFL25,IND,NFL Team,0,0,0,0,0,0,0,0,0
+NFL0,ARI,NFL Team,0,0,0,0,0,0,0,0,0
+NFL27,NOR,NFL Team,0,0,0,0,0,0,0,0,0
+NFL2,NYJ,NFL Team,0,0,0,0,0,0,0,0,0
+NFL22,LAC,NFL Team,0,0,0,0,0,0,0,0,0
+NFL1,SFO,NFL Team,0,0,0,0,0,0,0,0,0
+NFL17,TEN,NFL Team,0,0,0,0,0,0,0,0,0

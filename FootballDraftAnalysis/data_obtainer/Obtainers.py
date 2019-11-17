@@ -169,6 +169,25 @@ class DraftDataObtainer:
         print(DraftDataObtainer.finishedMessage)
 
 
+    @staticmethod
+    def obtainBipartite(awardedOnly):
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing Bipartite Player Data to HTML.")
+        html = DraftDataObtainer.baseCSVDirectory + "bipartite"
+        if awardedOnly:
+            html = html + "Awarded"
+        html = html + ".html"
+        CSVPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html, awardedOnly)
+        print(DraftDataObtainer.finishedMessage)
+
+
 DraftDataObtainer.obtainAllPlayers()
 DraftDataObtainer.obtainAwardedPlayers()
 DraftDataObtainer.obtainRoundsRange(1, 3, False)
@@ -202,3 +221,5 @@ DraftDataObtainer.obtainPosition("LB", True)
 DraftDataObtainer.obtain4_3LBs(True)
 DraftDataObtainer.obtainDBs(True)
 DraftDataObtainer.obtainBarChartData(True)
+DraftDataObtainer.obtainBipartite(True)
+DraftDataObtainer.obtainBipartite(False)
