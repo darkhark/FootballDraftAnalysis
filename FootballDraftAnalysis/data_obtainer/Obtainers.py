@@ -150,6 +150,24 @@ class DraftDataObtainer:
         CSVPrinter.printDBsEdgesAndLabelsCSVs(DraftDataObtainer.scraper.playerList, edgesCSV, labelsCSV, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
+    @staticmethod
+    def obtainBarChartData(awardedOnly):
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing Bar Chart Data to CSVs.")
+        bartChartCSV = DraftDataObtainer.baseCSVDirectory + "BarChartCSV"
+        if awardedOnly:
+            bartChartCSV = bartChartCSV + "Awarded"
+        bartChartCSV = bartChartCSV + ".csv"
+        CSVPrinter.printBarChartCSV(DraftDataObtainer.scraper.playerList, bartChartCSV, awardedOnly)
+        print(DraftDataObtainer.finishedMessage)
+
 
     @staticmethod
     def obtainBipartite(awardedOnly):
@@ -202,6 +220,7 @@ DraftDataObtainer.obtainPosition("DT", True)
 DraftDataObtainer.obtainPosition("LB", True)
 DraftDataObtainer.obtain4_3LBs(True)
 DraftDataObtainer.obtainDBs(True)
+DraftDataObtainer.obtainBarChartData(True)
+DraftDataObtainer.obtainBarChartData(False)
 DraftDataObtainer.obtainBipartite(True)
 DraftDataObtainer.obtainBipartite(False)
-
