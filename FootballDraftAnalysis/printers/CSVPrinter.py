@@ -203,37 +203,45 @@ class CSVPrinter:
         labelCSV.close()
 
     @staticmethod
-    def printBarChartCSV(playersList, csvLocation):
+    def printBarChartCSV(playersList, csvLocation, awardedOnly):
         data = {}
         header = ["college_team"]
         years = []
         csvArray = []
         for player in playersList:
-            if player.yearDrafted not in years:
-                 years.append(player.yearDrafted)
-            college = College.getCachedTeam(player.collegeID)
-            if college.name not in data:
-                yearData = {player.yearDrafted: 1}
-                data[college.name] = yearData
-            elif player.yearDrafted not in data[college.name]:
-                data[college.name][player.yearDrafted] = 1
-            else:
-                data[college.name][player.yearDrafted] += 1
+            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
+            if (awardedOnly and playerHasAward) or not awardedOnly:
+                if player.yearDrafted not in years:
+                    years.append(player.yearDrafted)
+                college = College.getCachedTeam(player.collegeID)
+                if college.name not in data:
+                    yearData = {player.yearDrafted: 1}
+                    data[college.name] = yearData
+                elif player.yearDrafted not in data[college.name]:
+                    data[college.name][player.yearDrafted] = 1
+                else:
+                    data[college.name][player.yearDrafted] += 1
         years = list(reversed(years))
+        for year in years:
+            print(year)
+            for college in data:
+                if year not in data[college] and int(year) == 1974:
+                    print("Year not in and 1974")
+                    data[college][year] = 0
+                    print("College: " + college + " " + str(data[college][year]))
+                elif year not in data[college]:
+                    print("Year not in")
+                    data[college][year] = data[college][str(int(year) - 1)]
+                elif int(year) != 1974:
+                    print("Year is in")
+                    data[college][year] += data[college][str(int(year) - 1)]
         for year in years:
             header.append(year)
         csvArray.append(header)
         for collegeName in data:
-            collegeSums = []
-            collegeSums.append(collegeName)
-            for year in list(years):
-                print("Year: " + year)
-                if year not in sorted(data[collegeName]):
-                    print("Year not in that colleges years!!!!!!!!!!!!!!!!!!!!!!!!!")
-                    collegeSums.append(0)
-                else:
-                    print("Year in data ========================================")
-                    collegeSums.append(data[collegeName][year])
+            collegeSums = [collegeName]
+            for year in years:
+                collegeSums.append(data[collegeName][year])
             csvArray.append(collegeSums)
         with open(csvLocation, "w") as barChartCSV:
             writer = csv.writer(barChartCSV)

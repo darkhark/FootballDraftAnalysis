@@ -165,7 +165,7 @@ class DraftDataObtainer:
         if awardedOnly:
             bartChartCSV = bartChartCSV + "Awarded"
         bartChartCSV = bartChartCSV + ".csv"
-        CSVPrinter.printBarChartCSV(DraftDataObtainer.scraper.playerList, bartChartCSV)
+        CSVPrinter.printBarChartCSV(DraftDataObtainer.scraper.playerList, bartChartCSV, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
 
@@ -221,5 +221,6 @@ DraftDataObtainer.obtainPosition("LB", True)
 DraftDataObtainer.obtain4_3LBs(True)
 DraftDataObtainer.obtainDBs(True)
 DraftDataObtainer.obtainBarChartData(True)
+DraftDataObtainer.obtainBarChartData(False)
 DraftDataObtainer.obtainBipartite(True)
 DraftDataObtainer.obtainBipartite(False)
