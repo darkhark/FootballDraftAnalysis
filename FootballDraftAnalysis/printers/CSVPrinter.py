@@ -8,8 +8,12 @@ class CSVPrinter:
     edgeCSVRowsHeader = [["Source", "Target"]]
     labelCSVRowsHeader = [["ID", "Label", "Node Type", "All Pros", "Pro Bowls", "Draft Age", "Year Drafted",
                            "Round Selected", "Pick In Round", "Position", "College", "NFLTeam"]]
-    def __init__(self):
-        return
+    cumulColPlaysOverYears = {}
+    collegeIDList = []
+    nflTeamIDList = []
+    years = []
+    edgeCSVRows = []
+    labelCSVRows = []
 
     @staticmethod
     def printAllEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
@@ -37,152 +41,167 @@ class CSVPrinter:
 
     @staticmethod
     def printAwardedEdgesCSVAndLabelsCSV(playersList, edgeCSVLocation, labelCSVLocation):
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
+        CSVPrinter._readyCSVRowLists()
         for player in playersList:
             if int(player.proBowls) >= 1 or int(player.allPros) >= 1:
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
-                                             edgeCSVRows, labelCSVRows)
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
 
     @staticmethod
     def printRoundRangeEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, minimum, maximum,
                                           awardedOnly):
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
-
+        CSVPrinter._readyCSVRowLists()
         for player in playersList:
             if minimum <= int(player.roundSelected) <= maximum and \
                     ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
-                                             edgeCSVRows, labelCSVRows)
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
 
     @staticmethod
     def printPositionEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, position, awardedOnly):
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
+        CSVPrinter._readyCSVRowLists()
         for player in playersList:
             if player.position == position and \
                     ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation, labelCSVLocation,
-                                             edgeCSVRows, labelCSVRows)
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
 
     @staticmethod
     def printOLEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         offensiveLine = ["T", "G", "C", "OL"]
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
+        CSVPrinter._readyCSVRowLists()
         for player in playersList:
             if player.position in offensiveLine and \
                     ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
-                                             labelCSVLocation,
-                                             edgeCSVRows, labelCSVRows)
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
 
     @staticmethod
     def print4_3LBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         lbs4_3 = ["OLB", "ILB"]
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
+        CSVPrinter._readyCSVRowLists()
         for player in playersList:
             if player.position in lbs4_3 and \
                     ((awardedOnly and (int(player.allPros) > 0 or int(player.proBowls) > 0)) or not awardedOnly):
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
-                                             labelCSVLocation, edgeCSVRows, labelCSVRows)
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
 
     @staticmethod
     def printDBsEdgesAndLabelsCSVs(playersList, edgeCSVLocation, labelCSVLocation, awardedOnly):
         defensiveBacks = ["CB", "DB", "S"]
-        edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
-        labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
-        tempCollegeIDList = []
-        tempNFLTeamIDList = []
-        for player in playersList:
+        CSVPrinter._readyCSVRowLists()
+        allDBs = CSVPrinter._getPositionalPlayers(playersList, defensiveBacks)
+        for player in allDBs:
             playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
-            if player.position in defensiveBacks and ((awardedOnly and playerHasAward) or not awardedOnly):
-                collegeID = player.collegeID
-                if collegeID not in tempCollegeIDList:
-                    tempCollegeIDList.append(collegeID)
-                nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
-                if nflID not in tempNFLTeamIDList:
-                    tempNFLTeamIDList.append(nflID)
-                edgeCSVRows.append([collegeID, player.uniqueID])
-                edgeCSVRows.append([player.uniqueID, nflID])
-                labelCSVRows.append([player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
-                                     player.draftAge, player.yearDrafted, player.roundSelected,
-                                     player.pickInRound, player.position,
-                                     College.getCachedTeam(player.collegeID).name, NFLTeam.getCachedTeam(player.nflTeamID).name])
-        CSVPrinter.printPlayersAndEdgesToCSV(tempCollegeIDList, tempNFLTeamIDList, edgeCSVLocation,
-                                             labelCSVLocation, edgeCSVRows, labelCSVRows)
+            if (awardedOnly and playerHasAward) or not awardedOnly:
+                CSVPrinter._placePlayerDataIntoCSVForm(player)
+        CSVPrinter.printPlayersAndEdgesToCSV(CSVPrinter.collegeIDList, CSVPrinter.nflTeamIDList, edgeCSVLocation,
+                                             labelCSVLocation, CSVPrinter.edgeCSVRows, CSVPrinter.labelCSVRows)
+
+    @staticmethod
+    def _readyCSVRowLists():
+        CSVPrinter.collegeIDList.clear()
+        CSVPrinter.nflTeamIDList.clear()
+        CSVPrinter.edgeCSVRows.clear()
+        CSVPrinter.labelCSVRows.clear()
+        CSVPrinter.edgeCSVRows = list.copy(CSVPrinter.edgeCSVRowsHeader)
+        CSVPrinter.labelCSVRows = list.copy(CSVPrinter.labelCSVRowsHeader)
+
+    @staticmethod
+    def _placePlayerDataIntoCSVForm(player):
+        collegeID = player.collegeID
+        if collegeID not in CSVPrinter.collegeIDList:
+            CSVPrinter.collegeIDList.append(collegeID)
+        nflID = CSVPrinter.getModernNFLID(player.nflTeamID)
+        if nflID not in CSVPrinter.nflTeamIDList:
+            CSVPrinter.nflTeamIDList.append(nflID)
+        CSVPrinter.edgeCSVRows.append([collegeID, player.uniqueID])
+        CSVPrinter.edgeCSVRows.append([player.uniqueID, nflID])
+        CSVPrinter.labelCSVRow = [player.uniqueID, player.name, "Player", player.allPros, player.proBowls,
+                                  player.draftAge, player.yearDrafted, player.roundSelected,
+                                  player.pickInRound, player.position,
+                                  College.getCachedTeam(player.collegeID).name,
+                                  NFLTeam.getCachedTeam(player.nflTeamID).name]
+
+    @staticmethod
+    def printBarChartCSV(playersList, csvLocation, awardedOnly):
+        CSVPrinter._getPlayersDraftedFromCollegeByYear(playersList, awardedOnly)
+        CSVPrinter._writeCumulDataToCSV(csvLocation)
+
+    @staticmethod
+    def printBarChartCSVDBs(playersList, csvLocation, awardedOnly):
+        defensiveBacks = ["CB", "DB", "S"]
+        allDBs = CSVPrinter._getPositionalPlayers(playersList, defensiveBacks)
+        CSVPrinter._getPlayersDraftedFromCollegeByYear(allDBs, awardedOnly)
+        CSVPrinter._writeCumulDataToCSV(csvLocation)
+
+    @staticmethod
+    def _getPositionalPlayers(playersList, positionList):
+        positionPlayers = []
+        for player in playersList:
+            if player.position in positionList:
+                positionPlayers.append(player)
+        return positionPlayers
+
+    @staticmethod
+    def _writeCumulDataToCSV(csvLocation):
+        CSVPrinter.years = list(reversed(CSVPrinter.years))
+        CSVPrinter.years = range(min(CSVPrinter.years), max(CSVPrinter.years))
+        CSVPrinter._getCumulativePlayersPerCollegeByYear()
+        CSVPrinter._writeToBarchartCSV(csvLocation)
+
+    @staticmethod
+    def _getPlayersDraftedFromCollegeByYear(playerList, awardedOnly):
+        CSVPrinter.years.clear()
+        CSVPrinter.cumulColPlaysOverYears.clear()
+        for player in playerList:
+            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
+            if (awardedOnly and playerHasAward) or not awardedOnly:
+                if player.yearDrafted not in CSVPrinter.years:
+                    CSVPrinter.years.append(int(player.yearDrafted))
+                college = College.getCachedTeam(player.collegeID)
+                if college.name not in CSVPrinter.cumulColPlaysOverYears:
+                    yearData = {int(player.yearDrafted): 1}
+                    CSVPrinter.cumulColPlaysOverYears[college.name] = yearData
+                elif player.yearDrafted not in CSVPrinter.cumulColPlaysOverYears[college.name]:
+                    CSVPrinter.cumulColPlaysOverYears[college.name][int(player.yearDrafted)] = 1
+                else:
+                    CSVPrinter.cumulColPlaysOverYears[college.name][player.yearDrafted] += 1
+
+    @staticmethod
+    def _getCumulativePlayersPerCollegeByYear():
+        for year in CSVPrinter.years:
+            for college in CSVPrinter.cumulColPlaysOverYears:
+                if year not in CSVPrinter.cumulColPlaysOverYears[college] and year == min(CSVPrinter.years):
+                    CSVPrinter.cumulColPlaysOverYears[college][year] = 0
+                elif year not in CSVPrinter.cumulColPlaysOverYears[college]:
+                    CSVPrinter.cumulColPlaysOverYears[college][year] \
+                        = CSVPrinter.cumulColPlaysOverYears[college][year - 1]
+                elif int(year) != min(CSVPrinter.years):
+                    CSVPrinter.cumulColPlaysOverYears[college][year] \
+                        += CSVPrinter.cumulColPlaysOverYears[college][year - 1]
+
+    @staticmethod
+    def _writeToBarchartCSV(csvLocation):
+        header = ["college_team"]
+        csvArray = []
+        for year in CSVPrinter.years:
+            header.append(year)
+        csvArray.append(header)
+        for collegeName in CSVPrinter.cumulColPlaysOverYears:
+            collegeSums = [collegeName]
+            for year in CSVPrinter.years:
+                collegeSums.append(CSVPrinter.cumulColPlaysOverYears[collegeName][year])
+            csvArray.append(collegeSums)
+        with open(csvLocation, "w") as barChartCSV:
+            writer = csv.writer(barChartCSV)
+            writer.writerows(csvArray)
+        barChartCSV.close()
 
     @staticmethod
     def printPlayersAndEdgesToCSV(collegeList, NFLTeamList, edgeCSVLocation, labelCSVLocation,
@@ -203,52 +222,6 @@ class CSVPrinter:
         labelCSV.close()
 
     @staticmethod
-    def printBarChartCSV(playersList, csvLocation, awardedOnly):
-        data = {}
-        header = ["college_team"]
-        years = []
-        csvArray = []
-        for player in playersList:
-            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
-            if (awardedOnly and playerHasAward) or not awardedOnly:
-                if player.yearDrafted not in years:
-                    years.append(player.yearDrafted)
-                college = College.getCachedTeam(player.collegeID)
-                if college.name not in data:
-                    yearData = {player.yearDrafted: 1}
-                    data[college.name] = yearData
-                elif player.yearDrafted not in data[college.name]:
-                    data[college.name][player.yearDrafted] = 1
-                else:
-                    data[college.name][player.yearDrafted] += 1
-        years = list(reversed(years))
-        for year in years:
-            print(year)
-            for college in data:
-                if year not in data[college] and int(year) == 1974:
-                    print("Year not in and 1974")
-                    data[college][year] = 0
-                    print("College: " + college + " " + str(data[college][year]))
-                elif year not in data[college]:
-                    print("Year not in")
-                    data[college][year] = data[college][str(int(year) - 1)]
-                elif int(year) != 1974:
-                    print("Year is in")
-                    data[college][year] += data[college][str(int(year) - 1)]
-        for year in years:
-            header.append(year)
-        csvArray.append(header)
-        for collegeName in data:
-            collegeSums = [collegeName]
-            for year in years:
-                collegeSums.append(data[collegeName][year])
-            csvArray.append(collegeSums)
-        with open(csvLocation, "w") as barChartCSV:
-            writer = csv.writer(barChartCSV)
-            writer.writerows(csvArray)
-        barChartCSV.close()
-
-    @staticmethod
     def getModernNFLID(nflID):
         if nflID == "NFL32":
             nflID = "NFL22"
@@ -259,129 +232,3 @@ class CSVPrinter:
         if nflID == "NFL36":
             nflID = "NFL0"
         return nflID
-
-    @staticmethod
-    def printBipartiteHTML(playersList, htmlLocation, awardedOnly):
-        outerDict = {}
-        tempCounterDict = {}
-        counterDict = {}
-        for player in playersList:
-            playerHasAward = int(player.allPros) > 0 or int(player.proBowls) > 0
-            if (awardedOnly and playerHasAward) or not awardedOnly:
-                nflName = NFLTeam.getCachedTeam(CSVPrinter.getModernNFLID(player.nflTeamID)).name
-                collegeName = College.getCachedTeam(player.collegeID).name
-                if nflName not in outerDict:
-                    innerDict = {collegeName: 1}
-                    outerDict[nflName] = innerDict
-                elif collegeName not in outerDict[nflName]:
-                    outerDict[nflName][collegeName] = 1
-                else:
-                    outerDict[nflName][collegeName] += 1
-                if collegeName not in tempCounterDict:
-                    innerCounterDict = {nflName: 1}
-                    tempCounterDict[collegeName] = innerCounterDict
-                elif nflName not in tempCounterDict[collegeName]:
-                    tempCounterDict[collegeName][nflName] = 1
-                else:
-                    tempCounterDict[collegeName][nflName] += 1
-
-        for clg in tempCounterDict:
-            totalDraftees = 0
-            for nfl in tempCounterDict[clg]:
-                totalDraftees += tempCounterDict[clg][nfl]
-            counterDict[clg] = totalDraftees
-        topOfHTML = """
-<!DOCTYPE html>
-<meta charset="utf-8">
-<style>
-.mainBars rect{
-  fill-opacity: 0;
-  stroke-width: 0.5px;
-  stroke: rgb(0, 0, 0);
-  stroke-opacity: 0;
-}
-.subBars{
-	shape-rendering:crispEdges;
-}
-.header{
-	text-anchor:middle;
-	font-size:16px;
-}
-</style>
-<body>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="http://vizjs.org/viz.v1.1.0.min.js"></script>
-<script>
-"""
-        dictionaryToString = '\nvar data = ['
-        for nflTeam in outerDict:
-            for college in outerDict[nflTeam]:
-                if counterDict[college] > 3:
-                    replacementCollegeName = college
-                    if "'" in college:
-                        replacementCollegeName = replacementCollegeName.replace("'", "`")
-                    dictionaryToString += "['" + nflTeam + "','" + replacementCollegeName + "'," \
-                                          + str(outerDict[nflTeam][college]) + "], " + "\n"
-        dictionaryToString += "]; "
-        dictionaryToString.replace("], \n];", "]];\n")
-        bottomOfHTML = """
-var color ={ARI:"#f03535", ATL:"#ab0909",  BAL:"#64017d", BUF:"#166af2", CAR:"#50b4f2",
- CHI:"#013263", CIN:"#f58905", CLE:"#b35b04", DAL:"#ada9a5", DEN:"#FF990A",
- DET:"#0AB6FF", GNB:"#FFD20A", HOU:"#012A7D", IND:"#E1F5FA", JAX:"#146B02",
- KAN:"#F7070F", LAC:"#2FD1FA", LAR:"#024BAB", MIA:"#07E88E", MIN:"#A835F0",
- NOR:"#B58610", NWE:"#002EAB", NYG:"#4768C4", NYJ:"#039C27", OAK:"#000000",
- PHI:"#02BA2D", PIT:"#FFEA05", SEA:"#05FF09", SFO:"#E80725", TAM:"#F71936",
- TEN:"#2D95F7", WAS:"#B83D5F"};
-var svg = d3.select("body").append("svg").attr("width", 700).attr("height", 2200);
-var g = svg.append("g").attr("transform","translate(200,50)");
-
-var bp=viz.bP()
-        .data(data)
-        .pad(1)
-        .min(8)
-        .height(2000)
-        .width(300)
-        .barSize(35)
-        .fill(d=>color[d.primary]);
-g.call(bp);
-
-g.selectAll(".mainBars")
-    .on("mouseover",mouseover)
-    .on("mouseout",mouseout)
-
-<!--Names-->
-g.selectAll(".mainBars").append("text").attr("class","label")
-    .attr("x",d=>(d.part=="primary"? -30: 30))
-    .attr("y",d=>+6)
-    .text(d=>d.key)
-    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
-<!--Percent-->
-g.selectAll(".mainBars").append("text").attr("class","perc")
-    .attr("x",d=>(d.part=="primary"? -90: 180))
-    .attr("y",d=>+6)
-    .text(function(d){ return d3.format("0.0%")(d.percent)})
-    .attr("text-anchor",d=>(d.part=="primary"? "end": "start"));
-
-function mouseover(d){
-    bp.mouseover(d);
-    g.selectAll(".mainBars")
-    .select(".perc")
-    .text(function(d){ return d3.format("0.0%")(d.percent)})
-}
-function mouseout(d){
-    bp.mouseout(d);
-    g.selectAll(".mainBars")
-        .select(".perc")
-        .text(function(d){ return d3.format("0.0%")(d.percent)})
-}
-d3.select(self.frameElement).style("height", "800px");
-</script>
-</body>
-</html>
-        """
-
-        entireHTML = topOfHTML + dictionaryToString + bottomOfHTML
-        with open(htmlLocation, "w") as htmlwriter:
-            htmlwriter.write(entireHTML)
-        htmlwriter.close()
-
