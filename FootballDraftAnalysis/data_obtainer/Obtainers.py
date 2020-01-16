@@ -1,4 +1,5 @@
 from printers.CSVPrinter import CSVPrinter
+from printers.HTMLPrinter import HTMLPrinter
 from scraper.NFLDataScraper import NFLPlayerScraper
 from generators.ProFootballReferenceURLGenerator import ProFootballReferenceURLGenerator
 
@@ -11,6 +12,23 @@ class DraftDataObtainer:
     gatherURL = "Gathering URLs"
     scraping = "Scraping data from each URL's HTML"
 
+    @staticmethod
+    def obtainAllTimeDrafted():
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.allTimeURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing All Time Players Data to CSVs.")
+        CSVPrinter.printAllEdgesCSVAndLabelsCSV(DraftDataObtainer.scraper.playerList,
+                                                DraftDataObtainer.baseCSVDirectory + "AllTimeEdgesCSV.csv",
+                                                DraftDataObtainer.baseCSVDirectory + "AllTimeLabelsCSV.csv")
+        print(DraftDataObtainer.finishedMessage)
+
+    def 
     @staticmethod
     def obtainAllPlayers():
         if len(DraftDataObtainer.urlList) == 0:
@@ -151,6 +169,24 @@ class DraftDataObtainer:
         print(DraftDataObtainer.finishedMessage)
 
     @staticmethod
+    def obtainBarChartDataDBs(awardedOnly):
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.allTimeURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing Bar Chart Data to CSVs.")
+        bartChartCSV = DraftDataObtainer.baseCSVDirectory + "BarChartCSVDBs"
+        if awardedOnly:
+            bartChartCSV = bartChartCSV + "Awarded"
+        bartChartCSV = bartChartCSV + ".csv"
+        CSVPrinter.printBarChartCSVDBs(DraftDataObtainer.scraper.playerList, bartChartCSV, awardedOnly)
+        print(DraftDataObtainer.finishedMessage)
+
+    @staticmethod
     def obtainBarChartData(awardedOnly):
         if len(DraftDataObtainer.urlList) == 0:
             print(DraftDataObtainer.gatherURL)
@@ -162,6 +198,24 @@ class DraftDataObtainer:
             DraftDataObtainer.scraper.scrape()
         print("Printing Bar Chart Data to CSVs.")
         bartChartCSV = DraftDataObtainer.baseCSVDirectory + "BarChartCSV"
+        if awardedOnly:
+            bartChartCSV = bartChartCSV + "Awarded"
+        bartChartCSV = bartChartCSV + ".csv"
+        CSVPrinter.printBarChartCSV(DraftDataObtainer.scraper.playerList, bartChartCSV, awardedOnly)
+        print(DraftDataObtainer.finishedMessage)
+
+    @staticmethod
+    def obtainBarChartAllTimeData(awardedOnly):
+        if len(DraftDataObtainer.urlList) == 0:
+            print(DraftDataObtainer.gatherURL)
+            DraftDataObtainer.urlList = ProFootballReferenceURLGenerator.createURLList()
+        if DraftDataObtainer.scraper is None:
+            DraftDataObtainer.scraper = NFLPlayerScraper(DraftDataObtainer.urlList)
+        if len(DraftDataObtainer.scraper.playerList) == 0:
+            print(DraftDataObtainer.scraping)
+            DraftDataObtainer.scraper.scrape()
+        print("Printing Bar Chart Data to CSVs.")
+        bartChartCSV = DraftDataObtainer.baseCSVDirectory + "BarChartAllTimeCSV"
         if awardedOnly:
             bartChartCSV = bartChartCSV + "Awarded"
         bartChartCSV = bartChartCSV + ".csv"
@@ -184,10 +238,10 @@ class DraftDataObtainer:
         if awardedOnly:
             html = html + "Awarded"
         html = html + ".html"
-        CSVPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html, awardedOnly)
+        HTMLPrinter.printBipartiteHTML(DraftDataObtainer.scraper.playerList, html, awardedOnly)
         print(DraftDataObtainer.finishedMessage)
 
-
+"""
 DraftDataObtainer.obtainAllPlayers()
 DraftDataObtainer.obtainAwardedPlayers()
 DraftDataObtainer.obtainRoundsRange(1, 3, False)
@@ -224,3 +278,4 @@ DraftDataObtainer.obtainBarChartData(True)
 DraftDataObtainer.obtainBarChartData(False)
 DraftDataObtainer.obtainBipartite(True)
 DraftDataObtainer.obtainBipartite(False)
+"""
