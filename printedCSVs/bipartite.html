@@ -4446,6 +4446,20 @@ var sankey = d3.sankey()
 nodes.forEach(n => n.layer = n.group === "team" ? 0 : 1);
 var graph = sankey({nodes: nodes.map(d => Object.assign({}, d)), links: links.map(l => Object.assign({}, l))});
 
+// Cache original dimensions for resetting and later scaling
+graph.nodes.forEach(n => {
+    n.baseHeight = Math.max(1, n.y1 - n.y0);
+    n.baseY = n.y0;
+    n.center = (n.y0 + n.y1)/2;
+});
+
+// Map of team/college link values and global maximum for scaling
+var linkValue = new Map();
+graph.links.forEach(l => {
+    linkValue.set(l.source.name + "|" + l.target.name, l.value);
+});
+var maxLinkValue = d3.max(graph.links, l => l.value);
+
 // Build an adjacency map for quick lookup of connected nodes
 var adjacency = new Map();
 graph.links.forEach(l => {
@@ -4476,9 +4490,9 @@ var node = svg.append("g")
   .data(graph.nodes)
   .enter().append("rect")
     .attr("x", d => d.x0)
-    .attr("y", d => d.y0)
+    .attr("y", d => d.baseY)
     .attr("width", d => d.x1 - d.x0)
-    .attr("height", d => Math.max(1, d.y1 - d.y0))
+    .attr("height", d => d.baseHeight)
     .attr("fill", d => color[d.name] || "#ccc")
     .attr("stroke", "#000")
     .on("mouseover", highlight)
@@ -4490,7 +4504,7 @@ var label = svg.append("g")
   .data(graph.nodes)
   .enter().append("text")
     .attr("x", d => d.layer === 0 ? d.x0 - 6 : d.x1 + 6)
-    .attr("y", d => (d.y1 + d.y0) / 2)
+    .attr("y", d => d.center)
     .attr("dy", "0.35em")
     .attr("text-anchor", d => d.layer === 0 ? "end" : "start")
     .text(d => d.name)
@@ -4503,12 +4517,40 @@ function highlight(event, d){
   node.attr("opacity", n => connected.has(n) ? 1 : 0.1);
   label.attr("opacity", n => connected.has(n) ? 1 : 0.1);
   link.attr("stroke-opacity", l => (l.source === d || l.target === d) ? 0.8 : 0.05);
+
+  if(d.group === "team"){
+    node.filter(n => n.group === "college").each(function(n){
+      var val = linkValue.get(d.name + "|" + n.name) || 0;
+      var lbl = label.filter(l => l.name === n.name);
+      if(val === 0){
+        d3.select(this).attr("visibility","hidden");
+        lbl.attr("visibility","hidden");
+      } else {
+        var factor = 0.5 + (val / maxLinkValue);
+        var newH = n.baseHeight * factor;
+        var newY = n.center - newH/2;
+        d3.select(this)
+          .attr("visibility","visible")
+          .attr("y", newY)
+          .attr("height", newH);
+        lbl.attr("visibility","visible")
+           .attr("y", n.center);
+      }
+    });
+  }
 }
 
 function reset(){
   node.attr("opacity", 1);
   label.attr("opacity", 1);
   link.attr("stroke-opacity", 0.4);
+  node.filter(n => n.group === "college")
+      .attr("visibility","visible")
+      .attr("y", n => n.baseY)
+      .attr("height", n => n.baseHeight);
+  label.filter(n => n.group === "college")
+      .attr("visibility","visible")
+      .attr("y", n => n.center);
 }
 </script>
 </body>
