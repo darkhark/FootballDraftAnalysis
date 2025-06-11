@@ -1,0 +1,20 @@
+# Core data analysis
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Data processing
+scipy
+
+# Development tools
+jupyter
+ipykernel
+pytest
+black
+flake8 
