@@ -4537,6 +4537,25 @@ function highlight(event, d){
            .attr("y", n.center);
       }
     });
+  } else if(d.group === "college"){
+    node.filter(n => n.group === "team").each(function(n){
+      var val = linkValue.get(n.name + "|" + d.name) || 0;
+      var lbl = label.filter(l => l.name === n.name);
+      if(val === 0){
+        d3.select(this).attr("visibility","hidden");
+        lbl.attr("visibility","hidden");
+      } else {
+        var factor = 0.5 + (val / maxLinkValue);
+        var newH = n.baseHeight * factor;
+        var newY = n.center - newH/2;
+        d3.select(this)
+          .attr("visibility","visible")
+          .attr("y", newY)
+          .attr("height", newH);
+        lbl.attr("visibility","visible")
+           .attr("y", n.center);
+      }
+    });
   }
 }
 
@@ -4544,12 +4563,10 @@ function reset(){
   node.attr("opacity", 1);
   label.attr("opacity", 1);
   link.attr("stroke-opacity", 0.4);
-  node.filter(n => n.group === "college")
-      .attr("visibility","visible")
+  node.attr("visibility","visible")
       .attr("y", n => n.baseY)
       .attr("height", n => n.baseHeight);
-  label.filter(n => n.group === "college")
-      .attr("visibility","visible")
+  label.attr("visibility","visible")
       .attr("y", n => n.center);
 }
 </script>
