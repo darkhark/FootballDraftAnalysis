@@ -4446,6 +4446,15 @@ var sankey = d3.sankey()
 nodes.forEach(n => n.layer = n.group === "team" ? 0 : 1);
 var graph = sankey({nodes: nodes.map(d => Object.assign({}, d)), links: links.map(l => Object.assign({}, l))});
 
+// Build an adjacency map for quick lookup of connected nodes
+var adjacency = new Map();
+graph.links.forEach(l => {
+    if(!adjacency.has(l.source)) adjacency.set(l.source, new Set());
+    if(!adjacency.has(l.target)) adjacency.set(l.target, new Set());
+    adjacency.get(l.source).add(l.target);
+    adjacency.get(l.target).add(l.source);
+});
+
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left*2)
     .attr("height", height + margin.top)
@@ -4489,11 +4498,8 @@ var label = svg.append("g")
     .on("mouseout", reset);
 
 function highlight(event, d){
-  var connected = new Set([d]);
-  graph.links.forEach(l => {
-    if(l.source === d) connected.add(l.target);
-    if(l.target === d) connected.add(l.source);
-  });
+  var connected = adjacency.get(d) || new Set();
+  connected.add(d);
   node.attr("opacity", n => connected.has(n) ? 1 : 0.1);
   label.attr("opacity", n => connected.has(n) ? 1 : 0.1);
   link.attr("stroke-opacity", l => (l.source === d || l.target === d) ? 0.8 : 0.05);
